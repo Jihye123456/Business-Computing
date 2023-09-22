@@ -1,0 +1,2234 @@
+Age,Gender,City,Seniority level,Position ,Total years of experience,Yearly salary,Number of vacation days,Main language at work,Company type,Contract,Year
+21,Male,Nizhny Novgorod ,Junior,Mobile Developer,1,6000,30,Russian,Outsource,Temporary contract,2019
+27,Male,Hamburg,Middle,Backend Developer,3,10001,24,English,Consulting / Agency,Temporary contract,2020
+22,Male,Istanbul,Middle,Backend Developer,3,10001,0,English,Startup,unlimited,2020
+24,Male,Aachen,Junior,HiWi,3,10164,14,English,University,Temporary contract,2020
+27,Male,Bucharest,Junior,QA Engineer,1,11000,24,English,Others,unlimited,2020
+24,Male,Berlin,Junior,ML Engineer,0.8,11500,24,English,Consulting / Agency,Temporary contract,2020
+30,Male,Samara,Middle,Backend Developer,2,12000,24,English,Others,unlimited,2020
+25,Female,Hamburg,Student,working student (QA),1,12000,12,English,Product,Temporary contract,2020
+30,Male,Moscow,Middle,Backend Developer,2,13000,28,Russian,Startup,unlimited,2020
+32,Female,Riga,Junior,Backend Developer,1,13200,20,English,Consulting / Agency,unlimited,2019
+28,Male,Gdańsk,Middle,Data Scientist,5,14000,25,English,Bodyshop / Outsource,unlimited,2019
+20,Male,Kyiv,Junior,Machine Learning Engineer,1,14400,20,Russian,Startup,unlimited,2019
+24,Male,Berlin,Working Student,Backend Developer,1,14400,24,German,Startup,Temporary contract,2020
+30,Male,Moscow,Middle,Software Engineer,5,14712,30,Russian,Product,unlimited,2020
+21,Male,Saint-Petersburg ,Middle,Backend Developer,1,15600,28,Russian,Bodyshop / Outsource,Temporary contract,2019
+24,Female,Munich,student,Software Engineer,1,16320,10,English,Startup,unlimited,2020
+27,Female,Lisbon,Middle,Backend Developer,3,17500,22,English,Consulting / Agency,unlimited,2020
+29,Male,Cracovia,Middle,Frontend Developer,2,18700,22,Polish,Product,unlimited,2020
+31,Male,Stuttgart,Senior,Data Engineer,3,20000,24,Russian,Bodyshop / Outsource,Temporary contract,2019
+31,Male,Moscow,Lead,Data Scientist,2.5,20000,30,Russian,Bank,unlimited,2020
+29,Female,Berlin,intern,Data Scientist,0,20000,25,English,Product,Temporary contract,2020
+26,Male,Saint-Petersburg,Middle,Project Manager,5,20000,24,Russian,Product,unlimited,2020
+26,Male,Saint-Petersburg,Middle,Project Manager,5,20000,24,Russian,Product,unlimited,2020
+26,Male,Lisbon,Middle,Software Engineer,4,21000,22,English,Product,unlimited,2020
+27,Male,Prague,Middle,Software Engineer,3,21120,21,Czech,Product,Temporary contract,2020
+30,Male,Vienna,Junior,Frontend Developer,2,21600,25,English,Startup,unlimited,2019
+22,Male,Kyiv,Junior,Data Scientist,1,21600,24,Ukrainian,Product,unlimited,2019
+39,Male,Warsaw,Senior,Researcher,15,22000,26,English,Product,unlimited,2019
+29,Male,Barcelona,Junior,Data Scientist,0,22000,22,English,Product,unlimited,2020
+25,Female,Tampere (Finland),Junior,computer vision researcher,3,23000,30,English,Science Institute ,Temporary contract,2020
+18,Female,Marburg,Junior,Fullstack Developer,0,23500,30,Deutsch,Product,Temporary contract,2019
+25,Male,Moscow,Middle,Frontend Developer,3,24000,40,Russian,Product,unlimited,2019
+27,Male,Berlin,Head,"CTO (CEO, CFO)",6,24000,4,English,Startup,unlimited,2019
+26,Male,"Riga, Latvia",Middle,Software Engineer,4,24000,20,English,Consulting / Agency,unlimited,2020
+22,Female,Eindhoven,Junior,Frontend Developer,2,24000,24,English,Product,unlimited,2020
+26,Male,Berlin,Junior,Backend Developer,2,25000,24,German,Product,unlimited,2020
+28,Male,Frankfurt,Lead,XR Developer,8,25000,1,English,Startup,Temporary contract,2020
+27,Male,Rome,Junior,Data Scientist,2,25300,24,Italian,Consulting / Agency,Temporary contract,2020
+33,Male,Frankfurt,Senior,Software Engineer,10,26400,24,English,Startup,unlimited,2020
+22,Male,Warsaw,Middle,Backend Developer,3,27000,21,Polish,Consulting / Agency,unlimited,2020
+30,Male,Kiev,Middle,Backend Developer,8,27000,21,Русский,Product,Temporary contract,2020
+28,Male,Moscow,Lead,Fullstack Developer,6,27977,24,Russian,Product,unlimited,2019
+28,Male,Moldova,Middle,Backend Developer,4,28000,24,English,Startup,unlimited,2020
+21,Male,Moscow,Middle,Data Scientist,4,28300,28,English,Consulting / Agency,Temporary contract,2019
+50,Male,Berlin,Lead,Software Engineer,29,28800,30,German,IT-Outsourcing,unlimited,2020
+24,Female,Prague,Middle,Software Engineer,3,29000,20,English,Startup,unlimited,2020
+23,Male,Cologne,Junior,Fullstack Developer,1,30000,24,Deutsch,Startup,Temporary contract,2019
+24,Male,Moscow,Middle,Machine Learning Engineer,2,30000,28,Russian,Product,unlimited,2019
+24,Male,Saint Petersburg,Middle,Fullstack Developer,4,30000,28,Russian,Bodyshop / Outsource,unlimited,2019
+33,Male,Moscow,Senior,Mobile Developer,12,30000,28,Russian,Startup,unlimited,2019
+25,Male,Berlin,Middle,Fullstack Developer,3,30000,27,Deutsch,Startup,unlimited,2019
+24,Male,Tallinn,Junior,Software Engineer,3,30000,28,English,Product,unlimited,2020
+30,Male,Berlin,Junior,Product Manager,3,30000,30,English,Product,unlimited,2020
+30,Male,Berlin,Junior,Product Manager,3,30000,30,English,Product,unlimited,2020
+35,Male,Berlin,Junior,Software Engineer,1,30000,26,German,Product,unlimited,2020
+48,Male,Madrid,Senior,DevOps,15,30000,30,English,Startup,unlimited,2020
+35,Male,Murnau am Staffelsee ,Middle,Beikoch,1,30000,20,German,Biergarten ,Temporary contract,2020
+28,Male,Sevilla,Middle,DatabEngineer,4,30000,24,Spanish,Consulting / Agency,unlimited,2020
+23,Female,Moscow,Middle,Data Engineer,4,32000,28,Russian,Product,unlimited,2019
+33,Female,Berlin,Junior,Business Analyst,1,32000,28,English,Startup,Temporary contract,2019
+31,Female,Berlin,Middle,Graphic Designer,11,32000,27,English,Startup,Temporary contract,2020
+29,Male,Milan,Middle,Data Scientist,3,32000,24,English,Startup,unlimited,2020
+26,Female,Hannover,Middle,QA Engineer,2,32000,30,German,Non-tech retail,unlimited,2020
+34,Male,Berlin,Head,"CTO (CEO, CFO)",14,32000,20,English,Startup,unlimited,2019
+38,Male,Hamburg,Junior,Backend Developer,18,32000,24,English,Product,unlimited,2019
+24,Male,Brussels,Junior,Data Scientist,2,33000,31,French,Consulting / Agency,unlimited,2019
+26,Female,Moscow,Senior,Frontend Developer,6,33000,24,Russian,Product,unlimited,2020
+31,Male,Prague,Senior,DevOps,11,33200,25,English,Product,unlimited,2019
+30,Female,Berlin,Junior,QA,1,34000,30,English,Startup,unlimited,2019
+24,Male,Saint Petersburg,Middle,Fullstack Developer,5,34000,28,Russian,Bodyshop / Outsource,unlimited,2019
+26,Male,Kyiv,Senior,Mobile Developer,5,34000,25,English,Product,Temporary contract,2019
+23,Male,Warsaw,Middle,Software Engineer,4,34000,28,English,Product,Temporary contract,2020
+45,Male,Berlin,Middle,Data Engineer,14,34446,24,English,Product,unlimited,2019
+35,Male,Berlin,Senior,Fullstack Developer,15,35000,20,English,Product,unlimited,2019
+38,Male,Berlin,Senior,Backend Developer,11,35000,24,English,Startup,unlimited,2020
+22,Male,Zürich,Intern,Product Management Praktikant,2,35000,24,German,Startup,Temporary contract,2020
+27,Male,Krakow,Senior,QA Engineer,5,35000,28,English,Product,Temporary contract,2020
+25,Female,Moscow,Senior,Frontend Developer,5,35300,28,Russian,Product,unlimited,2019
+36,Male,Berlin,Middle,Support,19,36000,24,English,Startup,Temporary contract,2019
+45,Female,Munich,Junior,Frontend Developer,2,36000,27,Deutsch,Consulting / Agency,unlimited,2019
+38,Female,Frankfurt,Junior,Frontend Developer,1,36000,30,Deutsch,Consulting / Agency,unlimited,2019
+33,Male,Kyiv,Middle,System Administrator,15,36000,24,Russian,Consulting / Agency,unlimited,2019
+28,Female,Frankfurt,Junior,Mainframe,1,36000,28,Deutsch,Startup,unlimited,2019
+33,Male,Berlin,Junior,Support,2,36000,25,Deutsch,Product,unlimited,2019
+23,Male,Jyvaskyla,Middle,Backend Developer,2,36000,30,English,Product,unlimited,2019
+23,Male,Tampere,Junior,Frontend Developer,1,36000,40,English,Others,unlimited,2019
+36,Male,Antwerpen,Middle,Manager,15,36000,20,English,Bodyshop / Outsource,unlimited,2019
+28,Male,Rome,Middle,ML Engineer,2,36000,36,English,Product,unlimited,2020
+42,Male,Wroclaw,Senior,Software Engineer,16,36000,30,English,Product,unlimited,2020
+32,Male,Prague,Senior,Software Engineer,8,36000,25,Czech,Product,unlimited,2020
+23,Female,Berlin,Junior,Data analyst ,1,36000,28,English,Startup,unlimited,2020
+41,Male,Berlin,Senior,Designer (UI/UX),20,36000,24,English,Others,Temporary contract,2020
+23,Male,Moscow,Middle,Backend Developer,3,36819,28,Russian,Product,unlimited,2019
+26,Male,London,Middle,DevOps,3,37000,25,English,Product,unlimited,2020
+36,Male,Nürnberg,Junior,Frontend Developer,1,37500,28,German,Startup,Temporary contract,2020
+29,Male,Milan,Middle,Data Scientist,4,37500,16,Italian,Consulting / Agency,unlimited,2020
+32,Male,Hamburg,Middle,ML Engineer,4,37500,24,German,Consulting / Agency,unlimited,2020
+25,Male,Brussels ,Junior,Data Scientist,1,38000,20,English,Consulting / Agency,unlimited,2020
+26,Male,Saarbrücken,Middle,Frontend Developer,7,38350,27,German,Product,unlimited,2020
+36,Male,Kyiv,Middle,DevOps,3,38400,24,Russian,Bodyshop / Outsource,unlimited,2019
+34,Female,Kyiv,Senior,Researcher,13,38400,27,English,University,unlimited,2019
+22,Female,Berlin,Middle,Business Development Manager Operations ,4,39000,24,English,Startup,Temporary contract,2020
+28,Male,Paris,Middle,Fullstack Developer,3,39400,25,French,Consulting / Agency,unlimited,2019
+22,Male,Amsterdam,Junior,Fullstack Developer,1,39600,25,English,Startup,Temporary contract,2019
+26,Male,Berlin,Junior,Researcher,1,40000,30,English,University,Temporary contract,2019
+29,Female,Berlin,Middle,Data Scientist,2,40000,29,English,Others,unlimited,2019
+35,Female,Berlin,Middle,QA,3,40000,28,English,Product,unlimited,2019
+36,Male,Berlin,Middle,Researcher,4,40000,28,English,University,Temporary contract,2020
+26,Female,Berlin,Middle,Tech recruiting,3,40000,25,English,Product,unlimited,2020
+35,Female,Berlin,Junior,Frontend Developer,2,40000,30,English,Startup,unlimited,2020
+30,Male,Barcelona,Senior,Data Scientist,5,40000,25,Spanish,Consulting / Agency,unlimited,2020
+26,Female,Berlin,Middle,Mobile Developer,8,40000,36,German,Product,Temporary contract,2020
+27,Male,Berlin,Junior,Data Engineer,0,40000,30,German,Consulting / Agency,unlimited,2020
+30,Male,Gothenburg,Senior,Backend Developer,8,40146,24,English,Product,unlimited,2019
+38,Male,Berlin,Middle,Backend Developer,15,40700,25,English,Consulting / Agency,unlimited,2020
+22,Male,Leipzig,Middle,Frontend Developer,3,40800,28,German,Product,unlimited,2020
+26,Male,Hamburg,Middle,Frontend Developer,5,41160,25,English,Product,unlimited,2019
+25,Female,Munich,Junior,Frontend Developer,2,42000,30,Deutsch,Consulting / Agency,unlimited,2019
+27,Female,Nuremberg,Middle,Business Analyst,5,42000,25,English,Product,unlimited,2019
+34,Male,Freiburg,Middle,Backend Developer,2,42000,28,English,Consulting / Agency,unlimited,2019
+32,Female,Berlin,Senior,QA,8,42000,26,English,Product,unlimited,2019
+29,Male,Rotterdam,Middle,Data Scientist,1,42000,25,English,Consulting / Agency,Temporary contract,2019
+29,Male,Berlin,Middle,QA,7,42000,25,English,Consulting / Agency,Temporary contract,2019
+36,Male,Berlin,Middle,Software Engineer,7,42000,25,English and German,Product,unlimited,2020
+30,Male,Ansbach,Junior,Software Engineer,4,42000,27,English,Product,unlimited,2020
+28,Male,Wolfsburg,Middle,Software Engineer,3,42000,30,English,Consulting / Agency,unlimited,2020
+33,Female,Berlin,Middle,Designer (UI/UX),6,42000,28,English,Product,unlimited,2020
+42,Female,Berlin,Middle,QA Engineer,10,42000,24,English,Startup,unlimited,2020
+33,Male,Prague,Senior,Designer (UI/UX),7,42000,24,English,Product,unlimited,2020
+25,Male,Marseille,Junior,Data Scientist,1,42000,30,English,Startup,unlimited,2020
+27,Female,Berlin,Junior,Backend Developer,1,42000,28,German,Product,unlimited,2020
+45,Male,Madrid,Senior,Data Scientist,2,42000,24,Spanish,Consulting / Agency,unlimited,2020
+35,Male,Fr,Middle,Backend Developer,4,42000,28,English,Consulting / Agency,unlimited,2020
+22,Female,Amsterdam,Junior,DevOps,2,43000,27,English,Others,unlimited,2019
+29,Male,Berlin,Middle,Frontend Developer,3,43000,28,English,Product,unlimited,2020
+38,Male,Stuttgart ,Middle,Backend Developer,4,43000,30,English,Consulting / Agency,unlimited,2020
+28,Male,Berlin,Junior,ML Engineer,1,43000,14,English,Startup,unlimited,2020
+25,Female,Munich,Junior,Manager,1,43200,26,Deutsch,Consulting / Agency,unlimited,2019
+25,Male,Hamburg,Junior,Software Engineer,1,43500,28,German,Startup,unlimited,2020
+24,Male,Stuttgart,Junior,DevOps,2,44000,30,Deutsch,Product,unlimited,2019
+26,Male,Frankfurt,Junior,Business Analyst,1,44000,28,Deutsch,Consulting / Agency,unlimited,2019
+35,Male,Berlin,Middle,System Administrator,14,44000,27,English,Startup,Temporary contract,2020
+24,Male,Frankfurt,Middle,Frontend Developer,3,44000,26,English,Product,unlimited,2020
+28,Male,Cologne,Middle,Backend Developer,4,44000,30,German,Product,unlimited,2020
+25,Male,Berlin,Middle,Mobile Developer,2,44000,27,English,Product,unlimited,2020
+46,Male,Berlin,Middle,System Administrator,7,45000,25,Deutsch,Consulting / Agency,unlimited,2019
+29,Male,Krakow,Senior,QA,7,45000,26,English,Product,unlimited,2019
+24,Male,Frankfurt,Junior,DevOps,1,45000,28,Deutsch,Consulting / Agency,unlimited,2019
+31,Male,Wroclaw,Senior,Backend Developer,10,45000,28,English,Consulting / Agency,Temporary contract,2019
+26,Female,Frankfurt,Middle,Manager,2,45000,30,Deutsch,Product,unlimited,2019
+36,Female,Berlin,Junior,Backend Developer,3,45000,30,English,Product,unlimited,2019
+22,Male,London,Senior,"CTO (CEO, CFO)",3,45000,30,English,Startup,unlimited,2019
+26,Male,Odesa,Senior,Data Scientist,3,45000,20,Russian,Bodyshop / Outsource,Temporary contract,2019
+27,Female,Düsseldorf,Junior,Data Scientist,1,45000,30,English,Product,unlimited,2019
+34,Female,Berlin,Junior,Software Architect,2,45000,30,Deutsch,Product,Temporary contract,2019
+31,Female,Berlin,Junior,Data Scientist,1,45000,28,English,Startup,unlimited,2019
+35,Female,Braunschweig,Senior,Embedded Developer,5,45000,75,Deutsch,Bodyshop / Outsource,unlimited,2019
+28,Male,Amsterdam,Middle,QA,2,45000,28,English,Product,Temporary contract,2019
+37,Male,Frankfurt,Junior,Embedded Developer,2,45000,28,English,Product,unlimited,2019
+41,Male,Kiev,Senior,Backend Developer,19,45000,24,Russian,Product,unlimited,2019
+29,Female,Berlin,Middle,QA Engineer,7,45000,26,English,Startup,unlimited,2020
+28,Female,Berlin,Middle,Designer (UI/UX),7,45000,28,German,Product,unlimited,2020
+28,Female,Berlin,Middle,Designer (UI/UX),7,45000,28,German,Product,unlimited,2020
+31,Male,Mannheim ,Senior,Firmware Engineer,10,45000,30,English,Product,Temporary contract,2020
+29,Male,Düsseldorf,Junior,Consultant Data Analytics,1,45000,30,German,Consulting / Agency,unlimited,2020
+27,Male,Berlin,Middle,Frontend Developer,8,45000,28,English,Product,unlimited,2020
+28,Male,Kyiv,Senior,Mobile Developer,5,45000,20,English,Product,unlimited,2020
+26,Female,Berlin,Middle,Data Scientist,4,45000,25,English,Startup,Temporary contract,2020
+23,Male,Berlin,Middle,Dana Analyst,4,45000,26,English,Product,unlimited,2020
+31,Female,Ulm,Middle,QA Engineer,8,45000,30,English,Product,unlimited,2020
+30,Female,Düsseldorf ,Junior,Analyst,2,45000,28,English,Product,unlimited,2020
+30,Male,Hannover,Middle,Software Engineer,5,45000,30,English,Startup,unlimited,2020
+44,Female,Berlin,Junior,ML Engineer,13,45000,24,English,Consulting / Agency,unlimited,2020
+25,Female,Berlin,Middle,support engineer,2,45000,26,English,Startup,unlimited,2020
+27,Male,Cologne,Junior,Software Engineer,1,45000,30,German,Product,unlimited,2020
+22,Male,Frankfurt,Junior,Software Engineer,2,45000,30,German,Bank,unlimited,2020
+25,Female,Cambridge,Middle,Frontend Developer,4,45000,28,English,Product,unlimited,2020
+34,Female,Berlin,Senior,Designer (UI/UX),10,45000,30,German,Product,unlimited,2020
+28,Male,Brussels,Middle,Robotics Engineer,3,45000,25,English,Startup,unlimited,2020
+38,Male,Berlin,Junior,Full-Stack Developer,1,45500,28,English,Startup,unlimited,2020
+32,Female,Berlin,Junior,Data Scientist,1,45600,25,Deutsch,Startup,Temporary contract,2019
+27,Male,Heidelberg,Junior,Fullstack Developer,1,45600,24,English,University,Temporary contract,2019
+23,Male,Stockholm,Senior,Frontend Developer,5,45600,30,English,Consulting / Agency,unlimited,2020
+34,Male,Munich,Junior,Backend Developer,3,46000,24,Deutsch,Product,unlimited,2019
+41,Female,Munich,Middle,QA,9,46000,28,Deutsch,Product,unlimited,2019
+29,Female,Berlin,Middle,Machine Learning Engineer,3,46000,30,English,Startup,unlimited,2019
+25,Female,Cologne,Junior,IT Security,2,46000,30,Deutsch,Others,unlimited,2019
+35,Female,Madrid,Middle,Sales Engineer,12,46000,22,Spanish,Product,unlimited,2019
+26,Male,Moscow,Middle,Data Scientist,3,46000,25,English,Consulting / Agency,unlimited,2019
+26,Male,Berlin,Middle,Machine Learning Engineer,3,46000,24,English,Product,Temporary contract,2019
+27,Male,Tuttlingen,Junior,Software Engineer,4,46000,30,German,Product,unlimited,2020
+47,Male,Hamburg,Senior,Software Engineer,22,46000,30,English,Product,unlimited,2020
+24,Male,Berlin,Middle,Backend Developer,4,46000,28,English,Startup,unlimited,2020
+42,Female,Berlin,Middle,QA Engineer,5,46000,26,English,Product,unlimited,2020
+37,Female,Hamburg,Middle,QA Manager,7,46000,30,German,Product,unlimited,2020
+35,Female,Munich,Junior,Application Consultant,2,46000,28,English,Consulting / Agency,unlimited,2020
+26,Female,Berlin,Junior,Data Scientist,2,47000,26,English,Startup,unlimited,2019
+28,Male,Berlin,Junior,Frontend Developer,2,47000,26,German,Publishing and Technology,unlimited,2020
+26,Female,Berlin,Junior,Data Scientist,2,47000,25,English,Consulting / Agency,unlimited,2020
+37,Male,Berlin,Middle,Test manager,6,47400,28,German,Media,unlimited,2020
+32,Female,Munich,Middle,Fullstack Developer,10,47500,25,English,Bodyshop / Outsource,unlimited,2019
+42,Female,Munich,No level ,Software tester ,12,47500,28,German,Product,unlimited,2020
+33,Female,Munich,Senior,Software Engineer,10,47500,25,English,Outsourse,unlimited,2020
+33,Female,Berlin,Middle,Frontend Developer,13,47745,30,English,Product,unlimited,2020
+28,Female,London,Middle,Business Analyst,3,48000,30,English,Product,unlimited,2019
+25,Male,Munich,Junior,Data Scientist,1,48000,30,English,Product,unlimited,2019
+29,Male,Berlin,Middle,Data Engineer,3,48000,26,English,Startup,unlimited,2019
+31,Male,Berlin,Junior,Frontend Developer,3,48000,20,Deutsch,Consulting / Agency,unlimited,2019
+31,Male,Berlin,Middle,Backend Developer,3,48000,24,English,Product,unlimited,2019
+32,Male,Berlin,Junior,Data Scientist,2,48000,30,English,Product,Temporary contract,2019
+27,Male,Stuttgart,Senior,Fullstack Developer,6,48000,28,English,Product,unlimited,2019
+24,Female,Warsaw,Junior,RPA developer,1,48000,20,Polish,Bank,Temporary contract,2019
+26,Male,Berlin,Junior,UX Researcher,2,48000,21,English,Product,unlimited,2019
+40,Male,Nuremberg,Junior,Backend Developer,1,48000,30,English,Startup,unlimited,2019
+28,Male,Koblenz,Junior,Frontend Developer,2,48000,28,Deutsch,Product,unlimited,2019
+26,Male,Münster,Junior,Data Scientist,5.5,48000,26,German,Product,unlimited,2020
+24,Male,Boeblingen,Junior,C/C++/Java developer,0.8,48000,30,English,Product,unlimited,2020
+25,Male,Hamburg,Middle,Data Scientist,2,48000,28,German,Product,unlimited,2020
+26,Male,Frankfurt,Middle,Software Engineer,3,48000,27,English,Consulting / Agency,unlimited,2020
+24,Male,Berlin,Junior,Backend Developer,3,48000,28,English,Game Company,Temporary contract,2020
+30,Male,Utrecht,Middle,Data Scientist,2,48000,25,English,Product,Temporary contract,2020
+27,Male,Frankfurt,Middle,Software Engineer,5,48000,28,English,Consulting / Agency,unlimited,2020
+36,Female,Munich,Middle,Frontend Developer,10,48000,30,German,Product,unlimited,2020
+29,Male,Berlin,Middle,Frontend Developer,3,48000,26,English,Consulting / Agency,unlimited,2020
+32,Male,Siegen,Junior,Software Engineer,13,48000,28,English,Product,unlimited,2020
+26,Male,Eindhoven,Middle,ML Engineer,3,48000,30,English,Product,unlimited,2020
+32,Female,Berlin,Junior,BI Analyst ,1,48000,28,English,Startup,unlimited,2020
+28,Male,Berlin,Junior,ML Engineer,0,48000,30,English,Startup,unlimited,2020
+26,Male,Amsterdam,Junior,Data Scientist,2,48000,25,English,Fintech,Temporary contract,2020
+30,Female,Stockholm,Senior,QA Engineer,7,48000,30,English,Product,unlimited,2020
+28,Male,Wolfsburg,Junior,Software Engineer,2,48000,30,English,Product,unlimited,2020
+24,Male,Moscow,Senior,Product Manager,3,48000,28,Русский,Product,unlimited,2020
+35,Female,Hamburg,Middle,Data Scientist,3,49000,30,Deutsch,Consulting / Agency,unlimited,2019
+24,Female,Cologne,Junior,Data Scientist,1,49000,25,English,Consulting / Agency,unlimited,2019
+29,Female,Berlin,Middle,Backend Developer,3,49000,27,English,Product,unlimited,2019
+32,Female,Kempten,Middle,Fullstack Developer,10,49000,30,English and German,Product,unlimited,2020
+33,Male,Mannheim,Middle,Software Engineer,6,49000,28,English,Startup,unlimited,2020
+27,Male,Munich,Junior,Data Engineer,2,49000,30,German,Consulting / Agency,unlimited,2020
+35,Male,Berlin,Middle,Data Analyst,5,49000,26,English,Product,unlimited,2020
+23,Male,Munich,Junior,ML Engineer,1,49000,24,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,7,49000,12,English,Startup,Temporary contract,2020
+23,Male,Dublin,Senior,Data Analyst,3,49200,21,English,Product,unlimited,2020
+39,Male,Munich,Senior,Desktop/Unity3D Developer,15,49375,30,Deutsch,Product,unlimited,2019
+25,Female,Amsterdam,Middle,Data Scientist,1.5,49850,25,English,Startup,unlimited,2020
+23,Male,Berlin,Middle,Data Scientist,3,50000,28,English,Startup,unlimited,2019
+32,Female,Nuremberg,Senior,QA,8,50000,26,English,Product,unlimited,2019
+31,Male,Stuttgart,Middle,Mobile Developer,6,50000,30,Deutsch,Product,unlimited,2019
+32,Male,Frankfurt,Middle,Mobile Developer,4,50000,24,English,Product,unlimited,2019
+27,Male,Munich,Junior,Software Architect,3,50000,33,English,Product,unlimited,2019
+32,Male,Nuremberg,Middle,Data Scientist,2,50000,30,English,Consulting / Agency,unlimited,2019
+35,Female,Berlin,Junior,Frontend Developer,2,50000,26,English,Startup,unlimited,2019
+34,Male,Frankfurt,Middle,Data Scientist,3,50000,28,English,Product,unlimited,2019
+34,Male,Berlin,Middle,Frontend Developer,3,50000,27,English,Product,Temporary contract,2019
+33,Female,Berlin,Middle,Data Scientist,1,50000,30,English,Startup,unlimited,2019
+28,Female,Berlin,Junior,Data Scientist,1,50000,30,Deutsch,Consulting / Agency,unlimited,2019
+26,Male,Munich,Middle,Fullstack Developer,5,50000,25,English,Product,unlimited,2019
+33,Male,Cologne,Middle,Data Scientist,3,50000,25,English,Startup,Temporary contract,2019
+36,Male,Berlin,Middle,QA,6,50000,30,Deutsch,Product,Temporary contract,2019
+28,Female,Hamburg,Junior,Data Scientist,1,50000,27,English,Startup,unlimited,2019
+27,Female,Berlin,Middle,Backend Developer,5,50000,30,Deutsch,Consulting / Agency,unlimited,2019
+33,Male,Munich,Junior,Backend Developer,2,50000,24,English,Product,unlimited,2019
+24,Male,Berlin,Middle,Backend Developer,3,50000,26,English,Startup,unlimited,2019
+30,Male,Minsk,Senior,QA,9,50000,20,Russian,Product,Temporary contract,2019
+33,Male,Amsterdam,Middle,Researcher,8,50000,45,English,University,unlimited,2019
+33,Male,Frankfurt,Middle,Software Engineer,4,50000,24,English,Consulting / Agency,unlimited,2020
+27,Female,Hamburg,Senior,Account Manager,6,50000,28,English,Product,Temporary contract,2020
+35,Male,Berlin,Middle,Frontend Developer,4,50000,28,English,Product,unlimited,2020
+33,Female,Berlin,Senior,QA Engineer,8,50000,24,English,Startup,unlimited,2020
+30,Female,Berlin,Middle,QA Engineer,5,50000,30,German,Product,unlimited,2020
+53,Male,Stuttgart,Senior,Frontend Developer,15,50000,24,German,Product,unlimited,2020
+31,Female,Frankfurt,Junior,Software Engineer,2,50000,28,English,Consulting / Agency,unlimited,2020
+30,Male,Moscow,Junior,Backend Developer,2,50000,30,English,Product,unlimited,2020
+40,Female,Berlin,Junior,Software Engineer,2,50000,30,English,Startup,unlimited,2020
+27,Female,Munich,Junior,Mobile Developer,1,50000,27,English,Startup,unlimited,2020
+36,Male,Berlin,Middle,Data Scientist,5,50000,30,English,Startup,unlimited,2020
+31,Male,Hamburg,Middle,Data Scientist,9,50000,23,German,Product,unlimited,2020
+21,Female,Cologne,Middle,Mobile Developer,2,50000,24,English,Others,unlimited,2020
+35,Female,Frankfurt,Junior,Software Engineer,1,50000,30,German,Consulting / Agency,unlimited,2020
+24,Male,Berlin,Junior,Software Engineer,2,50000,30,German,Product,unlimited,2020
+28,Male,Frankfurt,Senior,Mobile Developer,5,50000,24,English,Consulting / Agency,unlimited,2020
+26,Male,Berlin,Middle,QA Engineer,6,50000,30,English,Product,unlimited,2020
+41,Male,Rome,Head,CTO,22,50000,31,Italian,Product,unlimited,2020
+35,Male,Berlin,Middle,Software Engineer,2,50000,45,English,Product,unlimited,2020
+30,Male,Munich,Middle,Data Scientist,2,50000,30,English,Startup,unlimited,2020
+28,Male,warsaw,Middle,Data Scientist,3,50000,21,English,Product,unlimited,2020
+28,Male,Cologne,Middle,Software Engineer,5,50000,25,Russian,Product,unlimited,2020
+27,Male,Hamburg,Junior,Backend Developer,0,50000,30,English,Startup,unlimited,2020
+27,Male,Dusseldurf,Middle,Backend Developer,2,50000,28,English,Product,unlimited,2020
+31,Male,Berlin,Middle,Data Engineer,4,50000,30,English,Product,unlimited,2020
+31,Male,Berlin,Middle,Backend Developer,4,50000,25,English,Product,unlimited,2020
+31,Male,Dusseldorf,Senior,Software Engineer,7,50400,27,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Designer (UI/UX),10,50400,29,German,Consulting / Agency,unlimited,2020
+32,Female,Berlin,Middle,Computational linguist,5,50400,29,English,Product,unlimited,2020
+31,Female,Berlin,Middle,Data Scientist,4,50500,30,English,Product,unlimited,2020
+28,Male,Lausanne,Junior,Researcher,7,50800,28,English,University,Temporary contract,2019
+29,Male,Berlin,Middle,Data Scientist,3,51000,28,English,Startup,unlimited,2019
+32,Female,Stuttgart,Middle,Manager,3,51000,25,English,Product,unlimited,2019
+28,Male,Berlin,Middle,Product Manager,3,51000,27,English,Product,unlimited,2020
+25,Male,Berlin,Junior,Data Scientist,1,51000,28,English,Product,unlimited,2020
+30,Male,Paderborn,Junior,Data Scientist,6,51000,30,German,Product,unlimited,2020
+35,Female,Munich,Middle,Backend Developer,4,51000,30,German,Insurance,unlimited,2020
+26,Male,Berlin,Middle,Data Engineer,4,51000,30,English,Consulting / Agency,unlimited,2020
+30,Female,Berlin,Middle,ML Engineer,5,51000,30,English,Startup,unlimited,2020
+25,Male,Cologne,Middle,ML Engineer,2,51000,24,English,Startup,Temporary contract,2020
+29,Female,Berlin,Middle,Project Manager,6,51000,28,English,Startup,unlimited,2020
+30,Male,Berlin,Middle,Fullstack Developer,2,51072,30,Deutsch,Consulting / Agency,unlimited,2019
+30,Male,Berlin,Middle,Backend Developer,4,51600,30,English,Consulting / Agency,unlimited,2019
+27,Male,Berlin,Middle,Manager,2,52000,27,English,Product,unlimited,2019
+34,Female,Berlin,Senior,"Designer (UI, UX)",8,52000,25,English,Startup,unlimited,2019
+24,Female,Frankfurt,Junior,Fullstack Developer,1,52000,30,Deutsch,Product,unlimited,2019
+28,Male,Berlin,Senior,Backend Developer,6,52000,20,English,Startup,Temporary contract,2019
+29,Female,Berlin,Middle,Frontend Developer,4,52000,30,English,Startup,unlimited,2019
+33,Male,Berlin,Senior,QA,14,52000,24,English,Product,unlimited,2019
+29,Male,Cologne,Middle,Manager,4,52000,30,English,Others,unlimited,2019
+38,Male,Berlin,Middle,DevOps,15,52000,29,English,Product,unlimited,2019
+28,Male,Munich,Junior,Data Scientist,2,52000,30,Deutsch,Consulting / Agency,unlimited,2019
+30,Male,Bremen,Junior,Backend Developer,2,52000,27,Deutsch,Product,unlimited,2019
+29,Female,Berlin,Middle,Backend Developer,6,52000,27,English,Product,unlimited,2019
+32,Female,Stuttgart,Junior,Stuttgart,2,52000,30,English,Product,unlimited,2020
+30,Female,Berlin,Middle,QA Engineer,4,52000,20,English,Startup,unlimited,2020
+45,Female,Berlin,Lead,Product Manager,15,52000,28,English,Product,unlimited,2020
+29,Female,Berlin,Junior,Data Scientist,2,52000,30,German,Consulting / Agency,unlimited,2020
+27,Female,Munich,Middle,Data Engineer,7,52000,29,English,Product,unlimited,2019
+30,Female,Munich,Senior,Software Engineer,8,52000,28,German,Consulting / Agency,unlimited,2020
+27,Male,Munich,Senior,Software Engineer,8,52000,28,English,Product,unlimited,2020
+27,Male,Frankfurt,Middle,Software Engineer,3,52000,27,German,Product,unlimited,2020
+25,Male,Karlsruhe,Middle,Machine Learning Engineer,4,52200,30,Deutsch,Consulting / Agency,unlimited,2019
+31,Female,Berlin,Junior,Machine Learning Engineer,1,52500,30,Deutsch,Consulting / Agency,unlimited,2019
+25,Male,Amsterdam,Junior,Backend Developer,2,52500,28.5,English,Bank,unlimited,2019
+32,Female,Hamburg,Junior,Data Engineer,2,52500,30,German,Consulting / Agency,unlimited,2020
+30,Male,Frankfurt,Middle,Data Scientist,5,52500,30,English,Startup,unlimited,2020
+36,Male,Bonn,Junior,DevOps,15,52500,30,English,Product,unlimited,2020
+26,Female,Amsterdam,Middle,Backend Developer,4,52800,29,English,Bank,unlimited,2019
+28,Male,"Warsaw, Poland",Middle,Software Engineer,6,52800,26,English,Consulting / Agency,unlimited,2020
+29,Male,Berlin,Middle,Data Scientist,2,53000,27,French,Product,unlimited,2019
+37,Male,Cologne,Middle,QA,4,53000,30,Deutsch,Consulting / Agency,unlimited,2019
+30,Male,Wroclaw,Middle,Manager,8,53000,26,English,Bodyshop / Outsource,unlimited,2019
+32,Male,Amsterdam,Middle,Backend Developer,5,53000,25,English,Product,unlimited,2019
+29,Male,Konstanz area,Middle,Mobile Developer,6,53000,26,English,Startup,unlimited,2020
+28,Female,Mannheim,Junior,Software Engineer,4,53000,30,English,Consulting / Agency,unlimited,2020
+35,Female,Berlin,Middle,Designer (UI/UX),15,53000,24,English,Product,unlimited,2020
+23,Male,Berlin,Middle,Software Engineer,5,53000,30,English,Product,unlimited,2020
+31,Male,Boeblingen,Senior,QA Engineer,6,53000,30,English,Consulting / Agency,unlimited,2020
+25,Female,Frankfurt,Middle,Software Engineer,3,53000,30,German,Product,unlimited,2020
+42,Male,Berlin,Middle,Backend Developer,18,53000,26,English,Product,unlimited,2020
+25,Male,Eindhoven,Senior,Backend Developer,6,53000,28,English,Product,unlimited,2019
+28,Female,Berlin,Middle,Data Analyst,3,53000,30,English,Product,unlimited,2020
+25,Male,Hamburg,Middle,Backend Developer,5,53500,29,English,Product,unlimited,2020
+27,Male,Munich,Middle,QA,3,53600,28,English,Product,unlimited,2019
+32,Male,Berlin,Middle,Backend Developer,2,53900,28,English,Product,unlimited,2019
+30,Female,Berlin,Middle,Backend Developer,4,54000,30,English,Product,unlimited,2019
+43,Male,Hamburg,Senior,Software Architect,15,54000,28,English,Startup,unlimited,2019
+33,Female,Berlin,Junior,Researcher,8,54000,28,English,Product,Temporary contract,2019
+33,Male,Munich,Senior,Fullstack Developer,12,54000,28,English,Startup,unlimited,2019
+37,Male,Berlin,Middle,Backend Developer,3,54000,28,English,Startup,unlimited,2019
+25,Female,Berlin,Senior,Fullstack Developer,6,54000,27,English,Product,unlimited,2019
+32,Female,Berlin,Middle,Backend Developer,3,54000,30,English,Product,unlimited,2019
+28,Male,Moscow,Lead,Frontend Developer,5,54000,30,Russian,Product,Temporary contract,2019
+28,Male,Berlin,Junior,Frontend Developer,4,54000,24,English,Startup,unlimited,2020
+40,Male,Berlin,Middle,Frontend Developer,7,54000,24,English,Product,unlimited,2020
+29,Female,Stuttgart,Middle,QA Engineer,6,54000,26,English,Product,unlimited,2020
+34,Male,Tallinn,Middle,Software Engineer,12,54000,28,English,Product,unlimited,2020
+33,Male,Nuremberg ,Middle,Data Scientist,2,54000,30,English,Market Research ,unlimited,2020
+26,Male,Berlin,Middle,Data Engineer,2,54000,27,English,Product,unlimited,2020
+30,Female,Berlin,Middle,QA Engineer,5,54000,28,English,Product,unlimited,2020
+29,Male,Berlin,Middle,Data Engineer,3,54000,30,German,Utilities,unlimited,2020
+35,Male,Berlin,Senior,Backend Developer,12,54000,27,English,Product,unlimited,2020
+37,Male,Berlin,Middle,QA Engineer,8,54000,30,German,Product,unlimited,2020
+33,Male,Berlin,Middle,Software Engineer,7,54000,28,English,Startup,Temporary contract,2020
+30,Female,Jena,Middle,Software Engineer,4,54000,24,English,Institute,Temporary contract,2020
+34,Male,Munich,Senior,Frontend Developer,5,54000,28,English,Product,unlimited,2020
+32,Female,Munich,Junior,It Consulting ,2,54000,27,German,Consulting / Agency,unlimited,2020
+28,Male,Berlin,Middle,ML Engineer,5,54000,27,English,Startup,unlimited,2020
+23,Male,"NJ, USA",Entry level,"Student, Software Developer, Data Engineer",4,54179.13,24,English,"Full-time position in Education, part-time position in at a data startup",unlimited,2020
+38,Male,Köln,Middle,QA Engineer,7,54500,30,German,Consulting / Agency,unlimited,2020
+28,Female,Berlin,Middle,Frontend Developer,3,54500,28,English,Product,unlimited,2020
+29,Male,Berlin,Middle,Backend Developer,3,55000,22,English,Product,unlimited,2019
+28,Male,Hamburg,Senior,Backend Developer,7,55000,25,English,Product,unlimited,2019
+29,Male,Munich,Senior,Backend Developer,10,55000,26,English,Product,unlimited,2019
+39,Female,Hamburg,Middle,Backend Developer,2,55000,28,Deutsch,Product,unlimited,2019
+46,Male,Berlin,Junior,DevOps,0,55000,25,Deutsch,Product,unlimited,2019
+35,Male,Frankfurt,Senior,Backend Developer,16,55000,24,English,Product,unlimited,2019
+35,Male,Düsseldorf,Middle,Backend Developer,6,55000,30,English,Bodyshop / Outsource,unlimited,2019
+28,Female,Berlin,Junior,Data Scientist,1,55000,28,English,Product,unlimited,2019
+33,Male,Hamburg,Middle,Software Engineer,13,55000,29,English,Product,unlimited,2019
+28,Male,Frankfurt,Middle,Data Scientist,2,55000,30,Deutsch,Product,unlimited,2019
+42,Female,Berlin,Senior,Backend Developer,12,55000,26,English,Product,unlimited,2019
+41,Male,Munich,Junior,Backend Developer,0,55000,30,English,Product,unlimited,2019
+26,Male,Nuremberg,Junior,DevOps,0,55000,30,Deutsch,Others,unlimited,2019
+30,Male,Kassel ,Middle,Frontend Developer,4,55000,29,Deutsch,Product,unlimited,2019
+25,Male,Berlin,Middle,DevOps,3,55000,30,English,Startup,unlimited,2019
+29,Male,Munich,Junior,Data Scientist,2,55000,30,Deutsch,Startup,unlimited,2019
+30,Female,London,Junior,Data Engineer,3,55000,30,English,Product,unlimited,2019
+30,Male,Berlin,Middle,Data Scientist,2,55000,30,English,Consulting / Agency,unlimited,2019
+31,Male,Berlin,Middle,Product Manager,5,55000,24,Deutsch,Product,Temporary contract,2019
+32,Female,Berlin,Middle,Mobile Developer,7,55000,23,English,Product,unlimited,2019
+48,Male,Berlin,Senior,System Administrator,18,55000,28,English,Product,unlimited,2019
+28,Female,Berlin,Senior,Backend Developer,6,55000,28,English,Product,unlimited,2019
+38,Male,Dresden,Senior,Embedded Developer,8,55000,24,Deutsch,Product,unlimited,2019
+32,Male,Frankfurt,Junior,Data Scientist,0,55000,30,English,Consulting / Agency,unlimited,2019
+32,Male,Munich,Middle,Frontend Developer,3,55000,28,English,Product,unlimited,2019
+33,Female,Munich,Middle,Manager,5,55000,28,English,Startup,unlimited,2019
+29,Male,Berlin,Senior,Fullstack Developer,4,55000,25,English,Product,Temporary contract,2019
+30,Male,Berlin,Middle,Support,2,55000,24,English,Product,unlimited,2019
+40,Male,Berlin,Middle,Backend Developer,6,55000,27,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Mobile Developer,8,55000,24,English,Product,unlimited,2019
+31,Male,Düsseldorf,Middle,Business Analyst,5,55000,27,English,Consulting / Agency,unlimited,2019
+28,Male,Berlin,Middle,Software Engineer,3,55000,22,English,Startup,unlimited,2020
+36,Male,Munich,Senior,Backend Developer,15,55000,28,English,Product,unlimited,2020
+30,Male,Berlin,Middle,Backend Developer,5,55000,27,English,Product,unlimited,2020
+35,Female,Berlin,Middle,Reporting Engineer,3,55000,31,German,Product,unlimited,2020
+32,Female,Berlin,No level,Product Manager,8,55000,27,German,Consulting / Agency,unlimited,2020
+37,Male,Berlin,Senior,Software Engineer,10,55000,26,English,Startup,unlimited,2020
+42,Female,Berlin,Middle,QA Engineer,20,55000,30,English,Product,unlimited,2020
+38,Male,Cologne,Senior,Software Engineer,11,55000,26,English,Product,unlimited,2020
+29,Male,Berlin,Middle,Software Engineer,8,55000,24,English,Startup,unlimited,2020
+45,Female,Frankfurt,Senior,DB developer/Data analyst,6,55000,28,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,11,55000,30,English,Startup,unlimited,2020
+65,Male,Berlin,Senior,Software Engineer,25,55000,30,German,Product,unlimited,2020
+29,Male,Bonn,Middle,Mobile Developer,5,55000,24,English,Product,unlimited,2020
+26,Male,Karlsruhe,Junior,Software Engineer,5,55000,30,50/50,Consulting / Agency,unlimited,2020
+28,Male,Stuttgart,Middle,Backend Developer,5,55000,30,German,Product,unlimited,2020
+30,Male,Munich,Middle,Frontend Developer,4,55000,27,English,Product,unlimited,2020
+30,Male,Hamburg,Senior,Frontend Developer,7,55000,28,English,Product,unlimited,2020
+33,Male,Lübeck,Middle,Software Engineer,10,55000,27,German,Product,unlimited,2020
+24,Male,Munich,Middle,Frontend Developer,3,55000,24,English,Product,unlimited,2019
+32,Male,Cologne,Middle,DevOps,10,55000,28,English,Product,unlimited,2020
+45,Male,Berlin,Senior,Backend Developer,30,55000,24,English,Startup,unlimited,2020
+28,Male,Berlin,Middle,Backend Developer,8,55000,30,Deutsch,Product,unlimited,2019
+29,Male,Düsseldorf,Middle,Frontend Developer,6,55000,30,German,Product,unlimited,2020
+20,Female,Berlin,Junior,Data Scientist,1,55000,30,English,Product,unlimited,2020
+36,Male,Berlin,Middle,Backend Developer,4,55000,28,English,Product,unlimited,2020
+29,Female,Berlin,Middle,Software Engineer,5,55000,24,English,Startup,unlimited,2020
+27,Male,Berlin,Middle,Data Scientist,5,55000,24,English,Product,unlimited,2020
+34,Female,Berlin,Senior,QA Engineer,7,55000,25,English,Product,unlimited,2020
+26,Male,Berlin,Junior,Data Scientist,2,55000,27,English,Others,unlimited,2020
+27,Male,Nürnberg,Middle,QA Engineer,3,55000,30,German,Consulting / Agency,unlimited,2020
+30,Male,Bielefeld,Junior,Software Engineer,5,55000,30,German,Product,unlimited,2020
+26,Male,Berlin,Middle,Product Analyst,4,55000,26,English,Product,unlimited,2020
+28,Male,Berlin,Junior,Product Analyst,4,55000,22,English,Product,unlimited,2020
+30,Male,Hamburg,Middle,Data Scientist,5,55000,30,English,Product,unlimited,2020
+34,Male,Ingolstadt ,Junior,Software Engineer,3.5,55000,30,German,Consulting / Agency,unlimited,2020
+32,Female,Munich,Senior,QA Engineer,8,55000,24,German,Product,unlimited,2020
+28,Male,Berlin,Middle,Frontend Developer,5,55000,30,English,Product,unlimited,2020
+24,Female,Stuttgart,Middle,Software Engineer,2,55200,30,English,Consulting / Agency,unlimited,2020
+29,Male,Bonn,Middle,Data Scientist,2,55200,30,English,Product,Temporary contract,2020
+26,Male,Berlin,Middle,QA Engineer,4,55500,25,English,Startup,unlimited,2020
+33,Male,Leipzig,Senior,Mobile Developer,13,56000,23,English,Consulting / Agency,unlimited,2019
+30,Female,Munich,Senior,QA,6,56000,28,Deutsch,Consulting / Agency,unlimited,2019
+32,Female,Frankfurt,Senior,Recruiter ,10,56000,24,English,Consulting / Agency,unlimited,2019
+36,Male,Berlin,Middle,Data Scientist,18,56000,22,English,Product,Temporary contract,2019
+26,Male,Munich,Middle,Backend Developer,3,56000,24,English,Product,unlimited,2019
+24,Male,Berlin,Middle,Fullstack Developer,3,56000,24,English,Product,unlimited,2019
+29,Male,Berlin,Senior,Backend Developer,8,56000,28,English,Product,unlimited,2020
+30,Male,Berlin,Middle,Backend Developer,10,56000,30,English,Product,unlimited,2020
+39,Male,Munich,Middle,BI IT Consultant,5,56000,30,German,Product,unlimited,2020
+35,Male,Düsseldorf,Senior,Product Manager,5,56000,30,English,Product,unlimited,2020
+21,Male,Toulouse,Middle,Data Scientist,3,56000,35,French,Product,unlimited,2019
+29,Male,Berlin,Middle,Software Engineer,5,56000,30,English,Product,unlimited,2020
+27,Male,Düsseldorf,Senior,SRE,7,56000,25,English,Product,unlimited,2019
+29,Male,Berlin,Middle,Designer (UI/UX),6,56000,28,English,Startup,unlimited,2020
+24,Male,Munich,Middle,Software Engineer,4,56000,24,English,Product,unlimited,2020
+28,Male,Munich,Middle,Software Engineer,5,56000,25,English,Startup,unlimited,2020
+30,Female,Berlin,Middle,Software Engineer,4,56000,30,English,Product,unlimited,2020
+38,Male,Berlin,Senior,Data Scientist,15,56000,21,English,Product,unlimited,2020
+34,Male,Hannover,Senior,Hardware Engineer,12,56000,30,English,Product,unlimited,2020
+33,Male,Munich,Middle,Backend Developer,12,56000,28,English,Product,unlimited,2020
+31,Male,Frankfurt,Middle,System Administrator,10,56300,30,English+Deutsch,Consulting / Agency,unlimited,2019
+38,Male,Stuttgart,Senior,Software Engineer,15,56400,30,English,Product,unlimited,2020
+30,Male,Berlin,Middle,Frontend Developer,7,56500,28,English,Product,unlimited,2019
+31,Male,Munich,Senior,Frontend Developer,7,56600,30,Deutsch,Consulting / Agency,unlimited,2019
+27,Male,Berlin,Middle,QA Engineer,5,56700,30,English,Product,unlimited,2020
+37,Female,Berlin,Middle,Backend Developer,10,57000,26,English,Product,unlimited,2019
+31,Female,Munich,Junior,Fullstack Developer,4,57000,28,Deutsch,Product,unlimited,2019
+25,Female,Munich,Middle,Researcher,5,57000,28,English,Consulting / Agency,unlimited,2019
+29,Female,Munich,Middle,Machine Learning Engineer,2,57000,25,English,Startup,unlimited,2019
+28,Male,Munich,Senior,Frontend Developer,5,57000,26,English,Product,unlimited,2019
+30,Male,Hamburg,Senior,Data Engineer,3,57000,27,English,Product,unlimited,2019
+35,Male,Berlin,Middle,Business Analyst,7,57000,26,English,Startup,Temporary contract,2019
+29,Female,Berlin,Middle,Data Scientist,3,57000,30,Deutsch,Product,unlimited,2019
+34,Female,Berlin,Middle,Manager,3,57000,24,English,Product,unlimited,2019
+27,Male,Hamburg,Middle,Backend Developer,3,57000,28,English,Product,unlimited,2019
+37,Male,Berlin,Middle,Frontend Developer,6,57000,24,English,Product,unlimited,2020
+28,Male,Munich,Senior,Mobile Developer,5,57000,30,English,Product,unlimited,2020
+33,Female,Berlin,Middle,QA Engineer,9,57000,21,English,Startup,unlimited,2020
+29,Male,Munich,Middle,Frontend Developer,5,57000,26,English,Product,unlimited,2020
+40,Female,Berlin,Senior,Fullstack Developer,8,57000,26,German,Product,unlimited,2020
+31,Female,Berlin,Middle,QA Engineer,11,57000,30,English,Startup,unlimited,2020
+28,Male,Berlin,Key,Technical account manager ,4,57000,365,English,Product,unlimited,2020
+25,Male,Berlin,Senior,Software Engineer,5,57000,24,English,Consulting / Agency,Temporary contract,2020
+49,Male,Munich,Senior,Software Engineer,27,57000,30,German,Consulting / Agency,unlimited,2020
+31,Female,Berlin,Junior,Software Engineer,1,57000,30,English,Retail,unlimited,2020
+25,Female,Munich,Junior,ML Engineer,1,57000,30,English,Product,unlimited,2020
+27,Male,Berlin,Middle,Backend Developer,3,57000,24,English,Product,unlimited,2020
+29,Male,Berlin,Middle,Data Scientist,6,57000,28,English,Startup,unlimited,2020
+28,Male,Munich,Senior,Software Engineer,8,57000,28,English,Product,unlimited,2020
+28,Male,Munich,Senior,Software Engineer,8,57000,28,English,Product,unlimited,2020
+31,Male,Hamburg,Middle,Data Scientist,6,57000,24,German,Product,unlimited,2020
+40,Male,Berlin,Middle,Data Engineer,14,57000,24,English,Product,unlimited,2020
+37,Male,Almere,Senior,Tech Lead,10,57600,25,English,Product,unlimited,2019
+24,Male,Cologne,Junior,Data Scientist,1,57600,27,English,Consulting / Agency,unlimited,2020
+43,Male,Cologne,Senior,Backend Developer,10,57600,26,German,Product,unlimited,2020
+30,Female,Berlin,Lead,Frontend Developer,3,57600,30,English,Product,unlimited,2020
+29,Male,Berlin,Middle,Product Manager,5,57750,30,English,Startup,unlimited,2020
+30,Female,Karlsruhe,Middle,Product Manager,8,57760,30,English,Product,unlimited,2020
+33,Male,Berlin,Middle,Backend Developer,4,58000,29,Deutsch,Product,unlimited,2019
+26,Male,Munich,Middle,QA,3,58000,30,English,Product,unlimited,2019
+39,Female,Munich,Middle,Backend Developer,17,58000,30,Deutsch,Product,unlimited,2019
+27,Male,Munich,Middle,Data Engineer,1,58000,30,English,Startup,Temporary contract,2019
+27,Male,Berlin,Senior,Manager,6,58000,27,English,Startup,unlimited,2019
+36,Male,Berlin,Middle,Data Scientist,4,58000,30,Deutsch,Consulting / Agency,unlimited,2019
+27,Male,Berlin,Middle,QA,4,58000,30,English,Product,unlimited,2019
+27,Male,Amsterdam,Middle,Backend Developer,5,58000,30,English,Product,unlimited,2019
+33,Female,Hamburg,Middle,Data Scientist,5,58000,28,Deutsch,Consulting / Agency,unlimited,2019
+42,Male,Tallinn,Senior,Backend Developer,19,58000,25,English,Product,unlimited,2019
+23,Male,Berlin,Middle,Backend Developer,4,58000,27,English,Startup,unlimited,2019
+27,Male,Munich,Senior,QA Engineer,5,58000,30,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Mobile Developer,3,58000,28,English,Startup,unlimited,2020
+24,Male,Munich,Middle,Software Engineer,3,58000,28,English,Consulting / Agency,unlimited,2020
+26,Male,Munich,Junior,ML Engineer,1.5,58000,30,German,Consulting / Agency,unlimited,2020
+33,Female,Munich,Senior,QA Engineer,6.5,58000,30,English,Product,unlimited,2020
+24,Female,Hamburg,Middle,Frontend Developer,3,58000,24,Deutsch,Product,unlimited,2019
+27,Male,Leeuwarden,Senior,Backend Developer,6,58000,25,English,Product,unlimited,2019
+27,Female,Berlin,Middle,Data Scientist,3,58000,24,English,Product,unlimited,2020
+31,Female,Munich,Middle,Software Engineer,2,58000,28,German,Product,unlimited,2020
+24,Female,Berlin,Middle,Software Engineer,2,58000,30,German,Consulting / Agency,unlimited,2020
+32,Male,Berlin,Middle,Software Engineer,6,58000,30,German,Product,Temporary contract,2020
+26,Male,Berlin,Middle,Software Engineer,2,58000,28,English,Consulting / Agency,unlimited,2020
+25,Male,Stuttgart,Junior,Data Scientist,0,58000,30,German,Handel ,unlimited,2020
+33,Female,Brunswick,Middle,Software Engineer,6,58000,30,German,Product,unlimited,2020
+36,Male,Berlin,Middle,Frontend Developer,6,58000,30,English,Product,unlimited,2020
+27,Male,Berlin,Middle,Frontend Developer,5,58000,25,English,Startup,unlimited,2020
+30,Male,Berlin,Middle,Backend Developer,4,58000,24,English,Product,unlimited,2020
+30,Male,Berlin,Middle,Consultant,3,58000,30,English,Startup,unlimited,2020
+27,Female,Berlin,Middle,Data Scientist,2,58500,24,English,Startup,unlimited,2019
+30,Male,Amsterdam,Senior,Backend Developer,9,58500,25,English,Product,unlimited,2019
+41,Male,Berlin,Senior,DevOps,20,58800,35,German,Bloody enterprise,unlimited,2020
+26,Male,Munich,Middle,Backend Developer,5,59000,27,English,Product,unlimited,2019
+28,Male,Munich,Senior,Data Scientist,4,59000,30,English,Product,unlimited,2019
+26,Male,Munich,Junior,Mobile Developer,1,59000,20,English,Startup,unlimited,2019
+34,Male,Berlin,Senior,QA,8,59000,29,English,Product,unlimited,2019
+31,Female,Berlin,Middle,Data Scientist,1,59000,30,English,Consulting / Agency,unlimited,2019
+29,Male,Berlin,Middle,QA,5,59000,24,English,Startup,unlimited,2019
+20,Female,Munich,Junior,Data Scientist,0,59000,26,Deutsch,Product,unlimited,2019
+26,Male,Berlin,Middle,Data Scientist,5,59000,26,English,Startup,unlimited,2020
+30,Male,Berlin,Middle,ML Engineer,6,59000,28,English,Startup,unlimited,2020
+38,Male,Cologne,Senior,Software Engineer,15,59000,30,English,Product,unlimited,2020
+31,Male,Helsinki,Middle,Software Engineer,5,59064,30,English,Product,unlimited,2020
+32,Female,Berlin,Middle,Frontend Developer,12,59500,30,English,Product,unlimited,2019
+32,Male,Berlin,Senior,DevOps,13,60000,24,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Backend Developer,8,60000,24,English,Product,unlimited,2019
+44,Male,Berlin,Senior,Backend Developer,20,60000,30,Deutsch,Consulting / Agency,unlimited,2019
+31,Male,Berlin,Senior,Backend Developer,7,60000,26,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Backend Developer,10,60000,25,English,Startup,unlimited,2019
+33,Male,Cologne,Senior,Backend Developer,10,60000,30,Deutsch,Startup,unlimited,2019
+37,Male,Berlin,Senior,Localization,15,60000,25,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Support,9,60000,28,English,Product,unlimited,2019
+30,Male,Munich,Senior,Mobile Developer,8,60000,27,English,Product,unlimited,2019
+26,Male,Munich,Junior,Fullstack Developer,2,60000,28,English,Product,unlimited,2019
+33,Male,Berlin,Senior,Backend Developer,10,60000,25,English,Product,unlimited,2019
+25,Male,Berlin,Middle,Business Analyst,4,60000,25,English,Product,unlimited,2019
+29,Male,Munich,Senior,QA,6,60000,28,English,Product,unlimited,2019
+44,Male,Munich,Middle,Frontend Developer,5,60000,27,Deutsch,Product,unlimited,2019
+32,Male,Berlin,Middle,Mobile Developer,5,60000,28,English,Product,unlimited,2019
+34,Male,Cologne,Senior,Manager,15,60000,28,English,Consulting / Agency,unlimited,2019
+36,Male,Stuttgart,Senior,Mobile Developer,16,60000,30,English,Product,unlimited,2019
+36,Male,Munich,Senior,Backend Developer,13,60000,28,English,Product,unlimited,2019
+25,Male,Munich,Middle,Mobile Developer,4,60000,30,English,Product,unlimited,2019
+29,Male,Munich,Senior,Backend Developer,9,60000,30,English,Product,unlimited,2019
+43,Male,Berlin,Senior,Data Engineer,10,60000,24,Russian,Startup,unlimited,2019
+34,Male,Berlin,Senior,Embedded Developer,12,60000,25,English,Startup,unlimited,2019
+25,Male,Kyiv,Senior,DevOps,4,60000,24,Russian,Product,unlimited,2019
+35,Male,Berlin,Senior,Backend Developer,17,60000,24,Russian,Product,unlimited,2019
+35,Male,Frankfurt,Senior,Product Manager,13,60000,27,Deutsch,Startup,unlimited,2019
+33,Male,Munich,Senior,Embedded Developer,4,60000,30,Deutsch,Consulting / Agency,unlimited,2019
+29,Male,Hannover,Middle,Data Scientist,4,60000,30,Deutsch,Product,unlimited,2019
+46,Male,Hamburg,Senior,Fullstack Developer,11,60000,30,Deutsch,Product,Temporary contract,2019
+28,Male,Munich,Middle,Data Engineer,4,60000,30,English,Consulting / Agency,unlimited,2019
+34,Male,Berlin,Senior,Backend Developer,6,60000,24,Deutsch,Product,unlimited,2019
+29,Male,Berlin,Middle,Backend Developer,7,60000,24,English,Product,unlimited,2019
+25,Male,Berlin,Senior,Frontend Developer,5,60000,25,English,Product,unlimited,2019
+27,Male,Berlin,Middle,Frontend Developer,5,60000,30,Deutsch,Product,unlimited,2019
+27,Female,Düsseldorf,Junior,Data Scientist,1,60000,30,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Fullstack Developer,8,60000,27,English,Product,unlimited,2019
+29,Female,Hamburg,Middle,Machine Learning Engineer,4,60000,28,English,Product,unlimited,2019
+29,Male,Berlin,Middle,Backend Developer,7,60000,24,English,Others,unlimited,2019
+23,Female,Amsterdam,Middle,Backend Developer,3,60000,25,English,Product,Temporary contract,2019
+34,Male,Amsterdam,Senior,Frontend Developer,10,60000,25,English,Product,Temporary contract,2019
+29,Male,Stockholm,Senior,Backend Developer,6,60000,33,English,Product,unlimited,2019
+35,Male,Munich,Middle,Platform Engineer,5,60000,27,English,Product,unlimited,2019
+52,Male,Cologne,Senior,Network Engineer,30,60000,30,Deutsch,Consulting / Agency,unlimited,2019
+33,Female,Munich,Junior,Data Scientist,3,60000,30,Deutsch,Product,unlimited,2019
+43,Male,Hamburg,Middle,support,20,60000,28,English,Startup,unlimited,2019
+31,Male,Munich,Senior,Mobile Developer,5,60000,38,English,Product,unlimited,2019
+35,Male,Munich,Middle,Frontend Developer,2,60000,30,English,Consulting / Agency,unlimited,2019
+37,Male,Stockholm,Senior,Database Developer (DBA),15,60000,25,English,Product,unlimited,2019
+34,Female,Berlin,Middle,Backend Developer,5,60000,30,English,Product,unlimited,2019
+36,Male,Munich,Middle,DevOps,4,60000,33,English,Product,Temporary contract,2019
+27,Male,Berlin,Senior,Backend Developer,8,60000,25,English,Product,unlimited,2020
+28,Female,Berlin,Senior,Designer (UI/UX),5,60000,20,English,Product,unlimited,2020
+29,Female,Berlin,Senior,QA Engineer,8,60000,28,English,Startup,unlimited,2020
+23,Female,Berlin,Middle,Product Manager,3,60000,26,English,Startup,unlimited,2019
+26,Female,Munich,Middle,Data Scientist,6,60000,26,English,Product,unlimited,2020
+31,Female,Berlin,Middle,Analytics engineer,6,60000,27,English,Startup,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,9,60000,25,English,Startup,unlimited,2020
+33,Male,Munich,Senior,QA Engineer,5,60000,30,English,Product,unlimited,2020
+32,Male,Munich,Senior,Software Engineer,7,60000,38,English,Product,unlimited,2020
+21,Male,Amsterdam,Senior,Data Scientist,3,60000,24,Dutch,Consulting / Agency,unlimited,2019
+28,Male,Cologne,Senior,BI Consultant,8,60000,28,English,Consulting / Agency,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,9,60000,25,English,Startup,unlimited,2020
+25,Male,Berlin,Middle,Backend Developer,4,60000,24,English,Startup,unlimited,2020
+37,Male,Berlin,Junior,Software Engineer,8,60000,28,English,Product,unlimited,2020
+27,Male,Munich,Senior,Frontend Developer,4,60000,28,English,Product,unlimited,2020
+36,Female,Munich,Middle,Backend Developer,5,60000,28,English,Product,unlimited,2020
+33,Female,Berlin,Middle,QA Engineer,6,60000,28,English,Startup,unlimited,2020
+32,Female,Berlin,Senior,Product Manager,10,60000,30,English,Consulting / Agency,unlimited,2020
+34,Male,Munich,Senior,Designer (UI/UX),11,60000,28,English,Startup,unlimited,2020
+32,Male,Stuttgart,Senior,QA Engineer,9,60000,30,German,Consulting / Agency,unlimited,2020
+25,Male,Stuttgart,Middle,Backend Developer,4,60000,30,German,Consulting / Agency,unlimited,2020
+32,Male,Düsseldorf,Senior,Software Engineer,11,60000,30,English,Consulting / Agency,unlimited,2020
+31,Male,Berlin,Senior,QA Engineer,10,60000,28,English,Product,unlimited,2020
+34,Male,Leipzig,Senior,Mobile Developer,14,60000,23,English,Consulting / Agency,unlimited,2020
+25,Male,Stuttgart,Senior,Backend Developer,7,60000,26,English,Startup,unlimited,2020
+24,Male,Berlin,Middle,Backend Developer,5,60000,28,English,Product,unlimited,2019
+32,Male,Nürnberg,Senior,Testautomation,8,60000,30,German,Consulting / Agency,unlimited,2020
+25,Male,Berlin,Senior,Mobile Developer,7,60000,30,English,Product,unlimited,2019
+40,Male,Berlin,Senior,Backend Developer,18,60000,28,English,Product,unlimited,2020
+30,Male,Hamburg,Middle,Software Engineer,6,60000,30,English,Product,unlimited,2020
+25,Male,Berlin,Senior,Backend Developer,5,60000,24,English,Others,unlimited,2020
+28,Male,Munich,Senior,Fullstack engineer,9,60000,28,English,Startup,unlimited,2020
+28,Male,Berlin,Senior,Backend Developer,9,60000,25,English,Product,unlimited,2020
+28,Female,Berlin,Middle,Software Engineer,3,60000,28,English,Startup,unlimited,2020
+27,Female,Berlin,Middle,Backend Developer,3,60000,24,English,Others,unlimited,2020
+26,Male,Berlin,Middle,Marketing Analyst,7,60000,27,English,Startup,unlimited,2020
+35,Female,Stuttgart ,Middle,QA Manager ,9,60000,30,English,Consulting / Agency,unlimited,2020
+37,Male,Stuttgart ,Senior,Software Engineer,9,60000,30,English,Consulting / Agency,unlimited,2020
+31,Female,Berlin,Senior,Product Manager,1,60000,20,English,Product,unlimited,2020
+28,Male,Berlin,Middle,Software Engineer,6,60000,26,English,E-commerce,unlimited,2020
+34,Male,Berlin,Senior,Software Engineer,10,60000,28,English,Product,unlimited,2020
+25,Female,Berlin,Middle,Frontend Developer,4,60000,23,English,Startup,unlimited,2020
+23,Male,Berlin,Middle,Software Engineer,3,60000,30,English,Product,unlimited,2020
+33,Male,Nürnberg,Senior,Software Engineer,9,60000,30,German,Consulting / Agency,unlimited,2020
+36,Female,Berlin,Middle,DevOps,1,60000,26,English,Consulting / Agency,unlimited,2020
+40,Male,Berlin,Senior,QA Engineer,11,60000,28,German,Product,unlimited,2020
+31,Male,Berlin,Senior,Frontend Developer,8,60000,30,English,Product,unlimited,2020
+39,Male,Berlin,Senior,Software Engineer,6,60000,25,English,Product,unlimited,2020
+28,Male,Berlin,Head,Product Manager,7,60000,28,English,Product,unlimited,2020
+31,Male,Frankfurt,Senior,Data Scientist,6,60000,30,English,Consulting / Agency,unlimited,2020
+31,Male,Paris,Senior,Mobile Developer,8,60000,30,English,Product,unlimited,2020
+28,Male,Berlin,Middle,QA Engineer,5,60000,30,English,Product,unlimited,2020
+32,Female,Munich,Middle,QA Engineer,9,60000,30,German,Product,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,8,60000,25,English,Product,unlimited,2020
+32,Male,Cologne,Middle,DevOps,7,60000,30,English,Product,unlimited,2020
+51,Male,Berlin,Senior,Software Engineer,30,60000,30,German,Consulting / Agency,unlimited,2020
+32,Female,Munich,Senior,QA Engineer,8,60000,26,English,Consulting / Agency,unlimited,2020
+44,Male,Kyiv,Head,Business Analyst,15,60000,30,English,Consulting / Agency,unlimited,2020
+26,Male,Berlin,Middle,Backend Developer,2.5,60000,26,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Mobile Developer,8,60000,50,English,Consulting / Agency,Temporary contract,2020
+26,Male,Berlin,Middle,Data Scientist,4,60000,27,English,Ecommerce,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,12,60000,27,English,Product,unlimited,2020
+31,Male,Nuremberg,Middle,QA Engineer,9,60000,30,English,Product,unlimited,2020
+34,Female,Berlin,Senior,QA Engineer,1,60000,28,German,Product,unlimited,2020
+24,Male,Berlin,Junior,Software Engineer,2,60000,28,German,Consulting / Agency,unlimited,2020
+27,Male,Berlin,Junior,Data Scientist,4,60000,15,English,Consulting / Agency,Temporary contract,2020
+29,Female,Berlin,Middle,Software Engineer,4,60000,30,English,Consulting / Agency,unlimited,2020
+31,Male,Munich,Middle,Data Scientist,4,60000,27,English,Consulting / Agency,unlimited,2020
+35,Male,Berlin,Middle,Data Scientist,15,60000,30,English,Product,Temporary contract,2020
+36,Male,Berlin,Middle,Software Engineer,5,60000,26,English,Startup,unlimited,2020
+29,Male,Helsinki,Senior,Frontend Developer,10,60000,24,English,Product,unlimited,2020
+32,Female,Heidelberg ,Middle,Software Engineer,8,60000,24,English,Product,unlimited,2020
+30,Female,Munich,Senior,Frontend Developer,9,60000,28,English,Product,unlimited,2020
+30,Male,Heidelberg,Senior,Software Engineer,9,60000,30,English,Research,Temporary contract,2020
+30,Male,Heidelberg,Senior,Software Engineer,9,60000,30,English,Research,Temporary contract,2020
+34,Female,Hildesheim ,Senior,QA Engineer,11,60000,30,German,Product,unlimited,2020
+26,Female,Berlin,Senior,Backend Developer,7,60000,24,English,Product,unlimited,2020
+25,Male,Hamburg,Middle,ML Engineer,2,60000,28,German,Product,unlimited,2020
+39,Female,Berlin,Junior,Data Scientist,2.5,60000,30,English,corporate incubator,unlimited,2020
+30,Female,Berlin,Senior,Software Engineer,7,60000,27,English,Product,unlimited,2020
+28,Female,Berlin,Senior,Designer (UI/UX),5,60000,26,English,Consulting / Agency,unlimited,2020
+35,Male,Frankfurt,Senior,Software Engineer,10,60000,30,English,Consulting / Agency,unlimited,2020
+31,Male,Munich,Middle,DevOps,6,60000,30,English,Consulting / Agency,unlimited,2020
+31,Female,Berlin,Middle,Product Manager,4,60000,28,English,Startup,unlimited,2020
+26,Male,Stockholm,Middle,ML Engineer,2.5,60000,30,English,Product,unlimited,2020
+30,Male,Berlin,Middle,Data Scientist,4.5,60000,24,English,Startup,unlimited,2020
+35,Female,Berlin,Senior,Product Manager,5,60000,28,English,Startup,unlimited,2020
+33,Female,Munich,Junior,Testmanager,10,60000,30,German,Product,unlimited,2020
+33,Male,Berlin,Senior,Researcher/ Consumer Insights Analyst ,10,60000,365,English,Product,unlimited,2020
+29,Male,Hamburg,Middle,Backend Developer,7,60350,31,English,Product,unlimited,2020
+35,Male,Frankfurt,Middle,QA,9,60500,30,English,Bodyshop / Outsource,unlimited,2019
+35,Male,Stuttgart,Senior,Backend Developer,6,60600,30,English,Product,unlimited,2019
+30,Male,Berlin,Middle,Backend Developer,3,61000,26,English,Startup,unlimited,2019
+31,Female,MA,Senior,"Designer (UI, UX)",10,61000,30,Deutsch,Product,unlimited,2019
+28,Male,Berlin,Middle,Machine Learning Engineer,6,61000,28,English,Startup,unlimited,2019
+25,Male,Munich,Middle,Backend Developer,6,61000,26,English,Product,unlimited,2019
+28,Male,Munich,Senior,Fullstack Developer,9,61000,28,Deutsch,Consulting / Agency,unlimited,2019
+21,Male,Hamburg,Senior,Support Engineer,1,61000,28,English,Others,unlimited,2020
+32,Female,Berlin,Senior,QA Engineer,10,61000,30,English,Product,unlimited,2020
+33,Male,Munich,Senior,Software Engineer,5,61000,30,English,Consulting / Agency,unlimited,2020
+28,Male,Munich,Senior,Network Administrator,9,61200,30,English,Automotive,unlimited,2020
+25,Male,Berlin,Middle,Software Engineer,6,61500,28,English,Big commercial,unlimited,2020
+29,Male,Munich,Middle,Data Scientist,4,61500,30,English,Consulting / Agency,unlimited,2020
+34,Male,Cologne,Middle,QA,10,61800,25,Deutsch,Consulting / Agency,unlimited,2019
+29,Male,Frankfurt,Senior,Data Scientist,1,61800,28,Deutsch,Consulting / Agency,unlimited,2019
+31,Male,Berlin,Middle,Backend Developer,2,62000,30,English,Product,unlimited,2019
+45,Female,Frankfurt,Middle,Database Developer (DBA),2,62000,30,Deutsch,Product,Temporary contract,2019
+29,Female,Munich,Middle,Data Scientist,4,62000,30,Deutsch,Product,unlimited,2019
+30,Male,Munich,Middle,Machine Learning Engineer,2,62000,30,English,Startup,unlimited,2019
+28,Male,Berlin,Middle,QA,7,62000,30,English,Bodyshop / Outsource,unlimited,2019
+32,Male,Berlin,Senior,Backend Developer,5,62000,28,Deutsch,Consulting / Agency,unlimited,2019
+32,Female,Munich,Senior,Backend Developer,8,62000,24,English,Product,unlimited,2019
+35,Male,Hamburg,Senior,Backend Developer,10,62000,27,English,Product,unlimited,2019
+38,Female,Berlin,Senior,Data Scientist,3,62000,27,English,Startup,unlimited,2019
+27,Male,Berlin,Senior,Business Analyst,5,62000,26,English,Consulting / Agency,unlimited,2019
+36,Male,Berlin,Senior,Backend Developer,10,62000,30,Deutsch,Product,unlimited,2019
+31,Female,Berlin,Middle,Data Scientist,2,62000,31,English,Startup,Temporary contract,2019
+28,Male,Amsterdam,Middle,DevOps,6,62000,28,English,Startup,Temporary contract,2019
+30,Female,Amsterdam,Middle,Backend Developer,7,62000,25,English,Startup,unlimited,2019
+35,Male,Eindhoven ,Senior,Frontend Developer,10,62000,28,English,Bodyshop / Outsource,unlimited,2019
+27,Male,Amsterdam,Middle,Backend Developer,4,62000,24,English,Product,Temporary contract,2019
+32,Male,Düsseldorf,Senior,Data Engineer,7,62000,30,English,Product,unlimited,2019
+26,Male,Munich,Middle,Backend Developer,6,62000,30,Deutsch,Consulting / Agency,unlimited,2019
+33,Female,Berlin,Senior,Backend Developer,6,62000,26,English,Product,unlimited,2019
+36,Male,Berlin,Senior,Backend Developer,15,62000,24,English,Product,unlimited,2019
+23,Female,Munich,Middle,QA,5,62000,26,English,Product,unlimited,2019
+22,Male,Berlin,Senior,Backend Developer,4,62000,25,English,Startup,Temporary contract,2019
+28,Male,Berlin,Middle,Data Analyst,3,62000,27,English,Product,Temporary contract,2019
+33,Male,Amsterdam,Middle,Fullstack Developer,4,62000,25,English,Product,Temporary contract,2019
+30,Male,Berlin,Senior,Software Engineer,10,62000,30,German,Others,unlimited,2020
+37,Male,Berlin,Senior,Backend Developer,17,62000,29,English,Product,unlimited,2020
+32,Male,Munich,Senior,Frontend Developer,7,62000,30,German,Consulting / Agency,unlimited,2020
+38,Female,Munich,Middle,QA Engineer,6,62000,26,English,Product,unlimited,2020
+25,Male,Munich,Middle,Software Engineer,3,62000,30,English,Product,unlimited,2020
+37,Male,Munich,Senior,Backend Developer,12,62000,28,English,Product,unlimited,2020
+37,Male,Berlin,Middle,Product Manager,6,62000,30,German,Product,unlimited,2020
+36,Female,Erlangen,Middle,Project Manager,14,62000,30,English,Product,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,7,62000,30,English,Consulting / Agency,unlimited,2020
+33,Male,Berlin,Middle,ML Engineer,10,62000,28,English,Startup,unlimited,2020
+25,Female,Munich,Middle,Product Manager,3,62000,30,English,Product,unlimited,2020
+29,Male,Berlin,Senior,QA Engineer,9,62000,28,English,Startup,unlimited,2020
+34,Male,Berlin,Middle,DevOps,6,62000,28,German,Media,unlimited,2020
+27,Male,Amsterdam,Middle,ML Engineer,4,62000,25,English,Product,unlimited,2020
+38,Male,Dresden,Lead,Software Engineer,10,62000,30,German,Product,unlimited,2020
+31,Male,Berlin,Junior,ML Engineer,4,62000,30,German,Product,unlimited,2020
+33,Male,Berlin,Middle,Data Analyst,2,62000,30,English,Product,unlimited,2020
+37,Female,Berlin,Middle,Data Scientist,2,62000,30,German,Publisher,unlimited,2020
+32,Male,Berlin,Middle,DevOps,10,62000,30,English,Product,unlimited,2020
+32,Male,Paris,Senior,DevOps,12,62000,24,English,Others,unlimited,2020
+31,Male,Munich,Middle,DevOps,8,62000,27,English,Product,unlimited,2020
+32,Male,Innsbruck,Senior,Data Scientist,3,62000,25,English,Product,unlimited,2020
+28,Male,Berlin,Middle,Frontend Developer,7,62000,26,English,Product,unlimited,2020
+39,Male,Siegen,Senior,Software Engineer,16,62400,30,Russian,Product,unlimited,2020
+28,Male,Munich,Middle,Business Analyst,7,62500,30,English,Product,Temporary contract,2019
+43,Male,Kaiserslautern,Middle,Data Scientist,3,62500,30,English,University,Temporary contract,2019
+36,Male,Stuttgart,Lead,Mobile Developer,16,62500,32,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,6,63000,24,English,Product,unlimited,2019
+27,Male,Berlin,Middle,Fullstack Developer,7,63000,28,English,Startup,unlimited,2019
+33,Male,Berlin,Senior,QA,8,63000,30,English,Product,unlimited,2019
+33,Male,Munich,Senior,Fullstack Developer,8,63000,30,English,Product,unlimited,2019
+27,Male,Berlin,Senior,QA,7,63000,30,English,Startup,unlimited,2019
+24,Male,Berlin,Senior,Frontend Developer,5,63000,25,English,Product,unlimited,2019
+33,Male,Berlin,Senior,Data Engineer,3,63000,30,English,Product,unlimited,2019
+39,Male,Berlin,Senior,Data Engineer,3,63000,26,English,Startup,unlimited,2019
+42,Male,Munich,Middle,DevOps,7,63000,30,English,Product,unlimited,2019
+28,Male,Munich,Senior,Fullstack Developer,3,63000,30,English,Product,unlimited,2019
+29,Male,Munich,Middle,Data Scientist,2,63000,27,Deutsch,Product,unlimited,2019
+30,Female,Berlin,Senior,Business Analyst,6,63000,28,English,Product,unlimited,2019
+42,Male,Munich,Senior,Fullstack Developer,20,63000,30,Deutsch,Product,unlimited,2019
+39,Male,Munich,Senior,Frontend Developer,20,63000,30,English,Product,unlimited,2019
+32,Female,Berlin,Senior,QA,13,63000,30,English,Startup,unlimited,2019
+32,Male,Frankfurt,Middle,Fullstack Developer,5,63000,30,Deutsch,Consulting / Agency,unlimited,2019
+27,Male,Berlin,Middle,Software Engineer,8,63000,24,English,Product,unlimited,2020
+33,Male,Berlin,Middle,Mobile Developer,6,63000,28,English,Product,unlimited,2020
+30,Male,Rosenheim,Middle,Software Engineer,9,63000,30,German,Product,unlimited,2020
+26,Male,Berlin,Middle,Software Engineer,5,63000,28,English,Product,unlimited,2020
+32,Female,Berlin,Senior,Mobile Developer,7,63000,26,English,Product,unlimited,2020
+22,Male,Berlin,Middle,Presales Engineer ,4,63000,30,English,Startup,unlimited,2020
+31,Male,Munich,Middle,Software Engineer,3,63000,30,German,Product,unlimited,2020
+35,Male,Frankfurt,Senior,Backend Developer,15,63000,30,German,Product,unlimited,2020
+27,Female,Berlin,Middle,Data Analyst ,1,63000,27,English,Product,unlimited,2020
+35,Male,Berlin,Senior,QA Engineer,12,63000,30,English,Product,unlimited,2020
+36,Male,Hamburg,Middle,Data Scientist,2,63000,30,English,Product,unlimited,2020
+32,Female,Berlin,Middle,Software Engineer,2,63000,27,English,Product,unlimited,2020
+27,Male,Munich,Middle,Software Engineer,7,63000,30,English,Consulting / Agency,unlimited,2020
+34,Male,Berlin,Middle,Frontend Developer,6,63000,25,English,Startup,unlimited,2020
+28,Male,Munich,Middle,Software Engineer,7,63000,30,English,Product,unlimited,2020
+33,Female,Berlin,Middle,QA,5,63400,28,English,Product,unlimited,2019
+26,Male,Munich,Senior,Product Manager,7,63500,24,English,Product,unlimited,2019
+35,Male,Berlin,Senior,Support Engineer,10,63500,28,English,Product,unlimited,2020
+30,Male,Berlin,Senior,DevOps,8,63600,32,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Manager,2,63600,45,Deutsch,Product,unlimited,2019
+26,Male,Limassol,Senior,QA,7,63600,21,Russian,Product,Temporary contract,2019
+34,Male,Berlin,Senior,Manager,2,63600,45,Deutsch,Product,unlimited,2019
+25,Male,Berlin,Middle,Software Engineer,6,63700,29,English,e-commerce,unlimited,2020
+33,Male,Berlin,Senior,Fullstack Developer,13,64000,29,English,Startup,unlimited,2019
+31,Male,Berlin,Senior,Fullstack Developer,9,64000,30,English,Startup,unlimited,2019
+42,Male,Munich,Middle,Fullstack Developer,16,64000,31,Deutsch,Consulting / Agency,unlimited,2019
+34,Male,Munich,Senior,QA,12,64000,30,Deutsch,Product,unlimited,2019
+32,Male,Munich,Middle,Backend Developer,12,64000,24,English,Startup,Temporary contract,2019
+32,Female,Berlin,Senior,Backend Developer,13,64000,27,English,Startup,unlimited,2019
+35,Female,Amsterdam,Senior,Backend Developer,13,64000,22.5,English,Product,unlimited,2019
+35,Male,Munich,Senior,Manager,16,64000,29,English,Consulting / Agency,Temporary contract,2019
+36,Male,Munich,Senior,Manager,16,64000,29,English,Consulting / Agency,Temporary contract,2019
+29,Male,Berlin,Senior,Software Engineer,7,64000,30,English,Startup,unlimited,2020
+43,Male,Berlin,Middle,Backend Developer,5,64000,28,English,Product,unlimited,2020
+39,Male,Munich,Senior,DBA,17,64000,28,English,Product,unlimited,2020
+27,Female,Munich,Middle,Frontend Developer,2,64000,28,English,Startup,unlimited,2020
+28,Male,Munich,Middle,Software Engineer,6,64000,30,English,Product,unlimited,2020
+29,Male,Helsinki,Senior,Mobile Developer,7,64000,30,English,Consulting / Agency,unlimited,2020
+36,Male,Frankfurt,Senior,QA Engineer,9,64000,30,English,Consulting / Agency,unlimited,2020
+38,Male,Berlin,Senior,Backend Developer,8,64000,30,German,Product,unlimited,2020
+24,Male,Sofia,Senior,ML Engineer,5,64000,20,English,Startup,unlimited,2020
+26,Female,Prague,Middle,Software Engineer,4,64000,25,"Russian, English",Product,unlimited,2020
+28,Female,Berlin,Senior,Frontend Developer,5,64000,28,English,Product,unlimited,2020
+39,Male,Berlin,Middle,Backend Developer,9,64800,25,English,Consulting / Agency,unlimited,2019
+29,Male,Karlsruhe,Senior,DevOps,6,64800,30,English,Startup,unlimited,2020
+29,Male,Berlin,Senior,Mobile Developer,7,65000,26,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Backend Developer,8,65000,26,English,Product,Temporary contract,2019
+26,Male,Berlin,Middle,Backend Developer,6,65000,24,English,Startup,unlimited,2019
+36,Male,Berlin,Senior,Backend Developer,11,65000,28,English,Product,unlimited,2019
+37,Male,Berlin,Senior,Data Engineer,16,65000,28,English,Product,unlimited,2019
+32,Male,Berlin,Senior,Backend Developer,11,65000,26,English,Product,unlimited,2019
+26,Male,Munich,Middle,QA,6,65000,30,English,Product,unlimited,2019
+47,Male,Berlin,Senior,Embedded Developer,20,65000,30,English,Bodyshop / Outsource,unlimited,2019
+36,Male,Berlin,Middle,DevOps,10,65000,28,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Fullstack Developer,10,65000,24,English,Startup,unlimited,2019
+33,Male,Munich,Senior,Backend Developer,7,65000,28,English,Product,unlimited,2019
+25,Male,Frankfurt,Senior,Backend Developer,6,65000,30,English,Product,unlimited,2019
+28,Male,Berlin,Senior,Backend Developer,7,65000,25,English,Startup,unlimited,2019
+29,Male,Cologne,Senior,Fullstack Developer,4,65000,30,Deutsch,Product,unlimited,2019
+32,Male,Berlin,Senior,Backend Developer,12,65000,28,Russian,Product,unlimited,2019
+31,Male,Frankfurt,Middle,System Administrator,10,65000,25,English,Product,Temporary contract,2019
+32,Male,Berlin,Senior,QA,13,65000,24,English,Product,unlimited,2019
+31,Male,Munich,Senior,Mobile Developer,8,65000,24,English,Startup,unlimited,2019
+32,Male,Munich,Senior,Backend Developer,5,65000,30,English,Product,unlimited,2019
+29,Female,Munich,Middle,Mobile Developer,8,65000,30,English,Product,unlimited,2019
+35,Male,Düsseldorf,Senior,DevOps,15,65000,30,Deutsch,Consulting / Agency,unlimited,2019
+24,Male,Berlin,Middle,Backend Developer,4,65000,26,English,Product,unlimited,2019
+35,Male,Berlin,Senior,Backend Developer,16,65000,24,English,Product,unlimited,2019
+29,Male,Kyiv,Senior,DevOps,8,65000,21,Russian,Product,unlimited,2019
+23,Male,Berlin,Senior,Frontend Developer,5,65000,22,English,Product,unlimited,2019
+29,Male,Munich,Middle,Frontend Developer,8,65000,30,English,Product,unlimited,2019
+44,Male,Berlin,Senior,Frontend Developer,5,65000,24,English,Product,unlimited,2019
+26,Male,Frankfurt,Middle,Manager,5,65000,37,English,Others,unlimited,2019
+37,Male,Berlin,Middle,QA,6,65000,24,English,Product,Temporary contract,2019
+28,Male,Hamburg,Middle,Machine Learning Engineer,4,65000,30,English,Consulting / Agency,unlimited,2019
+38,Male,Berlin,Senior,NLP Engineer,4,65000,26,English,Startup,unlimited,2019
+29,Male,Amsterdam,Senior,Backend Developer,4,65000,27,Russian,Product,unlimited,2019
+34,Male,Hamburg,Middle,Backend Developer,10,65000,29,English,Product,unlimited,2019
+34,Female,Berlin,Middle,Data Scientist,2,65000,30,English,Consulting / Agency,unlimited,2019
+30,Female,Berlin,Middle,Data Scientist,5,65000,30,English,Product,Temporary contract,2019
+35,Male,Berlin,Senior,Mobile Developer,8,65000,24,Deutsch,Product,unlimited,2019
+45,Female,Berlin,Senior,QA,15,65000,30,English,Startup,unlimited,2019
+33,Female,Hamburg,Senior,QA,12,65000,30,English,Product,unlimited,2019
+34,Male,Lingen,Senior,Mobile Developer,8,65000,24,Deutsch,Product,unlimited,2019
+31,Male,Berlin,Senior,Fullstack Developer,9,65000,26,English,Product,Temporary contract,2019
+48,Male,Berlin,Senior,Backend Developer,15,65000,29,Deutsch,Bodyshop / Outsource,unlimited,2019
+34,Male,Berlin,Middle,Product Manager,6,65000,27,English,Product,unlimited,2019
+33,Male,Berlin,Middle,Product Manager,4,65000,27,English,Startup,unlimited,2019
+30,Male,Berlin,Senior,Backend Developer,8,65000,27,Deutsch,Startup,unlimited,2019
+32,Male,Amsterdam,Senior,Mobile Developer,11,65000,25,English,Startup,unlimited,2019
+35,Male,Amsterdam,Senior,QA,10,65000,40,English,Product,unlimited,2019
+27,Male,Amsterdam,Middle,Backend Developer,5,65000,24,English,Product,unlimited,2019
+35,Male,Amsterdam,Lead,DevOps,7,65000,24,English,Bodyshop / Outsource,unlimited,2019
+39,Male,Amsterdam,Senior,Mobile Developer,16,65000,24,English,Product,unlimited,2019
+25,Male,Munich,Senior,Frontend Developer,7,65000,24,Deutsch,Product,unlimited,2019
+26,Female,Berlin,Senior,Data Scientist,7,65000,28,English,Startup,unlimited,2019
+27,Male,Karlsruhe ,Lead,Backend Developer,8,65000,29,English,Product,unlimited,2020
+28,Male,Frankfurt,Senior,Software Engineer,10,65000,30,German,Product,unlimited,2020
+35,Male,Munich,Senior,Game Developer,11,65000,28,English,Startup,Temporary contract,2019
+33,Male,Munich,Senior,Backend Developer,12,65000,24,English,Product,unlimited,2019
+30,Female,Amsterdam,Senior,Manager,8,65000,25,English,Bodyshop / Outsource,unlimited,2019
+39,Male,Amsterdam,Senior,Mobile Developer,15,65000,24,English,Product,unlimited,2019
+24,Male,Amsterdam,Senior,Data Engineer,5,65000,26,English,Bodyshop / Outsource,Temporary contract,2019
+31,Male,Berlin,Middle,Fullstack Developer,10,65000,25,English,Product,unlimited,2019
+28,Female,Berlin,Senior,Mobile Developer,7,65000,27,English,Product,unlimited,2019
+31,Male,Hamburg,Middle,Backend Developer,11,65000,28,Deutsch,Product,unlimited,2019
+24,Male,Berlin,Senior,Frontend Developer,5,65000,27,English,Product,unlimited,2020
+25,Male,Berlin,Senior,Software Engineer,5,65000,28,German,Product,unlimited,2020
+31,Male,Berlin,Middle,Backend Developer,5,65000,28,English,Startup,unlimited,2020
+32,Male,Berlin,Senior,Backend Developer,8,65000,30,English,Product,unlimited,2020
+35,Male,Munich,Senior,Software Engineer,11,65000,29,German,Product,unlimited,2020
+33,Male,Berlin,Middle,Software Engineer,5,65000,30,English,Product,unlimited,2020
+26,Male,Munich,Middle,Data Scientist,3,65000,30,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Frontend Developer,7,65000,25,English,Startup,unlimited,2020
+33,Male,Berlin,Lead,Backend Developer,12,65000,27,English,Product,unlimited,2020
+28,Female,Munich,Middle,QA Engineer,6,65000,25,English,Product,unlimited,2020
+28,Male,Berlin,Senior,Software Engineer,6,65000,28,English,Startup,unlimited,2020
+36,Male,Berlin,Senior,Backend Developer,18,65000,26,English,Product,unlimited,2020
+30,Female,Munich,Senior,Mobile Developer,10,65000,30,English,Product,unlimited,2020
+38,Male,Berlin,Senior,Software Engineer,16,65000,26,English,Product,unlimited,2020
+27,Male,Berlin,Middle,Backend Developer,5,65000,30,English,Product,unlimited,2020
+34,Male,Berlin,Middle,Data Scientist,5,65000,30,English,Product,unlimited,2020
+27,Male,Berlin,Middle,Backend Developer,5,65000,30,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Mobile Developer,8,65000,26,English,Product,unlimited,2020
+25,Male,Munich,Middle,ML Engineer,1,65000,30,English,Product,unlimited,2020
+26,Female,Berlin,Senior,Software Engineer,6,65000,27,English,Product,unlimited,2020
+31,Female,Stuttgart,Middle,Data Scientist,4,65000,30,German,Product,unlimited,2020
+26,Male,Frankfurt,Middle,Consultant,4,65000,30,German,Consulting / Agency,unlimited,2020
+26,Male,Frankfurt,Senior,Backend Developer,7,65000,30,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Backend Developer,4,65000,28,English,Product,unlimited,2020
+29,Male,Berlin,Middle,Backend Developer,8,65000,30,English,Product,unlimited,2020
+27,Male,Munich,Senior,Software Engineer,5,65000,22,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,4,65000,24,English,Product,unlimited,2020
+33,Male,Berlin,Middle,Software Engineer,10,65000,27,English,Product,unlimited,2020
+27,Male,Berlin,Middle,Mobile Developer,3,65000,24,English,Startup,unlimited,2020
+23,Male,Berlin,Lead,Mobile Developer,3,65000,25,English,Startup,unlimited,2020
+33,Female,Berlin,Middle,Software Engineer,6,65000,28,English,Startup,unlimited,2020
+29,Male,Tallinn,Senior,Mobile Developer,7,65000,28,English,Startup,unlimited,2020
+33,Male,Munich,Senior,Software Engineer,11,65000,28,English,Startup,unlimited,2020
+27,Male,Berlin,Middle,Software Engineer,4,65000,30,English,Product,unlimited,2020
+28,Female,Berlin,Middle,Data Scientist,4,65000,27,English,Others,unlimited,2020
+28,Male,Berlin,Middle,Data Engineer,5,65000,30,English,Product,unlimited,2020
+32,Male,Berlin,Middle,Software Engineer,10,65000,24,English,Startup,unlimited,2020
+32,Male,Berlin,Senior,QA Engineer,7,65000,24,English,Startup,Temporary contract,2020
+25,Male,Berlin,Senior,Data Engineer,3,65000,27,English,Product,unlimited,2020
+30,Male,Stockholm,Senior,Backend Developer,7,65000,33,English,Product,unlimited,2020
+37,Male,Berlin,Senior,Mobile Developer,16,65000,30,English,Product,unlimited,2020
+33,Male,Hamburg,Senior,Software Engineer,11,65000,28,English,Product,unlimited,2020
+27,Female,Berlin,Middle,Backend Developer,5,65000,30,English,Product,unlimited,2020
+35,Male,Konstanz,Middle,Data Scientist,10,65000,25,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Mobile Developer,5,65000,27,English,Product,unlimited,2020
+26,Female,Dusseldorf,Middle,BI Consultant SAP/ Data Engineer,5,65000,30,German,Startup,unlimited,2020
+30,Male,Berlin,Middle,Data Engineer,6,65000,27,English,Product,unlimited,2020
+32,Male,Munich,Senior,Frontend Developer,8,65000,30,English,Product,unlimited,2020
+36,Male,Frankfurt,Middle,Software Engineer,16,65000,30,German,Consulting / Agency,unlimited,2020
+42,Male,Berlin,Senior,Software Engineer,20,65000,27,English,Startup,unlimited,2020
+28,Male,Munich,Middle,IT Manager,6,65000,28,English,Consulting / Agency,unlimited,2020
+34,Male,Berlin,Lead,Lead Software Developer,13,65000,30,English,Product,unlimited,2020
+38,Female,Regensburg,Middle,ML Engineer,3,65000,30,German,Product,Temporary contract,2020
+32,Female,Berlin,Lead,QA Engineer,10,65000,33,German,Product,unlimited,2020
+39,Male,Düsseldorf ,Senior,Technical project manager,12,65000,30,German,Consulting / Agency,unlimited,2020
+25,Male,Frankfurt,Junior,DevOps,2,65000,28,English,Consulting / Agency,unlimited,2020
+30,Male,Frankfurt,Middle,Big Data Engineer,3,65000,30,English,Consulting and Product,unlimited,2020
+36,Male,Munich,Middle,DevOps,14,65000,30,German,Consulting / Agency,unlimited,2020
+32,Female,Berlin,Lead,Engineering Team Lead,10,65000,28,English,Product,unlimited,2020
+26,Female,Berlin,Middle,Backend Developer,5,65000,28,English,Product,unlimited,2020
+32,Male,Munich,Senior,Software Engineer,8,65000,30,English,Consulting / Agency,unlimited,2020
+32,Male,Munich,Senior,Product Manager,4,65000,30,English,Consulting / Agency,unlimited,2020
+25,Male,Berlin,Middle,Software Engineer,6,65000,30,English,Product,unlimited,2020
+28,Male,Munich,Junior,Software Engineer,3,65000,30,English,Finance,unlimited,2020
+40,Female,Berlin,Middle,QA Engineer,16,65000,24,English,Startup,unlimited,2020
+31,Male,Berlin,Senior,Backend Developer,9,65000,27,English,Startup,unlimited,2020
+37,Male,Berlin,Middle,Software Engineer,12,65000,26,English,Product,unlimited,2020
+28,Female,Berlin,Middle,Backend Developer,3,65000,30,English,Product,unlimited,2020
+29,Male,Darmstadt,Middle,Data Scientist,5,65000,30,English,Product,unlimited,2020
+29,Male,Darmstadt,Middle,Data Scientist,5,65000,30,English,Product,unlimited,2020
+25,Female,Berlin,Middle,Software Engineer,4,65000,28,English,Product,unlimited,2020
+35,Male,Ingolstadt,Lead,Backend Developer,10,65000,25,English,Startup,unlimited,2020
+26,Male,Munich,Middle,Mobile Developer,5,65000,24,Russian,Startup,unlimited,2020
+25,Male,Berlin,Middle,ML Engineer,5,65000,30,English,Product,unlimited,2020
+26,Male,Berlin,Middle,DevOps,2,65000,30,English,Startup,unlimited,2020
+29,Male,Munich,Senior,Mobile Developer,8,65400,30,English,Consulting / Agency,unlimited,2020
+34,Male,Berlin,Middle,Backend Developer,10,65600,30,English,Product,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,7,65900,30,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Embedded Developer,10,66000,30,English,Product,unlimited,2019
+27,Male,Berlin,Senior,"Designer (UI, UX)",9,66000,30,English,Product,unlimited,2019
+27,Female,Berlin,Middle,Data Scientist,3,66000,27,English,Startup,unlimited,2019
+32,Male,Berlin,Middle,Mobile Developer,7,66000,25,English,Others,unlimited,2019
+29,Male,Berlin,Middle,QA,9,66000,24,English,Startup,unlimited,2019
+37,Male,Berlin,Senior,Frontend Developer,10,66000,29,English,Product,unlimited,2019
+38,Male,Berlin,Senior,Backend Developer,6,66000,25,English,Product,Temporary contract,2019
+25,Female,Munich,Middle,Fullstack Developer,5,66000,26,Deutsch,Consulting / Agency,unlimited,2019
+27,Male,Munich,Middle,Backend Developer,7,66000,28,Deutsch,Product,unlimited,2019
+27,Male,Berlin,Senior,Frontend Developer,5,66000,24,English,Product,unlimited,2019
+27,Male,Moscow,Senior,Backend Developer,7,66000,30,Russian,Startup,Temporary contract,2019
+27,Male,Berlin,Middle,DevOps,6,66000,28,English,Product,unlimited,2019
+25,Male,Hamburg,Middle,Frontend Developer,4,66000,30,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Data Scientist,4,66000,25,English,Startup,unlimited,2019
+34,Male,Berlin,Senior,Manager,10,66000,30,English,Bodyshop / Outsource,unlimited,2019
+30,Female,Berlin,Middle,Software Engineer,7,66000,30,English,Product,unlimited,2019
+28,Male,Berlin,Lead,Mobile Developer,8,66000,28,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Cloud Platform Engineer,13,66000,27,Deutsch,Consulting / Agency,Temporary contract,2019
+35,Male,Nuremberg,Middle,Fullstack Developer,9,66000,30,Deutsch,Consulting / Agency,unlimited,2019
+35,Male,Frankfurt,Senior,Software Engineer,12,66000,25,German,Consulting / Agency,unlimited,2020
+33,Male,Berlin,Middle,Backend Developer,5,66000,30,English,Product,unlimited,2020
+30,Male,Munich,Senior,Mobile Developer,8,66000,30,English,Product,unlimited,2020
+30,Male,Munich,Middle,Frontend Developer,9,66000,30,English,Product,unlimited,2020
+28,Male,Berlin,Middle,SRE,6,66000,27,English,Product,unlimited,2020
+35,Male,Helsinki,Senior,Backend Developer,11,66000,28,English,Product,unlimited,2020
+28,Male,Berlin,Senior,Frontend Developer,6,66000,24,English,Others,unlimited,2020
+29,Female,Berlin,Lead,Software Developer in Test,9,66000,25,English,Startup,unlimited,2020
+27,Male,Berlin,Middle,DevOps,4,66000,30,English,Consulting / Agency,unlimited,2020
+28,Male,Karlsruhe,Senior,Backend Developer,7,66000,28,English,Product,unlimited,2020
+38,Male,Berlin,Middle,Backend Developer,5,66000,28,English,Product,unlimited,2020
+34,Male,Munich,Middle,Frontend Developer,4,66000,30,English,Product,unlimited,2020
+29,Male,Berlin,Middle,Frontend Developer,5,66000,28,English,Product,unlimited,2020
+42,Male,Berlin,Senior,Backend Developer,19,66000,26,English,Product,unlimited,2020
+36,Male,Regensburg,Middle,Software Engineer,10,66000,30,German,Consulting / Agency,unlimited,2020
+32,Male,Hamburg,Senior,Software Engineer,12,66300,28,German,Product,unlimited,2020
+30,Female,Berlin,Middle,Cloud Platform Engineer,7,66340,30,English,Product,unlimited,2019
+35,Male,Berlin,Middle,Frontend Developer,6,66500,27,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Software Engineer,12,66800,25,English,Product,unlimited,2020
+31,Male,Berlin,Senior,QA,9,67000,20,English,Product,unlimited,2019
+35,Male,Cologne,Senior,Backend Developer,4,67000,30,English,Startup,unlimited,2019
+38,Male,Berlin,Middle,DevOps,7,67000,28,English,Startup,unlimited,2019
+36,Male,Berlin,Senior,Software Engineer,11,67000,28,Deutsch,Consulting / Agency,unlimited,2019
+37,Male,Munich,Senior,Fullstack Developer,11,67000,5,Deutsch,Product,Temporary contract,2019
+31,Male,Berlin,Senior,Frontend Developer,10,67000,24,English,Product,unlimited,2019
+30,Male,Munich,Senior,Backend Developer,6,67000,30,English,Product,unlimited,2019
+33,Male,Karlsruhe,Senior,QA,7,67000,30,English,Product,unlimited,2019
+27,Female,Berlin,Middle,Data Scientist,3,67000,27,English,Product,unlimited,2019
+29,Female,Berlin,Middle,Product Manager,7,67000,30,English,Product,unlimited,2019
+29,Male,Berlin,Junior,Frontend Developer,1,67000,30,English,Consulting / Agency,unlimited,2019
+34,Male,Berlin,Senior,Data Scientist,4,67000,27,English,Product,unlimited,2019
+29,Male,Amsterdam,Senior,Backend Developer,9,67000,30,English,Product,Temporary contract,2019
+27,Male,Frankfurt,Middle,Data Scientist,7,67000,30,Deutsch,Product,unlimited,2019
+28,Male,Hamburg,Senior,Backend Developer,5,67000,30,Deutsch,Product,unlimited,2019
+48,Male,Berlin,Senior,Network Engineer,16,67000,24,English,Others,unlimited,2019
+34,Male,Berlin,Senior,DevOps,14,67000,30,English,Product,unlimited,2020
+31,Female,Amsterdam,Senior,QA,5,67000,26,English,Product,unlimited,2019
+49,Male,Berlin,Senior,Software Engineer,15,67000,29,German,Product,unlimited,2020
+33,Male,Berlin,Middle,iOS Developer,10,67000,29,English,Product,unlimited,2020
+33,Male,Berlin,Senior,Backend Developer,12,67000,26,English,Others,unlimited,2020
+29,Female,Munich,Middle,Software Engineer,5,67000,31,English,Product,unlimited,2020
+28,Male,Munich,Senior,Software Engineer,5,67000,20,English,Startup,unlimited,2020
+37,Male,Berlin,Middle,Data Analyst,3,67000,21,English,Product,unlimited,2020
+31,Male,Berlin,Middle,Software Engineer,4,67000,30,English,Product,unlimited,2020
+28,Male,Berlin,Lead,Backend Developer,8,67000,28,English,Startup,unlimited,2020
+33,Male,Frankfurt,Senior,Software Engineer,8,67000,28,English,Product,unlimited,2020
+37,Female,Berlin,Middle,Data Scientist,8,67000,28,English,Startup,unlimited,2020
+35,Male,Darmstadt,Senior,Data Scientist,4,67000,30,English,Product,unlimited,2020
+26,Male,Stuttgart,Middle,Data Engineer,3,67200,24,English,Product,Temporary contract,2019
+28,Male,Stuttgart,Senior,Software Engineer,8,67200,30,English,Outsorce,unlimited,2020
+31,Male,Berlin,Senior,Backend Developer,9,67473,28,English,Product,unlimited,2020
+30,Male,Berlin,Senior,QA,9,67500,30,English,Product,unlimited,2019
+33,Male,Munich,Senior,Data Scientist,11,67500,32,English,Product,unlimited,2019
+37,Male,Heidelberg,Senior,Software Engineer,15,67500,30,English,Product,unlimited,2020
+34,Female,Berlin,Senior,QA Engineer,6,67500,30,English,Product,unlimited,2020
+34,Male,Hamburg,Senior,DevOps,8,67500,30,English,Product,unlimited,2020
+35,Male,Amsterdam,Senior,DevOps,12,67800,20,English,Consulting / Agency,unlimited,2019
+32,Male,Berlin,Senior,Backend Developer,12,68000,28,English,Product,unlimited,2019
+32,Male,Munich,Middle,Backend Developer,8,68000,30,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Frontend Developer,10,68000,26,English,Product,unlimited,2019
+31,Male,Munich,Senior,Fullstack Developer,8,68000,26,English,Product,unlimited,2019
+28,Male,Berlin,Middle,Backend Developer,8,68000,28,English,Product,unlimited,2019
+31,Female,Frankfurt,Senior,Backend Developer,7,68000,28,English,Startup,unlimited,2019
+29,Male,Berlin,Middle,Data Scientist,4,68000,30,English,Product,unlimited,2019
+30,Male,Hamburg,Senior,Data Scientist,6,68000,25,English,Product,unlimited,2019
+30,Male,Berlin,Middle,Data Engineer,9,68000,28,English,Product,unlimited,2019
+40,Female,Berlin,Senior,Backend Developer,10,68000,25,English,Startup,unlimited,2019
+40,Female,Munich,Middle,Backend Developer,15,68000,28,English,Product,unlimited,2019
+40,Female,Munich,Middle,Backend Developer,15,68000,24,English,Product,unlimited,2019
+35,Male,Munich,Senior,Database Developer (DBA),14,68000,30,English,Consulting / Agency,unlimited,2019
+30,Male,Munich,Senior,QA,9,68000,30,English,Product,unlimited,2019
+37,Male,Berlin,Senior,Data Engineer,13,68000,27,English,Product,unlimited,2019
+32,Male,Frankfurt,Middle,Data Engineer,10,68000,30,English,Startup,unlimited,2019
+26,Male,Berlin,Senior,Mobile Developer,7,68000,30,English,Product,unlimited,2019
+29,Female,Berlin,Senior,Fullstack Developer,10,68000,30,Deutsch,Consulting / Agency,unlimited,2019
+28,Male,Berlin,Middle,Data Engineer,7.5,68000,30,English,Product,unlimited,2020
+29,Male,Berlin,Middle,data engineer,11,68000,28,English,Product,unlimited,2020
+26,Male,Amsterdam,Senior,DevOps,6,68000,24,English,Product,unlimited,2019
+35,Male,Berlin,Senior,Backend Developer,10,68000,30,English,Product,unlimited,2019
+33,Male,Munich,Senior,Backend Developer,11,68000,28,English,Product,unlimited,2019
+33,Male,Munich,Senior,Backend Developer,8,68000,30,English,Product,unlimited,2019
+32,Male,Frankfurt,Middle,Machine Learning Engineer,2,68000,32,Deutsch,Consulting / Agency,unlimited,2019
+44,Female,Munich,Middle,SAP Consultant,6,68000,30,Deutsch,Consulting / Agency,unlimited,2019
+42,Male,Munich,Senior,Manager,9,68000,30,English,Product,unlimited,2019
+44,Male,Berlin,Senior,Backend Developer,12,68000,26,English,Product,unlimited,2020
+31,Male,Munich,Senior,Software Engineer,10,68000,30,English,Product,unlimited,2020
+31,Female,Munich,Senior,QA Engineer,7,68000,30,English,Product,unlimited,2020
+38,Male,Frankfurt,Work Center Manager,Data Center Manager,6,68000,30,English,Product,unlimited,2020
+28,Male,Berlin,Senior,Frontend Developer,8,68000,25,English,Others,unlimited,2020
+34,Male,Berlin,Senior,Frontend Developer,10,68000,40,English,Startup,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,14,68000,24,English,Product,unlimited,2020
+41,Female,Munich,Senior,Data Engineer,12,68000,30,German,Consulting / Agency,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,10,68000,25,English,Startup,Temporary contract,2020
+32,Male,Berlin,Middle,Frontend Developer,7,68000,30,English,Startup,unlimited,2020
+29,Male,Berlin,Middle,Data Engineer,5,68000,24,English,Startup,unlimited,2020
+32,Female,Berlin,Middle,QA Engineer,10,68000,30,English,Product,unlimited,2020
+35,Male,Düsseldorf,Middle,Data Scientist,3,68000,26,English,E-Commerce,unlimited,2020
+30,Male,Berlin,Senior,QA Engineer,8,68000,30,English,Startup,unlimited,2020
+29,Male,Munich,Middle,Data Analyst ,6,68000,28,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,4,68000,30,English,Startup,unlimited,2020
+35,Male,Berlin,Senior,Backend Developer,13,68000,26,English,Product,unlimited,2020
+27,Male,Munich,Junior,Software Engineer,2,68000,28,English,Product,unlimited,2020
+36,Male,Munich,Senior,Software Engineer,15,68000,30,English,Consulting / Agency,unlimited,2020
+36,Male,Berlin,Middle,Mobile Developer,10,68000,30,English,Product,unlimited,2020
+30,Male,Munich,Senior,Software Engineer,8,68000,26,English,Product,unlimited,2020
+30,Male,Berlin,Senior,SRE,10,68000,26,English,Product,unlimited,2020
+24,Male,Berlin,Senior,Frontend Developer,5,68250,27,English,Product,unlimited,2020
+30,Male,Munich,Middle,Data Scientist,2,68500,31,Deutsch,Product,unlimited,2019
+38,Male,Berlin,Middle,Localization producer,17,68500,25,English,Product,unlimited,2020
+32,Male,Frankfurt,Senior,Network Engineer ,10,68500,25,English,Product,unlimited,2020
+46,Male,Munich,Senior,Software Engineer,10,68500,28,English,Startup,unlimited,2020
+48,Male,Berlin,Senior,Senior Network&Security Eng.,22,68500,26,English,Startup,unlimited,2020
+30,Male,Cracow,Senior,Business Analyst,7,68500,26,English,Consulting / Agency,unlimited,2020
+42,Female,Munich,Middle,Product Manager,10,68700,30,English,Product,unlimited,2019
+33,Male,Berlin,Senior,Backend Developer,9,69000,30,English,Product,unlimited,2019
+29,Male,Berlin,Senior,Backend Developer,7,69000,30,English,Product,unlimited,2019
+27,Female,Munich,Senior,QA,7,69000,28,English,Product,unlimited,2019
+32,Male,Stuttgart,Senior,Frontend Developer,12,69000,30,Deutsch,Product,unlimited,2019
+30,Male,Munich,Senior,QA,11,69000,30,Deutsch,Product,unlimited,2019
+33,Male,Amsterdam,Middle,Fullstack Developer,10,69000,24,English,Product,unlimited,2019
+33,Male,Munich,Senior,Software Engineer,15,69000,28,English,Product,unlimited,2019
+59,Male,Berlin,Senior,Backend Developer,30,69000,28,German,Product,unlimited,2020
+36,Male,Berlin,Senior,Backend Developer,19,69000,28,English,Product,unlimited,2020
+36,Female,Berlin,Lead,QA Engineer,14,69000,30,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Frontend Developer,8,69000,30,English,Product,unlimited,2020
+26,Male,Berlin,Middle,Software Engineer,5,69000,27,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,4,69000,28,English,Product,unlimited,2020
+30,Male,Cologne,Middle,technical business analyst,5,69000,30,German,Product,unlimited,2020
+37,Male,Berlin,Middle,QA Engineer,6,69200,28,English,SaaS,unlimited,2020
+32,Male,Munich,Senior,SRE,11,69300,28,Deutsch,Product,unlimited,2019
+33,Male,Berlin,Senior,Frontend Developer,10,70000,40,English,Startup,unlimited,2019
+24,Male,Berlin,Middle,Machine Learning Engineer,2,70000,30,English,Startup,unlimited,2019
+35,Male,Berlin,Middle,Data Engineer,10,70000,30,English,Product,unlimited,2019
+40,Male,Berlin,Senior,Manager,15,70000,30,English,Product,unlimited,2019
+27,Male,Munich,Senior,Backend Developer,5,70000,30,English,Consulting / Agency,Temporary contract,2019
+36,Male,Munich,Senior,Backend Developer,14,70000,30,Deutsch,Product,unlimited,2019
+40,Male,Berlin,Senior,SRE,20,70000,20,English,Product,unlimited,2019
+44,Male,Berlin,Senior,Data Engineer,25,70000,30,English,Product,unlimited,2019
+32,Male,Berlin,Senior,Backend Developer,11,70000,27,English,Product,unlimited,2019
+30,Male,Berlin,Middle,Backend Developer,10,70000,28,English,Product,unlimited,2019
+45,Male,Munich,Senior,QA,12,70000,30,Deutsch,Product,unlimited,2019
+36,Male,Berlin,Senior,Fullstack Developer,15,70000,25,English,Product,unlimited,2019
+28,Male,Berlin,Senior,Backend Developer,7,70000,25,English,Startup,unlimited,2019
+29,Male,Berlin,Senior,DevOps,10,70000,25,English,Startup,unlimited,2019
+33,Male,Munich,Senior,QA,5,70000,30,English,Product,unlimited,2019
+25,Male,Munich,Junior,Frontend Developer,1,70000,20,English,Startup,Temporary contract,2019
+25,Male,Munich,Junior,Frontend Developer,1,70000,20,English,Startup,Temporary contract,2019
+30,Male,Berlin,Senior,Backend Developer,12,70000,24,English,Startup,unlimited,2019
+29,Male,Berlin,Senior,Fullstack Developer,10,70000,28,English,Product,unlimited,2019
+29,Male,Berlin,Senior,Backend Developer,8,70000,28,English,Product,unlimited,2019
+28,Female,Munich,Senior,"Designer (UI, UX)",9,70000,30,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Backend Developer,6,70000,27,Russian,Startup,unlimited,2019
+29,Male,Munich,Middle,Mobile Developer,7,70000,30,English,Product,unlimited,2019
+29,Male,Dusseldorf,Senior,Backend Developer,8,70000,25,English,Others,unlimited,2019
+34,Male,Berlin,Senior,Backend Developer,13,70000,30,English,Product,unlimited,2019
+35,Male,Munich,Senior,Backend Developer,16,70000,25,Russian,Product,unlimited,2019
+34,Male,Berlin,Senior,Backend Developer,9,70000,25,English,Product,unlimited,2019
+43,Male,Berlin,Middle,Backend Developer,20,70000,24,English,Product,unlimited,2019
+32,Male,Vienna,Middle,Data Scientist,2,70000,25,English,Product,unlimited,2019
+37,Male,Berlin,Senior,Backend Developer,12,70000,25,English,Product,unlimited,2019
+35,Male,Frankfurt,Senior,Software Architect,12,70000,30,Deutsch,Consulting / Agency,unlimited,2019
+29,Male,Berlin,Middle,Data Engineer,5,70000,30,English,Startup,unlimited,2019
+27,Male,Berlin,Senior,Backend Developer,8,70000,30,English,Product,Temporary contract,2019
+30,Male,Berlin,Senior,Fullstack Developer,6,70000,23,English,Product,unlimited,2019
+28,Male,Berlin,Senior,DevOps,6,70000,28,English,Product,unlimited,2019
+32,Female,Munich,Middle,Fullstack Developer,5,70000,25,English,Startup,unlimited,2019
+33,Male,Berlin,Senior,Frontend Developer,11,70000,25,English,Startup,unlimited,2019
+27,Male,Berlin,Senior,Backend Developer,6,70000,30,English,Product,unlimited,2019
+25,Male,Berlin,Middle,Mobile Developer,4,70000,27,English,Startup,unlimited,2019
+32,Male,Cologne,Senior,Software Engineer,13,70000,35,English,Product,unlimited,2019
+25,Male,Munich,Senior,Mobile Developer,5,70000,28,English,Consulting / Agency,unlimited,2019
+29,Male,Darmstadt,Senior,Backend Developer,10,70000,26,Deutsch,Others,unlimited,2019
+24,Male,Munich,Senior,Frontend Developer,4,70000,27,English,Product,unlimited,2019
+26,Male,Warsaw,Senior,Frontend Developer,8,70000,24,Russian,Others,unlimited,2019
+24,Male,Munich,Senior,Mobile Developer,5,70000,28,English,Consulting / Agency,unlimited,2019
+33,Male,Berlin,Senior,Manager,12,70000,27,English,Startup,unlimited,2019
+27,Male,Berlin,Senior,Backend Developer,7,70000,28,Deutsch,Consulting / Agency,Temporary contract,2019
+25,Male,Munich,Lead,Frontend Developer,5,70000,24,English,Startup,unlimited,2020
+27,Female,Berlin,Middle,Cloud Platform Engineer,6,70000,32,English,Product,unlimited,2019
+33,Male,Berlin,Senior,Frontend Developer,8,70000,24,English,Startup,unlimited,2019
+32,Male,Amsterdam,Middle,DevOps,2,70000,26,English,Bodyshop / Outsource,Temporary contract,2019
+29,Male,Amsterdam,Senior,Frontend Developer,8,70000,30,English,Product,unlimited,2019
+33,Male,Hamburg,Middle,Data Scientist,2,70000,30,Deutsch,Product,unlimited,2019
+36,Male,Berlin,Senior,Fullstack Developer,7,70000,30,English,Startup,unlimited,2019
+30,Male,Amsterdam,Middle,System Administrator,6,70000,26,English,Product,unlimited,2019
+28,Male,Amsterdam,Senior,QA,6,70000,25,English,Product,unlimited,2019
+29,Male,Amsterdam,Middle,Backend Developer,9,70000,22,English,Product,unlimited,2019
+29,Male,Berlin,Middle,Frontend Developer,3,70000,26,English,Product,unlimited,2019
+45,Male,Berlin,Senior,Fullstack Developer,25,70000,25,Deutsch,Product,unlimited,2019
+45,Male,Munich,Senior,Scrum Master,4,70000,28,English,Product,unlimited,2019
+33,Male,Rotterdam,Senior,QA,11,70000,25,English,Product,unlimited,2019
+32,Male,Munich,Senior,Business Analyst,9,70000,25,English,Product,unlimited,2019
+34,Male,Cologne,Senior,Desktop,13,70000,35,English,Product,unlimited,2019
+46,Male,Munich,Lead,SRE,20,70000,30,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Software Engineer,14,70000,28,English,Startup,unlimited,2020
+36,Male,Berlin,Lead,Software Engineer,17,70000,28,English,Product,unlimited,2020
+40,Male,Berlin,Senior,Product Manager,13,70000,28,English,Product,unlimited,2020
+38,Male,Berlin,Senior,DevOps,10,70000,30,English,Startup,unlimited,2020
+38,Female,Berlin,Senior,Backend Developer,12,70000,28,English,Product,unlimited,2020
+66,Male,Munich,Lead,Software Engineer,40,70000,30,German,Product,unlimited,2020
+26,Female,Munich,Junior,Data Scientist,3,70000,28,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Frontend Developer,8,70000,24,English,Startup,unlimited,2020
+35,Male,Berlin,Senior,Software Engineer,12,70000,25,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Designer (UI/UX),10,70000,25,English,Product,unlimited,2020
+42,Male,Berlin,Lead,DevOps,22,70000,24,English,Startup,unlimited,2020
+28,Male,Munich,Senior,Backend Developer,6,70000,30,English,Consulting / Agency,unlimited,2020
+46,Male,Munich,Senior,QA Engineer,13,70000,28,German,Product,unlimited,2020
+26,Male,Berlin,Senior,Mobile Developer,6,70000,30,English,Product,unlimited,2020
+32,Male,Munich,Senior,Fullstack Developer,9,70000,26,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Software Engineer,8,70000,30,English,Product,unlimited,2020
+33,Male,Boeblingen,Senior,DevOps,14,70000,30,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Software Engineer,15,70000,28,English,Startup,unlimited,2020
+30,Female,Frankfurt,Senior,QA Engineer,6,70000,30,German,Bank ,unlimited,2020
+38,Male,Munich,Senior,Backend Developer,12,70000,30,German,Telecommunications,unlimited,2020
+33,Male,Munich,Senior,Business Analyst,10,70000,27,English,Product,unlimited,2020
+28,Male,Berlin,Senior,Backend Developer,7,70000,30,English,Product,unlimited,2020
+34,Male,Berlin,Senior,DevOps,12,70000,25,English,Product,unlimited,2020
+35,Female,Berlin,Middle,Frontend Developer,12,70000,29,English,E-commerce,unlimited,2020
+34,Male,Berlin,Senior,Backend Developer,15,70000,30,English,Product,unlimited,2020
+36,Female,Berlin,Senior,Recruiter,11,70000,24,English,Product,unlimited,2020
+45,Male,Munich,Senior,Frontend Developer,3,70000,25,Russian,Startup,unlimited,2020
+33,Male,Berlin,Senior,Product Manager,5,70000,30,German,Product,unlimited,2020
+37,Male,Hamburg,Senior,Software Engineer,15,70000,25,English,Startup,Temporary contract,2020
+37,Female,Berlin,Middle,Designer (UI/UX),2,70000,24,English,Startup,Temporary contract,2020
+39,Male,Berlin,Senior,DevOps,15,70000,21,English,Product,unlimited,2020
+38,Male,Berlin,Senior,Mobile Developer,10,70000,24,English,Product,unlimited,2020
+31,Male,Hamburg,Lead,ML Engineer,3,70000,30,English,Startup,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,10,70000,27,English,Startup,unlimited,2020
+37,Male,Munich,Lead,DevOps,13,70000,25,English,Product,unlimited,2020
+39,Male,Berlin,Senior,Data Scientist,7,70000,28,English,Startup,unlimited,2020
+28,Male,Berlin,Middle,Data Scientist,4,70000,28,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Mobile Developer,10,70000,28,English,Product,unlimited,2020
+29,Male,Stuttgart ,Middle,Software Engineer,7,70000,30,English,Product,unlimited,2020
+34,Male,Berlin,Senior,QA Engineer,10,70000,30,English,Product,unlimited,2020
+28,Female,Berlin,Senior,Data Scientist,6,70000,27,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Backend Developer,5,70000,27,English,Product,unlimited,2020
+31,Male,Munich,Lead,Software Engineer,10,70000,28,English,Product,unlimited,2020
+38,Male,Munich,Senior,Software Engineer,15,70000,26,English,Product,unlimited,2020
+33,Male,Munich,Senior,Software Engineer,13,70000,24,English,Startup,unlimited,2020
+33,Male,Düsseldorf ,Senior,Product Manager,6,70000,24,English,Product,unlimited,2020
+33,Male,Düsseldorf ,Senior,Product Manager,6,70000,24,English,Product,unlimited,2020
+37,Male,Stuttgart ,Senior,Backend Developer,11,70000,30,English,Others,unlimited,2020
+47,Male,Bölingen,"no idea, there are no ranges in the firm ",Software Engineer,25,70000,30,German,Consulting / Agency,unlimited,2020
+32,Male,Berlin,Senior,Frontend Developer,13,70000,25,English,Product,unlimited,2020
+33,Male,Dusseldorf,Lead,Data Scientist,2,70000,25,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Backend Developer,13,70000,30,English,Product,unlimited,2020
+29,Male,Berlin,Middle,Software Engineer,6,70000,28,English,Product,unlimited,2020
+30,Male,Berlin,Senior,DevOps,7,70000,26,English,Product,unlimited,2020
+42,Male,Friedrichshafen,Senior,Software Engineer,20,70000,30,English,Product,unlimited,2020
+46,Male,Stuttgart,Middle,Software Engineer,13,70000,30,English,Product,unlimited,2020
+27,Male,Berlin,Senior,Backend Developer,4,70000,25,English,Startup,unlimited,2020
+27,Male,Berlin,Senior,ML Engineer,5,70000,25,English,Others,unlimited,2020
+36,Male,Berlin,Senior,Backend Developer,5,70000,28,English,Startup,unlimited,2020
+33,Male,Munich,Senior,Backend Developer,10,70000,30,English,Consulting / Agency,unlimited,2020
+33,Male,Berlin,Middle,Product Manager,5,70000,26,English,Product,Temporary contract,2020
+43,Male,Berlin,Middle,Software Engineer,20,70000,25,English,Product,unlimited,2020
+38,Female,Düsseldorf,Middle,Data Scientist,14,70000,32,German,Product,unlimited,2020
+26,Male,Berlin,Senior,Backend Developer,6,70000,27,English,Product,unlimited,2020
+34,Male,Berlin,Senior,ML Engineer,3,70000,30,English,Product,Temporary contract,2020
+32,Male,Frankfurt,Senior,Software Engineer,7,70000,30,German,Product,unlimited,2020
+30,Female,Berlin,Senior,QA Engineer,8,70000,31,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Designer (UI/UX),5,70000,24,German,Startup,unlimited,2020
+69,Male,Stuttgart,Head,Rentner,38,70000,24,German,Consulting / Agency,unlimited,2020
+25,Male,Munich,Senior,Frontend Developer,7,70000,28,English,Consulting / Agency,unlimited,2020
+33,Male,Munich,Senior,Backend Developer,13,70000,24,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,11,70000,24,English,Startup,unlimited,2020
+30,Female,Hamburg,Senior,Software Engineer,5,70000,24,English,Product,unlimited,2020
+30,Female,Hamburg,Senior,Software Engineer,5,70000,24,English,Product,unlimited,2020
+27,Male,Munich,Middle,QA Engineer,6,70000,30,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Software Engineer,6,70000,27,English,Product,unlimited,2020
+24,Male,Berlin,Middle,Mobile Developer,3.5,70000,27,English,Product,unlimited,2020
+36,Male,Berlin,Senior,Software Engineer,15,70000,26,English,Product,unlimited,2020
+37,Male,Aachen,Senior,QA Engineer,15,70000,28,English,Product,unlimited,2020
+29,Male,Munich,Middle,Data Scientist,6,70000,28,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Backend Developer,9,70000,26,English,Product,unlimited,2020
+30,Male,Munich,Middle,DevOps,8,70200,30,English,Product,unlimited,2020
+33,Male,Stuttgart,Lead,Team Lead,12,70200,30,German,Consulting / Agency,unlimited,2020
+39,Female,Berlin,Senior,Software Engineer,10,70500,30,German,Consulting / Agency,unlimited,2020
+23,Male,Berlin,Middle,Software Engineer,4,70500,30,English,Product,unlimited,2020
+28,Male,Berlin,Lead,Mobile Developer,5,70800,28,English,Consulting / Agency,unlimited,2020
+32,Male,Munich,Senior,SAP Developer,9,70800,30,German,Consulting / Agency,unlimited,2020
+42,Female,Munich,Senior,Business Analyst,15,71000,31,Deutsch,Bodyshop / Outsource,unlimited,2019
+35,Female,Berlin,Senior,Data Scientist,5,71000,26,English,Startup,unlimited,2019
+23,Male,Munich,Middle,Data Scientist,3,71000,30,English,Startup,unlimited,2019
+37,Male,Utrecht,Middle,Product manager,17,71000,25,English,Product,unlimited,2019
+30,Male,Amsterdam,Senior,Backend Developer,10,71000,25,English,Product,unlimited,2019
+27,Male,Munich,Senior,Software Engineer,5,71000,30,English,Product,unlimited,2020
+26,Male,Berlin,Middle,Software Engineer,5,71000,27,English,Product,unlimited,2020
+30,Male,Stuttgart,Middle,Software Engineer,8,71000,24,English,Product,unlimited,2020
+30,Male,Berlin,Middle,Software Engineer,10,71000,27,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Frontend Developer,10,71060,28,English,Startup,unlimited,2020
+25,Male,Berlin,Senior,Software Engineer,6,71750,30,English,Product,unlimited,2020
+31,Male,Berlin,Middle,Mobile Developer,6,72000,27,English,Product,unlimited,2019
+32,Male,Berlin,Senior,DevOps,7,72000,24,English,Product,unlimited,2019
+35,Male,Frankfurt,Middle,Business Analyst,15,72000,28,English,Product,unlimited,2019
+27,Male,Munich,Senior,Mobile Developer,5,72000,30,English,Consulting / Agency,unlimited,2019
+35,Male,Munich,Senior,DevOps,16,72000,31,Deutsch,Consulting / Agency,unlimited,2019
+35,Male,Berlin,Senior,Frontend Developer,11,72000,26,English,Product,unlimited,2019
+24,Female,Munich,Junior,Backend Developer,1,72000,30,English,Product,unlimited,2019
+37,Male,Munich,Senior,Backend Developer,14,72000,27,English,Product,unlimited,2019
+31,Male,Munich,Lead,Fullstack Developer,10,72000,28,English,Product,unlimited,2019
+29,Male,Berlin,Senior,DevOps,10,72000,30,English,Product,unlimited,2019
+30,Male,Munich,Senior,Mobile Developer,9,72000,24,Russian,Startup,unlimited,2019
+31,Male,Munich,Senior,SRE,10,72000,30,Deutsch,Consulting / Agency,unlimited,2019
+34,Male,Cologne,Middle,Data Scientist,8,72000,30,English,Product,Temporary contract,2019
+36,Male,Bielefeld,Senior,Fullstack Developer,16,72000,24,English,Product,unlimited,2019
+29,Male,Berlin,Senior,Fullstack Developer,8,72000,30,English,Startup,unlimited,2019
+37,Male,Munich,Senior,Backend Developer,14,72000,27,English,Product,unlimited,2019
+37,Male,Hamburg,Senior,Backend Developer,12,72000,29,English,Product,unlimited,2019
+35,Male,Amsterdam,Senior,Backend Developer,7,72000,25,English,Product,unlimited,2019
+33,Male,Munich,Middle,Product Manager,5,72000,28,English,Startup,unlimited,2019
+24,Male,Amsterdam,Middle,Frontend Developer,4,72000,26,English,Product,unlimited,2019
+35,Male,Stuttgart,Senior,Manager,5,72000,30,English,Bodyshop / Outsource,unlimited,2019
+24,Female,Warsaw,Junior,Modelling Specialist,1,72000,20,Polish,Bank,unlimited,2019
+28,Male,Berlin,Senior,Backend Developer,7,72000,30,English,Product,unlimited,2019
+41,Male,Berlin,Senior,Data Engineer,25,72000,26,English,Startup,unlimited,2019
+28,Male,Würzburg ,Middle,Fullstack Developer,6,72000,27,Deutsch,Startup,unlimited,2019
+42,Male,Berlin,Senior,DevOps,18,72000,25,English,Product,unlimited,2019
+28,Male,Amsterdam,Senior,Security Engineer,7,72000,27,English,Bank,unlimited,2019
+29,Male,Berlin,Senior,Frontend Developer,7,72000,27,English,Product,unlimited,2020
+28,Male,Munich,Senior,Backend Developer,5,72000,28,English,Product,unlimited,2020
+34,Male,Munich,Lead,Software Engineer,13,72000,30,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,10,72000,28,English,Product,unlimited,2020
+43,Male,Berlin,Senior,Mobile Developer,5,72000,30,English,Product,unlimited,2020
+36,Male,Berlin,Senior,Frontend Developer,12,72000,26,English,Startup,unlimited,2020
+29,Male,Berlin,Senior,Backend Developer,8,72000,25,English,Startup,unlimited,2020
+41,Male,Munich,Middle,Product Manager,18,72000,30,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Backend Developer,11,72000,30,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Software Engineer,14,72000,26,English,Product,unlimited,2020
+37,Male,Berlin,Senior,Cloud Engineer,15,72000,36,English,Product,unlimited,2020
+34,Male,Munich,Middle,Product Manager,7,72000,28,English,Startup,unlimited,2020
+27,Male,Berlin,Senior,Backend Developer,7,72000,30,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,7,72000,25,English,Product,unlimited,2020
+40,Male,Frankfurt,Senior,Software Engineer,22,72000,30,German,Product,unlimited,2020
+32,Male,Berlin,Middle,Backend Developer,5,72000,30,English,Product,unlimited,2020
+35,Male,Cologne,Senior,Software Engineer,14,72000,35,English,Product,unlimited,2020
+26,Male,Hamburg,Senior,Software Engineer,7,72000,27,German,Consulting / Agency,unlimited,2020
+34,Male,Berlin,Senior,Mobile Developer,9,72000,27,English,Product,unlimited,2020
+43,Male,Munich,Senior,Consultant ,21,72000,28,German,Consulting / Agency,unlimited,2020
+32,Male,Munich,Senior,Software Engineer,7,72000,29,English,Startup,unlimited,2020
+30,Male,Berlin,Senior,Data Scientist,6,72000,27,English,Startup,unlimited,2020
+35,Male,Munich,Lead,DevOps,17,72000,30,English,Consulting / Agency,unlimited,2020
+40,Male,Berlin,Senior,Backend Developer,13,72000,30,English,Startup,unlimited,2020
+28,Male,Munich,Middle,Frontend Developer,5,72000,28,German,Product,unlimited,2020
+29,Male,Berlin,Middle,Security engineer,7,72000,25,English,Product,unlimited,2020
+26,Male,Berlin,Middle,DevOps,5,72000,23,English,Startup,unlimited,2020
+40,Male,Hildesheim,Senior,Software Engineer,16,72000,30,English,Product,unlimited,2020
+34,Male,Munich,Middle,DevOps,12,72000,28,English,Product,unlimited,2020
+44,Male,Berlin,Lead,QA Lead,15,72000,30,English,Product,unlimited,2020
+26,Male,Berlin,Middle,Backend Developer,5,72000,30,English,Product,unlimited,2020
+36,Male,Stuttgart,Lead,Lead Developer,8,72000,28,German,Others,unlimited,2020
+29,Female,Berlin,Senior,QA,11,72500,28,English,Consulting / Agency,unlimited,2019
+32,Male,Berlin,Senior,Software Engineer,11,72500,27,English,Product,unlimited,2020
+36,Male,Berlin,Senior,Backend Developer,14,73000,30,English,Product,unlimited,2019
+40,Male,Munich,Middle,Product Manager,15,73000,30,English,Product,unlimited,2019
+35,Male,Munich,Senior,DevOps,15,73000,24,Deutsch,Product,unlimited,2019
+31,Male,Munich,Senior,QA,8,73000,28,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Software Architect,10,73000,28,English,Product,unlimited,2019
+29,Male,Berlin,Senior,Backend Developer,8,73000,30,English,Product,unlimited,2019
+36,Male,Berlin,Middle,Backend Developer,15,73000,30,English,Consulting / Agency,unlimited,2020
+34,Male,Munich,Senior,Backend Developer,12,73000,30,English,Product,unlimited,2019
+30,Male,Cologne,Middle,Data Scientist,5,73000,30,English,Product,unlimited,2019
+45,Male,Munich,Senior,Backend Developer,19,73000,30,Deutsch,Product,unlimited,2019
+28,Male,Berlin,Senior,Backend Developer,7,73000,27,English,Product,unlimited,2019
+24,Male,Berlin,Senior,Data Scientist,4,73000,24,English,Startup,unlimited,2020
+38,Male,Hamburg,Senior,Software Engineer,12,73000,30,English,Product,unlimited,2020
+29,Male,Munich,Senior,SW Architect,8,73000,30,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Frontend Developer,4,73000,26,English,Product,unlimited,2020
+32,Male,Berlin,Lead,Software Engineer,9,73000,28,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,8,73000,25,English,Startup,unlimited,2020
+37,Male,Berlin,Senior,Software Engineer,11,73000,28,English,Product,unlimited,2020
+27,Male,Frankfurt,Middle,IT Manager,5,73000,37,English,Industry,unlimited,2020
+29,Male,Berlin,Senior,Software Engineer,9,73000,30,English,Product,unlimited,2020
+41,Male,Munich,Senior,Backend Developer,19,73200,30,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Data Scientist,5,73300,30,English,Consulting / Agency,unlimited,2019
+32,Male,Frankfurt,Middle,Data Scientist,3,73500,30,Deutsch,Product,unlimited,2019
+33,Male,Berlin,Middle,Backend Developer,13,73500,30,English,Product,unlimited,2019
+34,Male,Munich,Senior,Frontend Developer,5,73500,27,English,Product,unlimited,2020
+28,Female,Berlin,Middle,Data Scientist,4,73700,28,English,Product,unlimited,2020
+25,Male,Munich,Senior,Frontend Developer,4,74000,30,English,Product,Temporary contract,2019
+33,Male,Berlin,Senior,Embedded Developer,9,74000,30,English,Product,unlimited,2019
+34,Female,Berlin,Senior,QA,12,74000,30,Deutsch,Product,unlimited,2019
+28,Male,Munich,Senior,Backend Developer,7,74000,28,English,Product,unlimited,2019
+23,Male,Berlin,Middle,Backend Developer,3,74000,30,English,Consulting / Agency,unlimited,2019
+29,Male,Munich,Senior,Embedded Developer,4,74000,30,English,Product,unlimited,2019
+29,Male,Amsterdam,Senior,QA,8,74000,30,English,Product,Temporary contract,2019
+30,Male,Berlin,Senior,Software Engineer,6,74000,27,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Backend Developer,6,74000,30,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Frontend Developer,11,74000,28,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Frontend Developer,9,74000,30,English,Startup,unlimited,2020
+34,Male,Munich,Senior,Software Engineer,12,74000,30,English,Product,unlimited,2020
+30,Male,Berlin,Middle,Backend Developer,8,74000,27,English,Product,unlimited,2020
+32,Female,Berlin,Middle,DevOps,9,74000,40,English,Product,unlimited,2020
+33,Male,Berlin,Senior,Frontend Developer,10,74000,28,English,Startup,unlimited,2020
+27,Male,Berlin,Middle,Data Engineer,6,74000,25,English,Product,unlimited,2020
+36,Male,Nuremberg,Lead,Software Engineer,20,74000,28,German,Finance,unlimited,2020
+38,Male,Munich,Senior,Product Manager,12,74000,30,English,Product,unlimited,2020
+31,Male,Munich,Middle,Software Engineer,5,74000,27,English,Product,unlimited,2020
+34,Male,Munich,Senior,Software Engineer,10,74000,30,English,Product,unlimited,2020
+31,Male,Frankfurt,Middle,Backend Developer,7,74200,35,English,Product,unlimited,2019
+35,Male,Amsterdam,Senior,Data Engineer,10,74400,25,English,Product,unlimited,2019
+35,Male,Berlin,Senior,QA Engineer,11,74400,30,English,Product,unlimited,2020
+32,Female,Amsterdam,Senior,Business Analyst,7,74900,25,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Data Engineer,5,75000,30,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Backend Developer,10,75000,25,English,Product,unlimited,2019
+29,Male,Düsseldorf,Senior,Backend Developer,9,75000,25,English,Product,unlimited,2019
+30,Male,Wolfsburg,Senior,Backend Developer,4,75000,26,English,Consulting / Agency,unlimited,2019
+28,Male,Berlin,Senior,Data Scientist,4,75000,28,English,Startup,unlimited,2019
+28,Male,Munich,Senior,Mobile Developer,8,75000,30,English,Startup,unlimited,2019
+38,Male,Berlin,Senior,Backend Developer,18,75000,30,English,Product,unlimited,2019
+33,Male,Berlin,Senior,QA,8,75000,28,English,Startup,unlimited,2019
+48,Female,Munich,Senior,Manager,11,75000,27,English,Product,unlimited,2019
+36,Male,Munich,Middle,Backend Developer,10,75000,30,English,Product,unlimited,2019
+34,Male,Karlsruhe,Senior,Fullstack Developer,12,75000,27,English,Product,unlimited,2019
+31,Male,Munich,Senior,Backend Developer,9,75000,28,English,Startup,unlimited,2019
+30,Male,Munich,Senior,Frontend Developer,9,75000,27,Russian,Product,unlimited,2019
+24,Male,Berlin,Middle,Machine Learning Engineer,3,75000,24,English,Startup,unlimited,2019
+36,Male,Berlin,Senior,Software Architect,14,75000,28,English,Product,unlimited,2019
+29,Male,Munich,Senior,Fullstack Developer,9,75000,30,English,Product,unlimited,2019
+37,Male,Amsterdam,Senior,QA,14,75000,25,English,Product,unlimited,2019
+34,Male,Pforzheim,Senior,Backend Developer,13,75000,29,Deutsch,Product,unlimited,2019
+31,Female,Munich,Senior,Mobile Developer,8,75000,26,English,Startup,unlimited,2019
+24,Male,Amsterdam,Senior,Machine Learning Engineer,3,75000,24,English,Startup,unlimited,2019
+35,Male,Munich,Senior,Network Engineer,12,75000,30,Deutsch,Consulting / Agency,unlimited,2019
+33,Male,Berlin,Senior,Backend Developer,8,75000,25,English,Product,unlimited,2019
+34,Male,Paris,Senior,Data Scientist,9,75000,30,French,Startup,unlimited,2019
+30,Male,Berlin,Senior,"CTO (CEO, CFO)",11,75000,25,English,Startup,Temporary contract,2019
+33,Male,Berlin,Senior,Machine Learning Engineer,11,75000,30,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Data Engineer,6,75000,28,English,Product,unlimited,2019
+36,Male,Berlin,Senior,DevOps,15,75000,30,English,Startup,unlimited,2019
+39,Male,Berlin,Senior,Data Engineer,10,75000,30,English,Product,unlimited,2019
+29,Male,Berlin,Senior,Data Engineer,8,75000,24,English,Others,unlimited,2019
+19,Male,Berlin,Senior,Software Engineer,0,75000,24,English,Others,unlimited,2020
+29,Male,Berlin,Lead,Software Engineer,9,75000,24,English,Startup,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,10,75000,27,English,Startup,Temporary contract,2019
+35,Male,Berlin,Senior,Data Engineer,15,75000,28,English,Product,unlimited,2019
+34,Female,Munich,Senior,Business Analyst,9,75000,24,English,Startup,unlimited,2019
+32,Male,Berlin,Senior,Backend Developer,12,75000,25,English,Product,unlimited,2019
+38,Male,Berlin,Senior,Software Architect,16,75000,24,English,Product,unlimited,2019
+28,Male,Berlin,Senior,Backend Developer,4,75000,30,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Frontend Developer,7,75000,25,English,Product,unlimited,2019
+31,Male,Berlin,Senior,DevOps,10,75000,28,English,Product,unlimited,2019
+38,Male,Berlin,Senior,Frontend Developer,10,75000,30,English,Product,unlimited,2019
+35,Male,Berlin,Senior,Backend Developer,13,75000,30,English,Product,unlimited,2019
+34,Male,Amsterdam,Senior,Fullstack Developer,12,75000,20,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Data Scientist,6,75000,27,English,Startup,Temporary contract,2019
+31,Male,Munich,Senior,Head of Engineering,11,75000,22,English,Startup,unlimited,2019
+41,Male,Munich,Senior,Backend Developer,20,75000,28,English,Product,unlimited,2019
+31,Female,Berlin,Senior,Backend Developer,5,75000,25,English,Product,unlimited,2019
+32,Male,Berlin,Senior,Fullstack Developer,10,75000,25,English,Startup,unlimited,2019
+41,Male,Amsterdam,Senior,Backend Developer,17,75000,25,English,Startup,unlimited,2019
+33,Male,Berlin,Senior,Backend Developer,11,75000,25.5,English,Product,unlimited,2019
+28,Male,Berlin,Junior,Data Scientist,2,75000,30,English,Startup,Temporary contract,2019
+25,Male,Berlin,Lead,Backend Developer,6,75000,24,English,Product,unlimited,2019
+26,Male,Berlin,Middle,Fullstack Developer,4,75000,30,English,Startup,unlimited,2019
+37,Male,Berlin,Lead,Backend Developer,17,75000,30,English,Product,unlimited,2019
+33,Male,Amsterdam,Middle,Manager,8,75000,29,English,Product,Temporary contract,2019
+25,Male,Amsterdam,Senior,Backend Developer,6,75000,25,English,Product,unlimited,2019
+28,Male,Berlin,Senior,Designer (UI/UX),11,75000,30,English,Product,unlimited,2020
+31,Male,Wolfsburg,Senior,Backend Developer,5,75000,25,English,Consulting / Agency,unlimited,2020
+24,Male,Berlin,Senior,DevOps,6,75000,27,English,Product,unlimited,2020
+28,Male,Berlin,Senior,Backend Developer,5,75000,25,English,Startup,unlimited,2020
+48,Male,Berlin,Senior,Software Engineer,25,75000,28,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Backend Developer,10,75000,30,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Software Engineer,5,75000,30,English,Product,unlimited,2020
+39,Male,Berlin,Senior,Software Engineer,10,75000,30,German,Consulting / Agency,unlimited,2020
+30,Male,Munich,Senior,Hardware Engineer,5,75000,30,English,Product,unlimited,2020
+37,Male,Munich,Senior,Software Engineer,15,75000,30,German,Product,unlimited,2020
+30,Female,Berlin,Senior,Software Engineer,8,75000,35,English,Product,unlimited,2020
+30,Male,Munich,Senior,Frontend Developer,6,75000,28,English,Product,unlimited,2020
+25,Male,Munich,Senior,Backend Developer,5,75000,24,English,Product,unlimited,2020
+34,Male,Berlin,Senior,QA Engineer,10,75000,28,English,Startup,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,6,75000,30,English,Product,unlimited,2020
+33,Male,Munich,Senior,Software Engineer,10,75000,30,English,Product,unlimited,2020
+47,Male,Munich,Senior,DevOps,20,75000,30,English,Product,unlimited,2020
+56,Male,Ingolstadt,Senior,Software Engineer,9,75000,30,German,Product,Temporary contract,2020
+45,Male,Berlin,Lead,Software Engineer,25,75000,30,German,Product,unlimited,2020
+35,Male,Berlin,Senior,Software Engineer,8,75000,27,English,Startup,unlimited,2020
+29,Male,Berlin,Senior,Software Engineer,12,75000,27,English,Product,unlimited,2020
+33,Male,Hamburg,Senior,Software Engineer,10,75000,30,English,Product,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,13,75000,27,English,Product,unlimited,2020
+31,Male,Munich,Middle,Software Engineer,11,75000,24,English,Product,unlimited,2020
+39,Male,Stuttgart,Lead,Software Engineer,11,75000,30,English,Product,unlimited,2020
+30,Male,Munich,Lead,Mobile Developer,8,75000,24,English,Startup,unlimited,2020
+28,Male,Würzburg,Senior,Software Engineer,8,75000,28,English,Product,unlimited,2020
+42,Male,Den Haag,Senior,Backend Developer,20,75000,25,English,Product,unlimited,2020
+40,Male,Braunschweig ,Senior,SAP BW Senior Consultant ,11,75000,30,German,Financial ,unlimited,2020
+30,Male,Munich,Senior,Software Engineer,10,75000,30,English,Product,unlimited,2020
+42,Male,Berlin,Senior,Software Engineer,17,75000,28,English,Startup,unlimited,2020
+29,Male,Munich,Middle,Software Engineer,8,75000,30,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Frontend Developer,10,75000,30,English,Startup,unlimited,2020
+35,Male,Berlin,Senior,SRE,10,75000,28,English,Product,unlimited,2020
+33,Male,Berlin,Lead,Software Engineer,10,75000,26,English,Startup,unlimited,2020
+25,Male,Berlin,Middle,ML Engineer,4.5,75000,30,English,Startup,unlimited,2020
+36,Male,Berlin,Middle,Backend Developer,14,75000,30,English,Product,unlimited,2020
+33,Male,Berlin,Senior,DevOps,8,75000,30,English,service,unlimited,2020
+36,Female,Berlin,Senior,Data Scientist,5,75000,28,English,Startup,unlimited,2020
+32,Female,Berlin,Lead,Software Engineer,6,75000,28,English,Startup,unlimited,2020
+32,Female,Munich,Middle,Data Engineer,10,75000,27,English,Startup,unlimited,2020
+28,Female,Munich,Senior,QA Engineer,8,75000,30,English,Product,unlimited,2020
+41,Male,Munich,Senior,Software Engineer,19,75000,27,English,Product,unlimited,2020
+39,Male,Cologne,Head,Teamlead,12,75000,30,German,Startup,unlimited,2020
+33,Male,Amsterdam,Senior,Backend Developer,8,75000,27,English,Product,Temporary contract,2020
+33,Male,Berlin,Senior,Mobile Developer,8,75000,30,English,Product,unlimited,2020
+38,Male,Berlin,Senior,Software Engineer,15,75000,28,English,Product,unlimited,2020
+28,Male,Berlin,Senior,Fullstack Developer,6,75000,23,English,Startup,unlimited,2020
+31,Male,Munich,Senior,Software Engineer,14,75000,30,English,Consulting / Agency,unlimited,2020
+44,Male,Frankfurt,Senior,Software Engineer,10,75000,30,Russian,Product,unlimited,2020
+34,Male,Berlin,Senior,BI Developer / Data Engineer,10,75000,30,English,Product,unlimited,2020
+28,Male,London,Senior,Software Engineer,8,75000,28,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Backend Developer,9,75000,25,English,Startup,unlimited,2020
+29,Male,Berlin,Senior,Data Scientist,5,75000,24,English,Startup,unlimited,2020
+35,Female,Munich,Senior,Data Scientist,5,75000,30,English,Bank,unlimited,2020
+26,Male,Munich,Middle,Software Engineer,4,75000,30,English,Startup,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,7,75000,30,English,Product,unlimited,2020
+35,Male,Berlin,Middle,Software Engineer,12,75000,28,English,Product,unlimited,2020
+27,Female,Berlin,Senior,Data Scientist,5,75000,24,English,Product,unlimited,2020
+32,Male,Munich,Lead,Software Engineer,10,75000,27,English,Product,unlimited,2020
+36,Male,Berlin,Senior,Backend Developer,10,75000,30,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Mobile Developer,8,75000,26,English,Product,unlimited,2020
+39,Male,Berlin,Lead,Software Engineer,15,75000,24,English,Startup,unlimited,2020
+37,Female,Berlin,Head,Data Scientist,7,75000,28,English,Startup,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,9,75000,27,English,Startup,unlimited,2020
+34,Male,Berlin,Senior,Backend Developer,12,75000,27,English,Product,unlimited,2020
+54,Male,Munich,Middle,Software Engineer,25,75000,29,English,Consulting / Agency,unlimited,2020
+31,Male,Berlin,Senior,Backend Developer,7,75000,28,English,Product,unlimited,2020
+36,Male,Amsterdam,Senior,Mobile Developer,14,75000,20,English,Consulting / Agency,unlimited,2020
+29,Male,Berlin,Senior,Backend Developer,5,75000,25,English,Product,unlimited,2020
+35,Male,Karlsruhe,Senior,Software Engineer,12,75000,28,English,Product,unlimited,2020
+39,Male,Munich,Senior,Fullstack Developer,15,75700,30,English,Product,unlimited,2019
+36,Female,Munich,Senior,Backend Developer,13,76000,30,English,Startup,unlimited,2019
+33,Male,Berlin,Middle,Backend Developer,10,76000,28,English,Product,unlimited,2019
+26,Male,Frankfurt,Middle,Frontend Developer,6,76000,30,Deutsch,Product,unlimited,2019
+33,Male,Eindhoven,Senior,Manager,8,76000,25,English,Product,unlimited,2019
+32,Male,Berlin,Senior,DevOps,5,76000,30,English,Startup,unlimited,2020
+31,Male,Berlin,Lead,Software Engineer,7,76000,27,English,Startup,unlimited,2020
+35,Female,Berlin,Senior,Software Engineer,15,76000,30,German,Product,unlimited,2020
+44,Male,Stuttgart,Senior,Software Engineer,22,76000,30,English,Startup,unlimited,2020
+32,Male,Munich,Senior,QA Engineer,9,76000,28,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Software Engineer,10,76000,30,English,Product,unlimited,2020
+30,Female,Berlin,Senior,Data Scientist,6,76000,27,English,Product,unlimited,2020
+31,Male,Berlin,Lead,Product Manager,5,76000,28,English,Startup,unlimited,2020
+39,Male,Berlin,Senior,QA Engineer,7,76000,30,English,Product,unlimited,2020
+37,Male,Munich,Senior,Backend Developer,17,76500,28,English,Product,unlimited,2019
+34,Male,Munich,Senior,QA Engineer,5,76500,3,English,Product,unlimited,2020
+37,Male,Berlin,Senior,Software Engineer,8,76900,26,English,Product,unlimited,2020
+36,Male,Berlin,Senior,Manager,15,77000,24,English,Product,Temporary contract,2019
+30,Male,Munich,Head,DevOps,10,77000,25,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Data Engineer,5,77000,28,English,Product,unlimited,2019
+38,Male,Frankfurt,Senior,Software Architect,15,77000,25,Deutsch,Product,unlimited,2019
+33,Male,Berlin,Middle,Data Scientist,3,77000,26,English,Startup,unlimited,2019
+32,Male,Berlin,Middle,Backend Developer,3,77000,30,English,Product,unlimited,2020
+40,Male,Munich,Senior,Software Engineer,13,77000,30,English,Product,unlimited,2020
+45,Male,Berlin,Lead,Mobile Developer,10,77000,28,English,Product,unlimited,2020
+35,Male,Munich,Senior,Backend Developer,14,77000,30,English,Startup,unlimited,2020
+35,Male,Berlin,Principal,Software Engineer,15,77000,30,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,8,77000,27,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Data Analyst,9,77000,28,German,Startup,unlimited,2020
+37,Male,Berlin,Senior,Mobile Developer,17,77000,28,English,Product,unlimited,2020
+33,Female,Berlin,Senior,Data Scientist,8,77000,27,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Backend Developer,5,77000,28,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Data Scientist,12,77000,27,English,Startup,unlimited,2020
+30,Male,Berlin,Middle,Software Engineer,9,77000,26,English,Product,unlimited,2020
+24,Male,Munich,Junior,DevOps,3,77000,30,English,FAANG,unlimited,2020
+29,Male,Berlin,Senior,Frontend Developer,8,77250,27,English,Product,unlimited,2020
+38,Male,Berlin,Senior,Backend Developer,13,77400,30,Deutsch,Product,unlimited,2019
+35,Male,Munich,Senior,Mobile Developer,7,77500,29,English,Product,unlimited,2019
+35,Male,Amsterdam,Senior,Backend Developer,16,77500,27.5,English,Bank,unlimited,2019
+34,Male,Vienna,Senior,Data Scientist,12,77500,25,English,Consulting / Agency,unlimited,2020
+31,Male,Berlin,Middle,ML Engineer,5,77500,28,English,Product,unlimited,2020
+24,Male,Munich,Middle,Software Engineer,3,77600,30,English,Product,unlimited,2020
+30,Male,Amsterdam,Senior,Frontend Developer,12,77700,25,English,Startup,Temporary contract,2019
+31,Male,Berlin,Senior,Data Scientist,6,78000,24,English,Product,unlimited,2019
+35,Male,Munich,Senior,Embedded Developer,12,78000,30,English,Consulting / Agency,unlimited,2019
+54,Male,Ingolstadt,Senior,Data Scientist,8,78000,30,Deutsch,Product,Temporary contract,2019
+29,Male,Berlin,Senior,Backend Developer,7,78000,28,English,Product,unlimited,2019
+36,Male,Berlin,Senior,Backend Developer,10,78000,28,English,Product,unlimited,2019
+33,Male,Munich,Senior,Embedded Developer,11,78000,25,Russian,Bodyshop / Outsource,unlimited,2019
+41,Male,Munich,Senior,Backend Developer,20,78000,30,English,Product,unlimited,2019
+31,Male,Munich,Senior,Backend Developer,10,78000,28,English,Startup,unlimited,2019
+26,Male,Berlin,Middle,Backend Developer,6,78000,28,English,Product,unlimited,2019
+36,Male,Hamburg,Senior,DevOps,15,78000,30,English,Others,unlimited,2019
+32,Male,Berlin,Senior,Mobile Developer,10,78000,30,English,Consulting / Agency,unlimited,2019
+38,Male,Düsseldorf,Middle,Data Scientist,3,78000,30,English,Product,unlimited,2019
+27,Male,Amsterdam,Middle,Backend Developer,4,78000,25,English,Product,unlimited,2019
+31,Male,Berlin,Senior,SRE,10,78000,25,English,Product,unlimited,2019
+40,Male,Amsterdam,Middle,System Administrator,20,78000,28,English,Product,unlimited,2019
+33,Male,Munich,Senior,Frontend Developer,5,78000,30,English,Startup,unlimited,2019
+38,Male,Berlin,Senior,Mobile Developer,11,78000,28,English,Startup,unlimited,2019
+35,Male,Munich,Senior,Embedded Developer,13,78000,30,English,Consulting / Agency,unlimited,2019
+30,Male,Berlin,Senior,Backend Developer,10,78000,28,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Fullstack Developer,11,78000,30,English,Startup,unlimited,2019
+32,Male,Berlin,Senior,Backend Developer,10,78000,27,English,Startup,unlimited,2019
+41,Male,Berlin,Senior,Product Manager,18,78000,28,English,Startup,unlimited,2020
+27,Male,Berlin,Senior,Software Engineer,5,78000,30,English,Startup,unlimited,2020
+29,Male,Berlin,Lead,DevOps,7,78000,28,English,Product,unlimited,2020
+26,Male,Munich,Senior,Backend Developer,7,78000,27,English,Product,unlimited,2020
+30,Male,Berlin,Lead,Software Engineer,10,78000,24,English,Startup,unlimited,2020
+40,Male,Munich,Lead,QA Engineer,18,78000,30,German,Product,unlimited,2020
+34,Male,Berlin,Lead,Software Engineer,12,78000,36,German,Product,unlimited,2020
+34,Female,Berlin,Senior,Software Engineer,9,78000,30,English,Product,unlimited,2020
+33,Male,Munich,Senior,Software Engineer,10,78000,30,German,Product,unlimited,2020
+36,Male,Berlin,Senior,Frontend Developer,14,78000,24,English,Startup,unlimited,2020
+29,Male,Berlin,Senior,Backend Developer,10,78000,30,English,Startup,unlimited,2020
+31,Male,Berlin,Senior,Data Scientist,6,78000,24,English,E-commerce,unlimited,2020
+28,Male,Berlin,Lead,DevOps,10,78000,24,English,Product,unlimited,2020
+37,Male,Berlin,Senior,Embedded Software Engineer,15,78000,28,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Software Engineer,10,78000,27,German,Product,unlimited,2020
+39,Male,Berlin,Lead,Engineering Manager,15,78000,30,German,Product,unlimited,2020
+29,Male,Munich,Middle,Software Engineer,4,78000,30,English,Semiconductor,unlimited,2020
+28,Male,Berlin,Lead,Data Scientist,6,78000,26,English,Consulting / Agency,unlimited,2020
+44,Male,Munich,Senior,Software Engineer,28,78500,30,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Software Architect,13,78600,30,English,Product,unlimited,2019
+33,Male,Berlin,Senior,Backend Developer,13,78600,30,English,Product,unlimited,2020
+35,Male,Munich,Senior,Software Architect,6,79000,30,Deutsch,Consulting / Agency,unlimited,2019
+38,Male,Hannover,Senior,Data Scientist,5,79000,30,Deutsch,Consulting / Agency,unlimited,2019
+30,Male,Berlin,Senior,Backend Developer,9,79000,27,English,Startup,unlimited,2019
+38,Male,Walldorf,Senior,Fullstack Developer,17,79000,30,Deutsch,Product,unlimited,2019
+24,Male,Munich,Middle,Software Engineer,5,79000,30,English,Product,unlimited,2020
+43,Male,Berlin,Senior,Software Engineer,20,79000,27,English,Product,unlimited,2020
+31,Male,Munich,Senior,Frontend Developer,8,79000,30,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Frontend Developer,6,79000,27,English,Product,unlimited,2020
+30,Male,Munich,Senior,Software Engineer,10,79000,24,English,Product,unlimited,2020
+33,Male,Munich,Senior,SRE,10,79000,30,English,Product,unlimited,2020
+36,Male,Munich,Senior,IT Spezialist,15,79300,30,German,Product,unlimited,2020
+33,Male,Berlin,Middle,Machine Learning Engineer,11,80000,27,English,Product,unlimited,2019
+38,Male,Berlin,Senior,Backend Developer,16,80000,24,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Fullstack Developer,12,80000,30,English,Product,unlimited,2019
+30,Male,Munich,Middle,DevOps,10,80000,27,English,Product,unlimited,2019
+36,Male,Berlin,Lead,Manager,15,80000,30,English,Product,unlimited,2019
+30,Male,Munich,Middle,DevOps,10,80000,30,English,Product,unlimited,2019
+43,Male,Berlin,Senior,QA,8,80000,24,English,Startup,unlimited,2019
+37,Male,Berlin,Senior,Manager,14,80000,28,Russian,Product,unlimited,2019
+33,Male,Berlin,Senior,Mobile Developer,10,80000,28,English,Product,unlimited,2019
+36,Male,Berlin,Senior,Manager,13,80000,30,English,Product,unlimited,2019
+29,Male,Munich,Middle,Fullstack Developer,8,80000,28,English,Product,unlimited,2019
+32,Male,Munich,Lead,Backend Developer,14,80000,30,Deutsch,Product,unlimited,2019
+25,Male,Munich,Senior,Frontend Developer,5,80000,30,English,Product,unlimited,2019
+26,Male,Berlin,Senior,Data Scientist,5,80000,24,English,Startup,unlimited,2019
+33,Male,Munich,Senior,Cloud Platform Engineer,10,80000,30,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Machine Learning Engineer,10,80000,30,English,Product,unlimited,2019
+36,Male,Berlin,Senior,Frontend Developer,10,80000,30,English,Product,unlimited,2019
+32,Male,Vienna,Lead,Software Architect,12,80000,25,English,Product,unlimited,2019
+32,Male,Berlin,Senior,Data Engineer,12,80000,26,English,Startup,unlimited,2019
+26,Male,Berlin,Senior,Backend Developer,7,80000,26,English,Startup,unlimited,2019
+25,Male,Berlin,Senior,Data Scientist,6,80000,24,English,Product,Temporary contract,2019
+38,Male,Berlin,Senior,Backend Developer,7,80000,26,English,Startup,unlimited,2019
+40,Female,Berlin,Senior,Backend Developer,18,80000,27,English,Product,unlimited,2019
+39,Male,Hamburg,Senior,SAP Consultant,20,80000,30,Deutsch,Consulting / Agency,Temporary contract,2019
+25,Male,Berlin,Senior,Backend Developer,5,80000,28,English,Product,unlimited,2019
+31,Male,Hamburg,Senior,Mobile Developer,10,80000,25,English,Startup,unlimited,2019
+27,Male,Berlin,Senior,Backend Developer,8,80000,30,English,Product,unlimited,2019
+32,Male,Hamburg,Senior,Software Engineer,12,80000,30,German,Consulting / Agency,Temporary contract,2020
+30,Male,Frankfurt,Senior,Data Scientist,4,80000,30,English,Product,unlimited,2019
+37,Male,Berlin,Senior,Manager,15,80000,28,English,Startup,unlimited,2019
+28,Male,Berlin,Senior,Backend Developer,7,80000,30,English,Product,unlimited,2019
+30,Male,Munich,Senior,Backend Developer,10,80000,31,English,Product,unlimited,2019
+30,Male,Amsterdam,Senior,Fullstack Developer,8,80000,25,English,Product,unlimited,2019
+35,Male,Berlin,Senior,Manager,11,80000,26,English,Product,Temporary contract,2019
+30,Male,Amsterdam,Middle,Backend Developer,10,80000,25,English,Product,Temporary contract,2019
+33,Male,Amsterdam,Senior,Manager,15,80000,27,English,Consulting / Agency,unlimited,2019
+37,Male,Amsterdam,Senior,DevOps,15,80000,24,English,Product,unlimited,2019
+31,Male,Munich,Middle,DevOps,8,80000,24,English,Others,unlimited,2019
+26,Male,Munich,Senior,Software Engineer,5,80000,30,English,Product,unlimited,2020
+26,Male,Berlin,Senior,Backend Developer,7,80000,28,English,Product,unlimited,2020
+34,Male,Berlin,Lead,Mobile Developer,11,80000,28,English,Product,unlimited,2020
+38,Male,Berlin,Lead,Team Lead,18,80000,28,English,Product,unlimited,2020
+39,Male,Berlin,Senior,Software Engineer,8,80000,29,English,Startup,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,8,80000,28,English,Product,unlimited,2020
+29,Male,Munich,Senior,Software Engineer,7,80000,24,English,Product,unlimited,2020
+31,Male,Berlin,Lead,Engineering Manager,11,80000,27,English,Startup,unlimited,2020
+28,Male,Berlin,Lead,Software Engineer,8,80000,30,English,Product,unlimited,2020
+31,Female,Munich,Middle,agile master ,14,80000,30,German,Product,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,8,80000,25,English,Product,unlimited,2020
+31,Male,Munich,Senior,Backend Developer,11,80000,30,English,Product,unlimited,2020
+35,Male,Munich,Senior,Software Engineer,13,80000,40,English,Product,unlimited,2020
+42,Male,Berlin,Senior,Software Engineer,20,80000,27,German,Product,unlimited,2020
+28,Male,Hamburg,Senior,Software Engineer,7,80000,30,English,Product,unlimited,2020
+32,Male,Berlin,Lead,Software Engineer,11,80000,28,English,Product,unlimited,2020
+46,Male,Berlin,Senior,Software Engineer,14,80000,30,English,Product,unlimited,2020
+36,Male,Berlin,Lead,Engineering Manager,7,80000,26,English,Product,unlimited,2020
+35,Male,Stuttgart,Senior,Security Manager,14,80000,30,German,Product,unlimited,2020
+42,Male,Berlin,Senior,ML Engineer,20,80000,30,German,Product,unlimited,2020
+41,Male,Munich,Senior,Backend Developer,21,80000,30,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Mobile Developer,7,80000,27,English,Product,unlimited,2020
+46,Male,Berlin,Senior,Software Engineer,14,80000,30,English,Product,unlimited,2020
+29,Male,Munich,Senior,Software Engineer,7,80000,24,English,Startup,unlimited,2020
+28,Female,Berlin,Lead,Software Engineer,8,80000,28,English,Product,unlimited,2020
+34,Male,Berlin,Lead,Software Engineer,15,80000,28,English,Product,unlimited,2020
+25,Male,Berlin,Middle,Backend Developer,5,80000,30,English,Startup,unlimited,2020
+38,Male,Berlin,Lead,Security Engineer,5,80000,30,English,Startup,unlimited,2020
+29,Male,Berlin,Senior,Backend Developer,10,80000,30,English,Product,unlimited,2020
+38,Male,Munich,Senior,Software Engineer,15,80000,30,English,Corporation,unlimited,2020
+31,Male,Berlin,Senior,Mobile Developer,10,80000,27,English,Product,unlimited,2020
+35,Male,Frankfurt,Senior,Frontend Developer,6,80000,30,English,Product,unlimited,2020
+27,Male,Berlin,Senior,DevOps,7,80000,26,English,Startup,unlimited,2020
+40,Male,Berlin,Head,Engineering manager,15,80000,28,English,Product,unlimited,2020
+39,Male,Hamburg,Senior,Data Scientist,10,80000,30,English,Energy ,unlimited,2020
+23,Male,Berlin,Middle,Backend Developer,3,80000,28,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Software Engineer,15,80000,30,English,Consulting / Agency,unlimited,2020
+32,Male,Berlin,Lead,Backend Developer,10,80000,28,English,Product,unlimited,2020
+28,Male,Frankfurt,Senior,Frontend Developer,7,80000,29,English,Startup,unlimited,2020
+33,Male,Munich,Senior,Software Engineer,11,80000,30,English,Product,unlimited,2020
+33,Male,Heidelberg,Senior,Software Engineer,11,80000,30,English,Research institute,Temporary contract,2020
+31,Male,Berlin,Middle,ML Engineer,7,80000,28,English,Product,unlimited,2020
+30,Male,Berlin,Middle,DevOps,7,80000,30,English,Startup,unlimited,2020
+34,Male,Berlin,Senior,Data Scientist,6,80000,27,English,Product,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,10,80000,28,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,8,80000,28,English,Product,unlimited,2020
+37,Male,Munich,Senior,Software Engineer,15,80000,30,German,Consulting / Agency,unlimited,2020
+38,Male,Berlin,Head,Head of IT ,15,80000,30,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Mobile Developer,9,80000,27,English,Product,unlimited,2020
+30,Male,Berlin,Senior,DevOps,11,80000,26,English,Product,unlimited,2020
+31,Male,Berlin,Lead,Software Engineer,7,80000,28,English,Product,unlimited,2020
+37,Male,Walldorf,Lead,ML Engineer,15,80000,30,English,Product,unlimited,2020
+30,Male,Hamburg,Head,Data Scientist,5,80000,25,English,Startup,unlimited,2020
+34,Male,France,Senior,Data Scientist,11,80000,25,French,Consulting / Agency,unlimited,2020
+33,Male,Munich,Senior,Frontend Developer,14,80000,28,German,Product,unlimited,2020
+32,Male,Munich,Lead,Frontend Developer,10,80000,25,English,Startup,unlimited,2020
+31,Male,Munich,Lead,Professor,10,80000,365,German,Education,unlimited,2020
+32,Male,Hamburg,Lead,Backend Developer,14,80000,28,English,Startup,unlimited,2020
+32,Male,Vienna,Lead,DataOps Team Lead,10,80000,25,German,Transport & Logistics,unlimited,2020
+32,Female,Munich,Senior,Data Scientist,5,80000,30,German,Product,unlimited,2020
+36,Male,Stockholm,Senior,Mobile Developer,14,80000,30,English,Product,unlimited,2020
+37,Male,Berlin,Senior,Software Engineer,16,80000,27,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Backend Developer,10,80000,24,English,Startup,unlimited,2020
+42,Male,Hamburg,Senior,Data Scientist,2,80000,30,German,Old industry,unlimited,2020
+40,Male,Berlin,Lead,Backend Developer,20,80000,24,English,Startup,unlimited,2020
+30,Female,Munich,Senior,SAP Consultant,10,80200,30,Deutsch,Others,unlimited,2019
+28,Male,Amsterdam,Senior,SAP Consultant,6,80500,30,English,Consulting / Agency,Temporary contract,2019
+38,Male,Berlin,Head,Manager,15,81000,30,Deutsch,Product,unlimited,2019
+30,Male,Munich,Lead,Data Scientist,8,81000,25,English,Startup,unlimited,2019
+30,Male,Berlin,Senior,Data Engineer,8,81000,25,English,Product,unlimited,2019
+27,Female,Berlin,Middle,Backend Developer,7,81000,28,English,Product,unlimited,2019
+37,Male,Frankfurt,Senior,Software Engineer,18,81000,30,English,Product,unlimited,2020
+33,Male,Amsterdam,Middle,Backend Developer,9,81000,26,English,Product,unlimited,2019
+30,Male,Amsterdam,Senior,Mobile Developer,6,81000,24,English,Product,unlimited,2019
+29,Male,Berlin,Senior,Data Scientist,4,81000,29,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Data Engineer,9,81000,24,English,Product,unlimited,2020
+31,Male,Berlin,Senior,DevOps,11,81000,28,English,Startup,unlimited,2020
+40,Male,Bodensee,Lead,Product Manager,17,81000,30,German,Product,unlimited,2020
+32,Male,Berlin,Senior,QA Engineer,10,81000,30,English,Product,unlimited,2020
+32,Male,Munich,Senior,Backend Developer,11,81200,30,English,Product,unlimited,2020
+36,Male,Frankfurt,Senior,Software Engineer,14,81500,30,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Backend Developer,11,81600,36,English,Product,unlimited,2019
+33,Male,Berlin,Senior,Backend Developer,9,81900,24,English,Startup,unlimited,2020
+39,Male,Berlin,Senior,Backend Developer,16,82000,26,English,Startup,unlimited,2019
+28,Male,Berlin,Lead,Frontend Developer,8,82000,30,English,Product,unlimited,2019
+38,Female,Stuttgart,Senior,Embedded Developer,14,82000,32,Deutsch,Product,unlimited,2019
+41,Male,Munich,Senior,Machine Learning Engineer,12,82000,30,English,Product,unlimited,2019
+22,Male,Amsterdam,Middle,Frontend Developer,5,82000,27,English,Product,unlimited,2019
+32,Male,Amsterdam,Middle,Backend Developer,12,82000,29,English,Product,unlimited,2019
+37,Male,Amsterdam,Middle,Fullstack Developer,18,82000,29,English,Product,unlimited,2019
+39,Male,Berlin,Senior,Solution Architect,10,82000,30,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Backend Developer,8,82000,28,English,Startup,unlimited,2019
+46,Male,Munich,Senior,Agile Coach,4,82000,30,English,Product,unlimited,2020
+36,Male,Hamburg,Senior,Backend Developer,10,82000,30,German,Product,unlimited,2020
+27,Male,Berlin,Middle,Software Engineer,6,82000,30,English,Product,unlimited,2020
+31,Male,Berlin,Lead,Software Engineer,10,82000,26,English,Startup,unlimited,2020
+27,Male,Berlin,Middle,ML Engineer,6,82000,28,English,Product,unlimited,2020
+43,Male,Stuttgart,Senior,SAP Consultant,20,82000,32,German,Product,unlimited,2020
+32,Male,Berlin,Senior,Data Engineer,7,82000,30,English,Product,unlimited,2020
+37,Male,Berlin,Senior,Data Scientist,10,82000,30,English,Product,unlimited,2020
+39,Male,Berlin,Lead,Software Engineer,12,82000,30,English,Product,unlimited,2020
+29,Male,Berlin,Senior,DevOps,7,82000,28,English,Consulting / Agency,unlimited,2020
+30,Male,Berlin,Lead,Backend Developer,10,82000,29,English,Startup,unlimited,2020
+31,Male,Düsseldorf,Senior,Backend Developer,11,82500,30,English,Product,unlimited,2019
+35,Male,Amsterdam,Senior,Backend Developer,15,82500,30,English,Product,unlimited,2019
+29,Male,Berlin,Head,Frontend Developer,8,82500,30,English,Product,unlimited,2020
+23,Male,Berlin,Senior,DevOps,6,83000,30,English,Startup,unlimited,2019
+42,Male,Frankfurt,Senior,Manager,18,83000,30,Deutsch,Consulting / Agency,unlimited,2019
+32,Male,Berlin,Lead,Software Engineer,10,83000,28,English,Product,unlimited,2019
+32,Male,Hilversum,Senior,Fullstack Developer,10,83000,25,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Manager,10,83000,24,English,Product,unlimited,2019
+36,Male,Berlin,Senior,Mobile Developer,14,83000,30,English,Product,unlimited,2019
+38,Male,Stuttgart,Lead,Hardware Engineer,15,83000,30,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Software Engineer,12,83000,27,English,Product,unlimited,2020
+38,Male,Berlin,Senior,Software Engineer,16,83000,27,English,Startup,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,16,83000,27,English,Product,unlimited,2020
+43,Male,Berlin,Lead,DevOps,21,83000,28,German,Startup,unlimited,2020
+28,Male,Berlin,Middle,Data Engineer,6,83000,30,English,Product,unlimited,2020
+36,Male,Dortmund,Senior,Software Engineer,8,83000,30,English,Product,unlimited,2020
+33,Male,Berlin,Senior,Backend Developer,13,83000,30,English,Startup,unlimited,2020
+31,Male,Berlin,Senior,Data Analyst,7,83000,26,English,Startup,unlimited,2020
+32,Male,Berlin,Lead,Software Engineer,13,83000,30,English,Product,unlimited,2020
+37,Male,Eindhoven,Senior,Backend Developer,16,83400,25,English,Product,Temporary contract,2019
+37,Male,Lugano,Middle,Fullstack Developer,3,84000,24,Italian,Product,unlimited,2019
+35,Male,Berlin,Senior,Backend Developer,10,84000,28,English,Product,unlimited,2019
+37,Male,Berlin,Senior,Frontend Developer,14,84000,30,English,IT Department of established business,unlimited,2020
+35,Male,Munich,Lead,Software Engineer,16,84000,28,English,Product,unlimited,2020
+37,Male,Munich,Head,Software Engineer,14,84000,30,English,Product,unlimited,2020
+34,Male,Cologne,Lead,CTO,14,84000,21,English,Product,unlimited,2020
+37,Male,Berlin,Senior,Mobile Developer,15,84700,29,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Backend Developer,12,85000,25,English,Startup,unlimited,2019
+38,Female,Berlin,Senior,Manager,10,85000,26,English,Startup,unlimited,2019
+43,Male,Frankfurt,Senior,Backend Developer,10,85000,30,Deutsch,Product,unlimited,2019
+29,Male,Munich,Lead,DevOps,10,85000,28,English,Product,unlimited,2019
+34,Male,Munich,Senior,Manager,16,85000,28,English,Product,unlimited,2019
+36,Male,Berlin,Senior,Frontend Developer,11,85000,28,English,Startup,unlimited,2019
+30,Male,Hamburg,Senior,Data Scientist,6,85000,25,English,Startup,unlimited,2019
+31,Male,Frankfurt,Senior,Data Scientist,7,85000,30,English,Others,unlimited,2019
+36,Male,Munich,Senior,DevOps,15,85000,28,English,Consulting / Agency,unlimited,2019
+25,Male,Munich,Middle,Data Scientist,7,85000,30,English,Consulting / Agency,unlimited,2019
+31,Male,Munich,Senior,Manager,10,85000,30,Deutsch,Product,unlimited,2019
+31,Male,Munich,Senior,Software Architect,12,85000,24,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Data Scientist,5,85000,30,Deutsch,Others,unlimited,2019
+29,Male,Berlin,Senior,DevOps,8,85000,30,English,Product,unlimited,2019
+26,Male,Amsterdam,Middle,Data Scientist,5,85000,24,English,Product,unlimited,2019
+39,Male,Berlin,Senior,Data Scientist,5,85000,24,Deutsch,Others,Temporary contract,2019
+35,Male,Berlin,Senior,Software Architect,8,85000,28,English,Product,unlimited,2019
+37,Male,Berlin,Senior,Data Scientist,15,85000,25,English,Startup,unlimited,2019
+36,Male,Hamburg,Lead,Machine Learning Engineer,5,85000,30,Deutsch,Consulting / Agency,unlimited,2019
+30,Male,Berlin,Senior,Manager,9,85000,100,English,Product,unlimited,2019
+35,Male,Berlin,Senior,SRE,13,85000,28,English,Product,unlimited,2019
+31,Male,Berlin,Senior,DevOps Manager,8,85000,26,English,Startup,unlimited,2019
+29,Male,Berlin,Lead,Software Engineer,6,85000,28,English,Product,unlimited,2020
+26,Male,Berlin,Lead,Software Engineer,8,85000,28,English,Product,unlimited,2020
+33,Male,Frankfurt,Middle,Solution Architect,6,85000,28,English,Product,unlimited,2020
+40,Male,Munich,Lead,Mobile Developer,25,85000,30,English,Product,unlimited,2020
+46,Male,Munich,Senior,Scrum Master,12,85000,30,German,Product,unlimited,2020
+31,Male,Munich,Lead,Frontend Developer,12,85000,29,English,Startup,unlimited,2020
+29,Male,Berlin,Senior,Backend Developer,9,85000,30,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Security Engineer,10,85000,28,English,Product,unlimited,2020
+37,Male,Berlin,Senior,Software Engineer,15,85000,30,English,Product,unlimited,2020
+29,Male,Berlin,Senior,Backend Developer,11,85000,30,English,Product,unlimited,2020
+32,Female,Cologne,Senior,Data Scientist,4,85000,30,English,consumer goods,unlimited,2020
+33,Male,Berlin,Lead,Technical Lead,10,85000,26,English,Startup,unlimited,2020
+34,Male,Berlin,Lead,Software Engineer,13,85000,32,English,Product,unlimited,2020
+32,Male,Berlin,Middle,Engineering Manager,10,85000,24,English,Product,unlimited,2020
+32,Male,Hamburg,Senior,Product Manager,7,85000,27,English,Product,unlimited,2020
+34,Male,Berlin,Lead,QA Engineer,10,85000,30,English,Startup,unlimited,2020
+40,Male,Karlsruhe,Lead,Team Manager,20,85000,30,English,Enterprise,unlimited,2020
+33,Male,Berlin,Senior,Data Engineer,13,85000,26,English,Startup,unlimited,2020
+38,Male,Dublin ,Senior,Mobile Developer,16,85000,24,English,Product,unlimited,2020
+32,Male,Amsterdam,Senior,Mobile Developer,13,85000,27,English,Bank,unlimited,2020
+34,Male,Berlin,Lead,Frontend Developer,13,85000,30,English,Product,unlimited,2020
+36,Male,Berlin,Senior,Product Manager,10,85000,30,English,Product,unlimited,2020
+28,Male,Berlin,Middle,Mobile Developer,6,85000,32,English,Product,unlimited,2020
+25,Male,Berlin,Senior,Mobile Developer,8,85000,24,English,Startup,unlimited,2020
+30,Male,Berlin,Head,Backend Developer,9,85000,25,English,Startup,unlimited,2020
+29,Male,Berlin,Lead,Engineering Manager,9,85000,27,English,Product,unlimited,2020
+39,Male,Berlin,Senior,Frontend Developer,10,85000,27,English,Product,unlimited,2020
+35,Male,Berlin,Lead,Engineering Manager,20,85000,26,English,Product,unlimited,2020
+35,Female,Berlin,Senior,Product Manager,13,85000,26,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Software Engineer,15,85000,25,English,Product,unlimited,2020
+30,Female,Cologne,Senior,Data Scientist,8,85000,30,both,Utilities,unlimited,2020
+35,Male,Luttich,Lead,Data Scientist,12,85000,37.5,English,Product,unlimited,2020
+35,Male,Berlin,Lead,Team lead,12,85000,28,English,Startup,unlimited,2020
+34,Male,Munich,Senior,Data Scientist,10,85000,28,English,Consulting / Agency,unlimited,2020
+36,Male,Berlin,Lead,Staff Engineer,15,85000,28,English,Product,unlimited,2020
+30,Male,Munich,Lead,DevOps,10,85000,28,English,Product,unlimited,2020
+35,Male,Duesseldorf,Senior,DevOps,17,85000,30,English,Consulting / Agency,unlimited,2020
+35,Male,Berlin,Senior,Software Engineer,15,85000,30,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,9,85000,24,English,Product,unlimited,2020
+33,Male,Berlin,Lead,Engineering Manager,15,85000,28,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,9,85000,28,English,Startup,unlimited,2020
+31,Male,Munich,Senior,Backend Developer,10,85000,27,English,Startup,unlimited,2020
+27,Female,Munich,Senior,Backend Developer,6,85600,25,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Backend Developer,8,86000,30,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Backend Developer,14,86000,25,English,Startup,Temporary contract,2019
+29,Male,Amsterdam,Senior,Backend Developer,8,86000,25,English,Product,unlimited,2019
+34,Male,Munich,Senior,Backend Developer,15,86000,30,English,Product,unlimited,2019
+28,Female,Amsterdam,Senior,Program Manager,10,86000,31,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,7,86000,30,English,Product,unlimited,2020
+25,Male,Berlin,Senior,Backend Developer,6,86000,28,English,Startup,unlimited,2020
+45,Male,Munich,Senior,Data Engineer,18,86700,30,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Backend Developer,10,87000,28,English,Product,unlimited,2019
+37,Male,Munich,Middle,Business Analyst,15,87000,30,English,Others,unlimited,2019
+26,Male,Berlin,Senior,Data Scientist,6,87000,28,English,Startup,unlimited,2019
+32,Male,Berlin,Senior,Software Architect,4,87000,30,English,Consulting / Agency,unlimited,2019
+30,Male,Berlin,Senior,Backend Developer,7,87000,30,English,Startup,unlimited,2019
+33,Male,Berlin,Senior,Backend Developer,10,87000,25,English,Bodyshop / Outsource,unlimited,2019
+27,Female,Amsterdam,Senior,Manager,8,87000,29,English,Product,unlimited,2019
+28,Male,Frankfurt,Senior,Data Scientist,6,87000,25,Deutsch,Startup,Temporary contract,2019
+33,Male,Amsterdam,Senior,Frontend Developer,10,87000,25,English,Product,unlimited,2019
+39,Male,Berlin,Senior,Software Engineer,19,87000,365,English,Startup,unlimited,2020
+36,Female,Berlin,Senior,Data Scientist,5,87000,30,English,Product,unlimited,2020
+30,Male,Amsterdam,Middle,Frontend Developer,10,87500,28,English,Product,unlimited,2019
+38,Male,Berlin,Senior,Data Scientist,10,87550,30,German,Product,unlimited,2020
+47,Male,Munich,Senior,Backend Developer,25,87600,24,Deutsch,Product,unlimited,2019
+40,Male,Berlin,Senior,Backend Developer,18,88000,28,English,Product,unlimited,2019
+40,Male,Frankfurt,Senior,Manager,18,88000,30,English,Bodyshop / Outsource,unlimited,2019
+32,Male,Berlin,Senior,Manager,10,88000,24,English,Product,unlimited,2019
+33,Male,Munich,Senior,DevOps,10,88000,30,English,Product,unlimited,2019
+30,Male,Berlin,Senior,SRE,11,88000,25,English,Product,unlimited,2019
+33,Female,Berlin,Senior,Software Engineer,12,88000,30,English,Product,unlimited,2020
+32,Male,Munich,Senior,Software Engineer,10,88000,30,English,Product,unlimited,2020
+36,Male,Berlin,Senior,Software Engineer,10,88000,28,German,Product,unlimited,2020
+40,Male,Mannheim,Middle,Software Engineer,9,88000,30,English,Product,unlimited,2020
+40,Female,Munich,Senior,SAP Consultant,9,89000,30,English,Product,unlimited,2019
+26,Female,Berlin,Middle,Manager,6,89000,30,English,Product,unlimited,2019
+25,Male,Amsterdam,Middle,Backend Developer & Team Lead,7,89000,29,English,Product,unlimited,2019
+33,Male,Berlin,Senior,Fullstack Developer,10,89000,30,English,Product,unlimited,2019
+40,Male,Berlin,Middle,Architect,10,89000,30,English,Others,unlimited,2020
+36,Male,Rosenheim,Manager,Data Science Manager,12,89200,24,English,Construction,unlimited,2020
+37,Male,Berlin,Lead,Backend Developer,12,89570,30,English,Product,unlimited,2019
+38,Male,Berlin,Lead,Software Engineer,13,89570,30,English,Product,unlimited,2020
+33,Male,Berlin,Senior,DevOps,12,90000,30,English,Product,unlimited,2019
+32,Male,Munich,Senior,DevOps,9,90000,30,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Backend Developer,10,90000,30,English,Product,unlimited,2019
+32,Male,Munich,Senior,Mobile Developer,14,90000,29,English,Product,unlimited,2019
+34,Male,Munich,Senior,Researcher,12,90000,30,English,Product,unlimited,2019
+33,Male,Munich,Lead,Backend Developer,11,90000,28,English,Product,unlimited,2019
+33,Male,Munich,Senior,Backend Developer,11,90000,28,English,Product,unlimited,2019
+30,Male,Berlin,Senior,Data Scientist,8,90000,24,English,Startup,Temporary contract,2019
+26,Male,Stuttgart,Senior,Fullstack Developer,6,90000,26,English,Others,unlimited,2019
+25,Male,Berlin,Senior,Data Scientist,6,90000,30,Deutsch,Product,unlimited,2019
+26,Male,Berlin,Middle,Machine Learning Engineer,7,90000,30,English,Startup,unlimited,2019
+25,Female,Berlin,Senior,Manager,7,90000,28,English,Product,unlimited,2019
+39,Male,Munich,Senior,Manager,20,90000,32,English,Product,unlimited,2019
+29,Male,Berlin,Senior,DevOps,10,90000,24,English,Product,unlimited,2020
+30,Male,Berlin,Middle,Data Scientist,8,90000,27,English,Product,unlimited,2019
+35,Male,Berlin,Senior,Backend Developer,12,90000,24,English,Startup,unlimited,2019
+27,Male,Munich,Senior,Data Scientist,7,90000,28,English,Product,unlimited,2019
+34,Male,Munich,Lead,Fullstack Developer,8,90000,30,English,Product,unlimited,2019
+29,Male,Amsterdam,Senior,Backend Developer,11,90000,25,English,Product,unlimited,2019
+33,Male,Zurich,Senior,Backend Developer,6,90000,24,English,Product,Temporary contract,2019
+29,Male,Berlin,Senior,Data Scientist,7,90000,28,English,Product,unlimited,2019
+33,Male,Amsterdam,Senior,IT Security,13,90000,25,English,Startup,unlimited,2019
+34,Male,Frankfurt,Middle,Data Engineer,4,90000,30,Deutsch,Product,unlimited,2019
+33,Male,Munich,Lead,DevOps,15,90000,30,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,9,90000,30,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Product Manager,10,90000,24,English,Product,unlimited,2020
+37,Male,Berlin,Head,Team Lead,12,90000,30,English,Consulting / Agency,unlimited,2020
+32,Male,Berlin,Lead,Software Engineer,9,90000,25,English,Product,unlimited,2020
+34,Male,Berlin,Senior,ML Engineer,12,90000,27,English,Product,unlimited,2020
+30,Male,Berlin,Lead,DevOps,9,90000,30,English,Product,unlimited,2020
+27,Male,Berlin,Lead,Tech Lead / Full-Stack,5,90000,30,English,Startup,unlimited,2020
+46,Male,Frankfurt,Senior,Software Engineer,23,90000,30,German,Consulting / Agency,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,11,90000,25,English,Product,unlimited,2020
+40,Male,Berlin,Head,Product Manager,13,90000,30,English,Product,unlimited,2020
+31,Male,Berlin,Middle,Data Scientist,5,90000,27,English,Product,unlimited,2020
+30,Male,Berlin,Lead,Data Engineer,5,90000,26,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Backend Developer,13,90000,31,English,Startup,unlimited,2020
+32,Male,Amsterdam,Senior,Backend Developer,15,90000,25,English,Product,unlimited,2020
+27,Male,Berlin,Lead,Software Engineer,2,90000,31,English,Product,unlimited,2020
+40,Male,Berlin,Head,Product Manager,13,90000,30,English,Product,unlimited,2020
+33,Male,Munich,Lead,Software Engineer,11,90000,28,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Software Engineer,8,90000,30,English,Product,unlimited,2020
+33,Male,Berlin,Senior,ML Engineer,10,90000,24,English,Product,unlimited,2020
+32,Male,Berlin,Senior,Senior Data Engineer,9,90000,30,English,Startup,unlimited,2020
+37,Male,Berlin,Lead,Backend Developer,12,90000,28,English,Product,unlimited,2020
+28,Male,Berlin,Senior,Data Engineer,7,90000,27,English,Startup,unlimited,2020
+40,Male,Berlin,Head,Product Manager,13,90000,30,English,Product,unlimited,2020
+33,Male,Heilbronn,Lead,Senior Scrum Master (RTE),7,90000,30,German,Product,unlimited,2020
+24,Male,Berlin,Junior,ML Engineer,3,90000,25,English,Startup,unlimited,2020
+34,Male,Stuttgart ,Head,Software Engineer,6,90000,30,German,Product,unlimited,2020
+35,Male,Frankfurt,Head,Manager ,6,90000,30,English,Product,unlimited,2020
+31,Male,Berlin,Senior,Software Engineer,6,90000,28,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,10,90000,30,English,Product,unlimited,2020
+30,Male,Berlin,Lead,Software Engineer,9,90000,25,English,Product,unlimited,2020
+38,Male,Munich,Senior,Software Engineer,16,90000,36,English,Product,unlimited,2020
+36,Male,Munich,Head,Software Engineer,13,90000,30,English,Product,unlimited,2020
+45,Male,Stuttgart,Head,CTO,27,90000,24,English,Consulting / Agency,unlimited,2020
+45,Male,Munich,Senior,Data architect,19,90000,30,English,Multinational ,unlimited,2020
+40,Male,Munich,Lead,Data Engineer,15,90000,30,English,Product,unlimited,2020
+33,Male,Berlin,Lead,Backend Developer,8,90000,25,English,Product,unlimited,2020
+36,Male,Berlin,Lead,DevOps,15,90000,30,English,Startup,unlimited,2020
+32,Male,Berlin,Senior,Backend Developer,9,90000,34,English,Product,unlimited,2020
+37,Male,Munich,Senior,DevOps,17,90000,30,English,Consulting / Agency,unlimited,2020
+30,Male,Berlin,Senior,Software Engineer,11,90000,29,English,Product,unlimited,2020
+34,Male,Prague,Lead,Backend Developer,14,90000,30,English,Product,unlimited,2020
+38,Male,Berlin,Head,Head of Engineering,18,90000,26,German,Product,unlimited,2020
+33,Male,Berlin,Senior,Backend Developer,11,91000,29,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Business Analyst,8,91000,28,English,Product,unlimited,2019
+34,Male,Berlin,Lead,Software Engineer,16,91000,26,English,Startup,unlimited,2020
+32,Male,Munich,Senior,DevOps,14,92000,30,English,Product,unlimited,2019
+34,Male,Munich,Senior,Backend Developer,11,92000,30,English,Product,unlimited,2019
+34,Male,Munich,Senior,Backend Developer,11,92000,30,English,Product,unlimited,2019
+38,Female,Berlin,Senior,SAP Consultant,10,92000,28,Deutsch,Product,unlimited,2019
+38,Male,Munich,Lead,ML Engineer,10,92000,30,English,Consulting / Agency,unlimited,2020
+38,Male,Berlin,Senior,Software Engineer,12,92000,365,English,Product,unlimited,2020
+29,Male,Berlin,Head,AI Management,6,92000,30,German,Product,unlimited,2020
+32,Male,Copenhagen,Senior,Data Scientist,6,92000,25,English,Startup,unlimited,2020
+31,Male,Munich,Middle,Software Engineer,9,92500,30,English,Product,unlimited,2020
+43,Male,Schleswig-Holstein,Senior,Backend Developer,25,93000,30,Deutsch,Product,unlimited,2019
+36,Male,Munich,Senior,Tech Lead,10,93000,28,English,Startup,unlimited,2019
+45,Male,Schleswig-Holstein,Senior,Software Engineer,26,93000,30,German,Product,unlimited,2020
+41,Male,Berlin,Senior,Backend Developer,20,93000,29,English,Product,unlimited,2020
+33,Male,Berlin,Head,Backend Developer,10,93000,24,English,Startup,unlimited,2020
+39,Female,Munich,Lead,DevOps,11,93000,30,German,Product,unlimited,2020
+26,Male,Munich,Senior,Software Engineer,6,93000,30,English,Startup,unlimited,2020
+40,Male,Berlin,Senior,Software Architect,18,94000,30,English,Product,unlimited,2019
+34,Male,Berlin,Lead,DevOps,12,94000,28,English,Product,unlimited,2020
+36,Male,Berlin,Senior,Manager,14,95000,30,English,Others,unlimited,2019
+40,Male,Frankfurt,Senior,Software Architect,20,95000,30,English,Bodyshop / Outsource,unlimited,2019
+37,Male,Berlin,Senior,Software Architect,15,95000,30,English,Product,unlimited,2019
+38,Male,Hamburg,Senior,Frontend Developer,20,95000,15,Russian,Product,unlimited,2019
+31,Male,Munich,Senior,Software Engineer,11,95000,30,English,Product,unlimited,2019
+28,Male,Berlin,Middle,Data Engineer,2,95000,30,Deutsch,Consulting / Agency,unlimited,2019
+42,Male,Berlin,Senior,Software Architect,20,95000,30,English,Product,unlimited,2019
+28,Male,Berlin,Senior,Data Scientist,5,95000,30,Deutsch,Product,unlimited,2019
+35,Male,Berlin,Senior,Fullstack Developer,16,95000,28,English,Product,unlimited,2019
+30,Male,Frankfurt,Senior,Fullstack Developer,9,95000,27,Deutsch,Product,unlimited,2019
+40,Male,Munich,Senior,Software Architect,22,95000,30,Deutsch,Product,unlimited,2019
+28,Male,Munich,Senior,Frontend Developer,10,95000,30,English,Product,unlimited,2019
+35,Male,Berlin,Lead,Software Engineer,15,95000,30,English,Product,unlimited,2020
+34,Male,Berlin,Lead,Software Engineer,14,95000,30,English,Product,unlimited,2020
+34,Male,Munich,Lead,Software Engineer,12,95000,30,English,Product,unlimited,2020
+32,Male,Berlin,Lead,Engineering Manager,9,95000,365,English,Product,unlimited,2020
+29,Male,Munich,Senior,Backend Developer,8,95000,30,English,Product,unlimited,2020
+34,Male,Munich,Head,Solutions architect,14,95000,24,English,Startup,unlimited,2020
+35,Male,Hamburg,Lead,Software Engineer,13,95000,25,English,Startup,unlimited,2020
+31,Male,Berlin,Lead,Software Engineer,4,95000,28,English,Startup,unlimited,2020
+40,Male,Stuttgart,Senior,Software Engineer,14,95000,24,German,Product,unlimited,2020
+28,Male,Berlin,Senior,Backend Developer,7,95000,28,English,Product,unlimited,2020
+33,Male,Berlin,Lead,Software Engineer,10,95000,30,English,Product,unlimited,2020
+42,Male,Berlin,Lead,Software Engineer,12,95000,30,English,Product,unlimited,2020
+42,Male,Berlin,Lead,Software Engineer,12,95000,30,English,Product,unlimited,2020
+42,Male,Berlin,Lead,Software Engineer,12,95000,30,English,Product,unlimited,2020
+42,Male,Berlin,Lead,Software Engineer,12,95000,30,English,Product,unlimited,2020
+34,Male,Berlin,Senior,Backend Developer,14,95000,28,English,Product,unlimited,2020
+32,Male,Munich,Senior,QA Engineer,12,95000,25,Russian,Product,unlimited,2020
+32,Male,Munich,Middle,Software Engineer,13,95000,30,English,Product,unlimited,2020
+34,Male,Berlin,Lead,Software Engineer,14,95000,30,English,Product,unlimited,2020
+44,Male,Munich,Head,Software Architekt,20,95000,30,German,Product,unlimited,2020
+38,Male,Munich,Senior,Data Analyst,16,95000,30,English,Product,unlimited,2020
+32,Male,Munich,Head,Software Engineer,10,95000,24,English,Startup,unlimited,2020
+41,Male,Berlin,Lead,Software Engineer,19,95500,30,English,Product,unlimited,2020
+32,Female,Berlin,Senior,Backend Developer,12,96000,30,English,Product,Temporary contract,2019
+38,Male,Munich,Senior,Manager,12,96000,30,English,Consulting / Agency,unlimited,2019
+28,Male,Berlin,Senior,Backend Developer,8,96000,28,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Data Scientist,6,96000,30,English,Product,unlimited,2019
+26,Male,Berlin,Senior,Data Scientist,6,96000,30,English,Startup,unlimited,2019
+25,Female,Stuttgart,Senior,SAP Consultant,7,96000,24,Deutsch,Product,unlimited,2019
+39,Male,Munich,Senior,Manager,19,96000,31,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Fullstack Developer,9,96000,28,English,Product,unlimited,2019
+34,Male,Munich,Senior,Manager,12,96000,28,English,Product,unlimited,2019
+34,Male,Munich,Middle,Manager,7,96000,30,English,Product,unlimited,2019
+35,Male,Berlin,Lead,ML Engineer,10,96000,30,English,Product,unlimited,2020
+34,Male,Berlin,Lead,Backend Developer,14,96000,29,English,Startup,unlimited,2020
+32,Male,Munich,Lead,Fullstack Developer,14,98000,30,English,Product,unlimited,2019
+26,Male,Stuttgart,Senior,Machine Learning Engineer,5,98000,24,Deutsch,Product,unlimited,2019
+28,Male,Amsterdam,Senior,Data Scientist,8,98000,30,English,Others,unlimited,2019
+26,Male,Berlin,Senior,Data Scientist,7,98000,25,English,Startup,unlimited,2019
+37,Male,Dublin,Senior,Manager,15,98000,26,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Data Scientist,8,98000,30,English,Product,unlimited,2019
+36,Male,Berlin,Head,Engineering Manager,18,98000,30,English,Product,unlimited,2020
+35,Male,Munich,Senior,Software Engineer,14,98000,30,English,Product,unlimited,2020
+38,Male,Frankfurt,Lead,Tech Lead,16,99000,25,English,Fintech,unlimited,2020
+31,Male,Berlin,Lead,Software Engineer,9,99000,30,English,Startup,unlimited,2020
+41,Male,Munich,Senior,Software Engineer,15,99000,39,German,Product,unlimited,2020
+47,Male,London,Middle,Data Engineer,22,100000,14,English,Product,Temporary contract,2019
+34,Male,Frankfurt,Senior,Software Architect,10,100000,30,English,Product,unlimited,2019
+40,Female,Bayern,Senior,DevOps,19,100000,30,Deutsch,Product,unlimited,2019
+43,Male,Berlin,Senior,Software Engineer,25,100000,24,English,Product,Temporary contract,2020
+27,Male,Berlin,Senior,Researcher,5,100000,30,English,Startup,unlimited,2019
+32,Male,Munich,Senior,Software Architect,8,100000,29,Deutsch,Product,unlimited,2019
+38,Male,Cork,Senior,Software Architect,15,100000,28,English,Product,unlimited,2019
+44,Male,Hamburg,Senior,"CTO (CEO, CFO)",15,100000,28,Deutsch,Product,unlimited,2019
+34,Male,Hamburg,Senior,Data Scientist,9,100000,24,English,Consulting / Agency,unlimited,2019
+35,Male,Berlin,Middle,Manager,7,100000,24,English,Product,unlimited,2019
+38,Male,Amsterdam,Senior,DevOps,5,100000,24,English,Product,Temporary contract,2019
+30,Male,Amsterdam,Senior,Data Engineer,14,100000,25,English,Startup,Temporary contract,2019
+33,Male,Berlin,Senior,Software Architect,15,100000,26,English,Product,Temporary contract,2019
+34,Male,Berlin,Lead,Software Architect,15,100000,24,English,Product,unlimited,2020
+40,Male,Berlin,VP,VP Engineering,10,100000,24,English,Product,unlimited,2020
+32,Male,Berlin,Lead,DevOps Manager,10,100000,30,English,Product,unlimited,2020
+30,Male,Munich,Senior,Software Engineer,7,100000,30,English,Product,unlimited,2020
+33,Male,Munich,Lead,Backend Developer,15,100000,30,English,Startup,unlimited,2020
+35,Male,Frankfurt,Senior,Banker,12,100000,24,English,Bank,unlimited,2020
+25,Male,Berlin,Middle,Solutions Architect,6,100000,30,English,Product,unlimited,2020
+33,Male,Berlin,Director,Director of Engineering,10,100000,30,English,Product,unlimited,2020
+38,Male,Berlin,Head,Data Scientist,15,100000,27,English,Startup,unlimited,2020
+33,Male,Munich,Lead,Software Engineer,9,100000,29,German,Product,unlimited,2020
+41,Male,Berlin,Lead,Software Engineer,18,100000,28,English,Product,unlimited,2020
+38,Male,Berlin,Head,Data Scientist,15,100000,27,English,Startup,unlimited,2020
+32,Male,Berlin,Senior,Software Engineer,11,100000,30,English,Product,unlimited,2020
+35,Male,Berlin,Senior,Consultant,16,100000,30,English,Product,unlimited,2020
+31,Male,Amsterdam,Lead,Data Scientist,10,100000,30,English,Product,unlimited,2020
+31,Male,Munich,Senior,ML Engineer,4,100000,20,English,Product,unlimited,2020
+30,Male,Berlin,Head,Head of BI,7,100000,30,English,Startup,unlimited,2020
+34,Male,City in Russia,Lead,Software Architect,14,100000,30,English,Product,Temporary contract,2020
+35,Male,Berlin,Senior,Software Engineer,20,100000,32,English,Product,unlimited,2020
+36,Male,Berlin,Principal,Software Engineer,10,100000,28,English,Product,unlimited,2020
+28,Male,Zurich,Middle,Software Engineer,6,100000,25,German,Product,unlimited,2020
+33,Male,Berlin,Head,Head of IT,3,100000,32,German,Product,unlimited,2020
+35,Male,Munich,Head,Software Engineer,15,100000,30,English,Consulting / Agency,unlimited,2020
+36,Male,Berlin,Senior,Backend Developer,12,100000,30,English,Startup,unlimited,2020
+33,Male,Munich,Senior,Frontend Developer,10,100000,30,English,Startup,unlimited,2020
+35,Male,Munich,Lead,Software Engineer,12,100000,30,English,Product,unlimited,2020
+52,Male,Stuttgart,Lead,Software Engineer,25,100000,24,English,Consulting / Agency,Temporary contract,2020
+44,Male,Munich,Senior,DevOps,22,101000,30,English,Product,unlimited,2019
+24,Male,Berlin,Senior,Machine Learning Engineer,6,102000,30,Deutsch,Product,unlimited,2019
+37,Male,Berlin,Senior,Backend Developer,12,102000,30,English,Startup,unlimited,2020
+32,Male,Berlin,Senior,Data Scientist,10,103000,25,English,Product,unlimited,2019
+34,Male,Berlin,Senior,DevOps,13,103000,30,English,Product,unlimited,2020
+35,Male,Berlin,Lead,Software Engineer,13,103000,29,English,Startup,unlimited,2020
+28,Male,Berlin,Senior,Data Scientist,8,104000,29,English,Product,unlimited,2019
+26,Male,Berlin,Senior,Machine Learning Engineer,7,105000,24,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Data Scientist,8,105000,27,English,Product,unlimited,2019
+25,Male,Berlin,Head,Data Scientist,4,105000,365,German,Consulting / Agency,unlimited,2020
+37,Male,Stuttgart,Senior,Software Architect,11,105000,30,Deutsch,Product,unlimited,2019
+35,Male,Hamburg,Middle,Manager,9,105000,37,Deutsch,Product,unlimited,2019
+30,Male,Berlin,Senior,Data Scientist,9,105000,28,English,Product,unlimited,2019
+35,Male,Munich,Senior,Software Architect,11,105000,28,English,Product,unlimited,2019
+31,Male,Berlin,Senior,Data Engineer,10,105000,28,English,Product,unlimited,2019
+32,Male,Berlin,Senior,Frontend Developer,10,105000,60,English,Product,Temporary contract,2020
+36,Male,Munich,Lead,Solutions Architect,12,105000,28,English,Product,unlimited,2020
+26,Male,London,Senior,Frontend Developer,8,105000,30,English,Startup,unlimited,2020
+43,Male,Berlin,Lead,Engineering Manager,20,105000,30,English,Product,unlimited,2020
+36,Male,Munich,Senior,DevOps,16,105000,30,English,Product,unlimited,2020
+34,Male,Munich,Lead,Backend Developer,13,105000,30,English,Startup,unlimited,2020
+42,Male,Munich,Senior,Software Architect,20,106000,30,Deutsch,Product,unlimited,2019
+26,Male,Berlin,Lead,Software Architect,8,106000,30,English,Product,unlimited,2019
+30,Male,Amsterdam,Senior,Machine Learning Engineer,11,106000,26,English,Startup,unlimited,2019
+29,Male,Frankfurt,Senior,Data Scientist,8,106000,25,Deutsch,Product,unlimited,2019
+31,Male,Berlin,Senior,Manager,10,106000,27,English,Startup,unlimited,2019
+31,Male,Berlin,Senior,Manager,10,106000,27,English,Startup,unlimited,2019
+36,Male,Zurich,Senior,Data Scientist,5,106000,25,English,Product,unlimited,2020
+44,Male,Munich,Senior,Manager,22,107000,30,Deutsch,Product,unlimited,2019
+35,Male,Berlin,Senior,Tech Lead,16,107000,30,English,Product,unlimited,2019
+32,Male,Berlin,Lead,Data Scientist,9,107000,28,English,Product,unlimited,2019
+37,Male,Amsterdam,Senior,SAP Consultant,13,107000,25,English,Others,unlimited,2019
+33,Male,Berlin,Senior,Software Engineer,11,107000,24,English,Product,unlimited,2020
+30,Male,Amsterdam,Senior,SRE,8,107685,25,English,Product,unlimited,2019
+28,Male,Berlin,Senior,Machine Learning Engineer,10,108000,30,English,Product,unlimited,2019
+26,Male,Frankfurt,Senior,Backend Developer,8,108000,28,English,Others,unlimited,2019
+39,Male,Munich,Lead,Software Engineer,12,108000,24,English,Consulting / Agency,unlimited,2020
+34,Female,Berlin,Principal,Product Manager,13,108000,28,English,Product,unlimited,2020
+39,Female,Stuttgart ,Senior,Project manager ,13,108000,30,German,Automotive ,unlimited,2020
+34,Male,Zurich,Senior,Software Engineer,7,108500,25,English,Startup,unlimited,2020
+41,Female,Munich,Senior,Manager,18,109000,30,Deutsch,Product,unlimited,2019
+26,Male,Berlin,Lead,Backend Developer,7,110000,27,English,Product,unlimited,2019
+28,Male,Munich,Middle,Embedded Developer,8,110000,32,Deutsch,Others,unlimited,2019
+27,Male,Munich,Lead,Machine Learning Engineer,9,110000,30,Deutsch,Startup,unlimited,2019
+28,Male,Berlin,Principal,Software Architect,10,110000,25,English,Product,unlimited,2019
+32,Male,Berlin,Senior,Backend Developer,10,110000,24,Deutsch,Consulting / Agency,Temporary contract,2019
+33,Male,Zurich,Senior,Backend Developer,6,110000,20,Deutsch,Consulting / Agency,unlimited,2019
+35,Male,Frankfurt,Senior,Backend Developer,16,110000,29,English,Product,unlimited,2019
+25,Male,Berlin,Senior,Backend Developer,8,110000,35,English,Product,unlimited,2019
+32,Male,Berlin,Senior,Data Scientist,10,110000,28,English,Product,unlimited,2019
+50,Male,Frankfurt,Senior,Manager,28,110000,24,English,Consulting / Agency,Temporary contract,2019
+50,Male,Frankfurt,Senior,Manager,28,110000,24,English,Consulting / Agency,Temporary contract,2019
+32,Male,Berlin,Head,Data Scientist,10,110000,30,English,Consulting / Agency,unlimited,2020
+48,Male,London,Senior,Data Engineer,23,110000,24,English,Personal Ltd,Temporary contract,2020
+33,Male,Berlin,Senior,Backend Developer,13,110000,24,English,Product,unlimited,2020
+31,Male,Minsk,Senior,Frontend Developer,6,110000,30,English,Product,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,10,110000,30,English,Product,unlimited,2020
+54,Male,Milano,Head,Sales ,31,110000,29,English,Consulting / Agency,unlimited,2020
+36,Male,Prefer not to say,Senior,ML Engineer,6,110000,30,English,Startup,unlimited,2020
+31,Male,Frankfurt,Lead,Product Manager,8,110000,35,English,Product,unlimited,2020
+56,Male,Munich,Lead,Software Engineer,30,110000,25,English,Product,unlimited,2020
+38,Male,Berlin,Lead,Data Scientist,6,110000,28,English,Product,unlimited,2020
+39,Male,Munich,Lead,IT Operations Manager,15,110000,28,English,eCommerce,unlimited,2020
+28,Male,Berlin,Senior,Researcher,9,112000,24,English,Product,unlimited,2019
+34,Male,Munich,Senior,Software Architect,13,112000,26,Deutsch,Startup,unlimited,2019
+30,Male,Munich,Senior,Backend Developer,9,112000,30,Deutsch,Consulting / Agency,unlimited,2019
+40,Male,Munich,Senior,Mobile Developer,12,113000,30,English,Product,unlimited,2019
+29,Male,London,Senior,Software Engineer,9,113000,25,English,Corporation ,unlimited,2020
+38,Male,Munich,Lead,Fullstack Developer,17,114000,24,English,Product,unlimited,2019
+30,Male,Berlin,Lead,Data Scientist,6,115000,28,English,Startup,unlimited,2019
+30,Male,Munich,Principal,Backend Developer,11,115000,28,English,Product,unlimited,2019
+49,Male,Milan,Senior,Manager,24,115000,20,Italian,Product,Temporary contract,2019
+33,Male,Berlin,Senior,Head of Engineering,16,115000,28,English,Product,unlimited,2019
+31,Male,Berlin,Lead,Backend Developer,10,115000,30,English,Startup,unlimited,2019
+32,Male,Munich,Lead,Machine Learning Engineer,12,115000,30,English,Product,unlimited,2019
+33,Male,Munich,Lead,Machine Learning Engineer,12,115000,30,Deutsch,Startup,unlimited,2019
+31,Male,Berlin,Lead,Data Scientist,10,115000,28,English,Product,unlimited,2020
+31,Male,Salzburg,C-level executive manager,Chief Research Officer,10,115000,25,English,Startup,unlimited,2020
+30,Male,Berlin,Lead,Software Engineer,10,115000,28,English,Consulting / Agency,unlimited,2020
+29,Male,Basel,Lead,Data Scientist,5,115000,25,English,Pharma,unlimited,2020
+43,Male,Munich,Lead,Product Manager,18,115000,25,English,Product,unlimited,2020
+30,Male,Munich,Senior,Cloud Platform Engineer,15,117000,30,English,Others,unlimited,2019
+35,Male,Munich,Principal,Software Architect,15,120000,30,Deutsch,Consulting / Agency,unlimited,2019
+24,Female,Bern,Middle,QA,5,120000,25,Deutsch,Product,unlimited,2019
+34,Male,Munich,Senior,Backend Developer,10,120000,20,English,Consulting / Agency,Temporary contract,2019
+33,Male,Berlin,Senior,Software Architect,12,120000,30,English,Product,unlimited,2019
+38,Male,Berlin,Senior,Manager,9,120000,25,English,Product,unlimited,2019
+38,Male,Munich,Senior,Software Architect,17,120000,28,English,Product,unlimited,2019
+30,Male,Munich,Senior,Software Architect,10,120000,35,English,Product,unlimited,2019
+35,Male,Munich,Senior,Software Architect,15,120000,24,Russian,Product,unlimited,2019
+28,Male,Munich,Senior,Software Architect,9,120000,30,English,Others,unlimited,2019
+27,Female,Zurich,Middle,Machine Learning Engineer,8,120000,25,English,Product,Temporary contract,2019
+33,Male,Munich,Senior,Fullstack Developer,15,120000,25,English,Product,unlimited,2019
+42,Male,Berlin,Senior,"CTO (CEO, CFO)",20,120000,24,English,Startup,unlimited,2019
+28,Female,London,Senior,Data Scientist,7,120000,25,English,Consulting / Agency,Temporary contract,2019
+39,Male,Dubai,Senior,Researcher,18,120000,20,English,Startup,Temporary contract,2019
+33,Male,Munich,Senior,Backend Developer,12,120000,30,Deutsch,Consulting / Agency,unlimited,2019
+40,Male,Munich,Senior,Manager,16,120000,30,English,Product,unlimited,2019
+29,Male,Berlin,Lead,Software Engineer,12,120000,30,English,Product,Temporary contract,2020
+35,Male,Frankfurt,Senior,ML Engineer,12,120000,30,English,Product,unlimited,2020
+34,Male,Munich,Lead,Consultant,17,120000,32,German,Consulting / Agency,unlimited,2020
+34,Male,Munich,Senior,Cloud Architect,10,120000,30,English,Cloud,unlimited,2020
+33,Male,Berlin,Senior,Software Engineer,12,120000,28,English,Product,Temporary contract,2020
+39,Male,Berlin,Lead,Product Manager,10,120000,25,English,Product,unlimited,2020
+33,Male,Berlin,Lead,Software Engineer,12,120000,30,English,Product,unlimited,2020
+32,Male,Berlin,Lead,Software Engineer,10,120000,0,Deuglisch,Concern,Temporary contract,2020
+26,Male,Berlin,Head,Architect ,9,120000,24,English,Product,unlimited,2020
+41,Male,Berlin,Senior,Software Engineer,18,120000,30,English,Startup,unlimited,2020
+36,Male,Berlin,Lead,Backend Developer,16,120000,30,English,Startup,unlimited,2020
+37,Male,Munich,Senior,Software Engineer,15,120000,30,English,Product,unlimited,2020
+39,Male,Munich,Lead,Software Architect,20,122000,28,English,Product,unlimited,2020
+41,Male,Munich,Senior,Senior Program Manager,19,123600,33,English,Product,unlimited,2020
+30,Male,Berlin,Senior,Software Architect,11,124000,32,English,Product,unlimited,2019
+36,Male,Berlin,Head,DevOps,17,124000,28,English,Product,unlimited,2020
+32,Male,Munich,Senior,Data Scientist,12,125000,30,Deutsch,Product,unlimited,2019
+29,Male,Berlin,Lead,Data Scientist,10,125000,30,English,Product,unlimited,2019
+27,Male,Berlin,Senior,Data Scientist,5,125000,20,Russian,Consulting / Agency,unlimited,2019
+49,Male,Munich,Senior,DevOps,25,125000,30,Deutsch,Product,Temporary contract,2019
+31,Male,Munich,Lead,Machine Learning Engineer,9,125000,30,Deutsch,Startup,unlimited,2019
+31,Male,Munich,Lead,Machine Learning Engineer,9,125000,30,Deutsch,Startup,unlimited,2019
+34,Male,Munich,Senior,Manager,13,125000,32,Deutsch,Product,unlimited,2019
+29,Male,Berlin,Lead,Machine Learning Engineer,9,128000,30,English,Product,unlimited,2019
+30,Male,Amsterdam,Lead,Data Scientist,11,128000,30,English,Others,unlimited,2019
+29,Male,Munich,Senior,Researcher,9,130000,30,English,Product,unlimited,2019
+28,Male,Munich,Lead,Data Scientist,8,130000,32,English,Product,unlimited,2019
+31,Male,Munich,Senior,SAP Consultant,8,130000,30,English,Product,unlimited,2019
+30,Male,Kyiv,Senior,DevOps,8,130000,21,English,Bodyshop / Outsource,unlimited,2019
+32,Male,Berlin,Head,Data Scientist,10,130000,30,English,Startup,unlimited,2019
+33,Diverse,Hamburg,Middle,Software Engineer,1,130000,30,English,Product,unlimited,2020
+37,Male,Zurich,Middle,Project manager,20,130000,25,English,Consulting / Agency,unlimited,2020
+38,Male,Berlin,Head,Tech Leader,24,130000,30,English,Product,unlimited,2020
+38,Male,Berlin,Head,Head of Engineering,20,130000,30,English,Corporation,unlimited,2020
+39,Male,Munich,Senior,Software Engineer,8,130000,30,English,Product,unlimited,2020
+32,Male,Munich,Lead,ERP Consultant,10,130000,30,English,Product,unlimited,2020
+41,Male,Heidelberg,Senior,Data Scientist,10,133000,28,English,Startup,unlimited,2019
+39,Male,Munich,Senior,Data Scientist,13,135000,30,English,Product,unlimited,2019
+40,Male,Berlin,Lead,Backend Developer,14,135000,30,English,Product,Temporary contract,2020
+35,Female,Berlin,Senior,Data Scientist,10,140000,30,English,Startup,unlimited,2019
+41,Male,Berlin,Senior,Crypto Developer,20,140000,20,English,Consulting / Agency,unlimited,2019
+35,Male,Munich,Lead,Software Engineer,13,140000,28,English,Consulting / Agency,unlimited,2020
+29,Male,Berlin,Lead,DevOps,11,140000,5,English,Startup,unlimited,2020
+31,Male,Berlin,Senior,Backend Developer,12,150000,30,English,Product,unlimited,2019
+34,Male,Berlin,Senior,Software Engineer,15,150000,30,English,Others,unlimited,2020
+36,Male,Munich,Senior,Mobile Developer,20,150000,60,Deutsch,Bodyshop / Outsource,unlimited,2019
+31,Male,Berlin,Senior,Head of AI,5,150000,28,English,Product,unlimited,2019
+30,Male,Zurich,Middle,SRE,6,150000,25,English,Product,unlimited,2019
+33,Male,Berlin,Lead,Data Scientist,5,150000,24,English,Product,unlimited,2020
+30,Male,Berlin,Head,Product Manager,7,150000,25,English,Startup,unlimited,2020
+36,Male,Berlin,C-Level,CTO,15,150000,30,German,Media,unlimited,2020
+30,Male,Munich,Senior,Software Sales,12,150000,28,English,Product,unlimited,2020
+30,Male,Munich,Senior,Software Engineer,10,151872,30,English,Startup,unlimited,2020
+33,Male,Berlin,Senior,Backend Developer,11,154000,22,German,Startup,Temporary contract,2020
+28,Female,Warsaw,Senior,Fullstack Developer,5,155000,32,Polish+English,Consulting / Agency,unlimited,2019
+37,Male,Malta,Head,Software Architect,18,156000,0,English,Startup,unlimited,2020
+22,Diverse,Cologne,Head,QA Engineer,1,159000,45,German,Product,unlimited,2020
+32,Male,Frankfurt,Senior,DevOps,12,160000,30,Deutsch,Others,unlimited,2019
+34,Male,Zug,Senior,Backend Developer,12,160000,25,English,Product,unlimited,2019
+40,Male,Munich,Senior,Fullstack Developer,15,160000,20,Deutsch,Consulting / Agency,Temporary contract,2019
+40,Male,Munich,Senior,Software Engineer,18,160000,15,German,Consulting / Agency,Temporary contract,2020
+28,Male,Frankfurt,Senior,Lawyer ,7,170000,30,English,Consulting / Agency,unlimited,2019
+36,Male,Zurich,Senior,Backend Developer,15,172000,25,English,Product,unlimited,2020
+40,Male,Frankfurt,Senior,SAP Consultant,14,175000,15,English,Product,Temporary contract,2019
+39,Male,Berlin,Head,Manager,11,180000,28,English,Product,unlimited,2020
+26,Male,Munich,Senior,ML Engineer,5,180000,40,German,Consulting / Agency,Temporary contract,2020
+29,Male,Berlin,Senior,Backend Developer,11,190000,9,English,Startup,unlimited,2019
+45,Female,Munich,Senior,Backend Developer,20,200000,26,Deutsch,Product,unlimited,2019
+32,Male,Berlin,CTO,CTO,10,200000,28,English,Product,unlimited,2020
+38,Male,Berlin,Head,Freelance AI lead / advisor,20,200000,30,English,Consulting / Agency,unlimited,2020
+35,Male,Berlin,Senior,Data Engineer,6,200000,14,English,Startup,Temporary contract,2020
+45,Male,Munich,Self employed,Software Engineer,20,200000,30,German,freelance,unlimited,2020
+31,Male,Berlin,Head,"CTO (CEO, CFO)",12,210000,32,English,Product,unlimited,2019
+24,Male,Munich,Senior,Platform Engineer,10,210000,30,English,Product,Temporary contract,2019
+31,Male,Zug,Senior,Backend Developer,12,216000,30,Deutsch,Product,unlimited,2019
+20,Male,Berlin,Lead,Mobile Developer,5,240000,27,English,Product,unlimited,2020
+40,Male,Cupertino,Lead,Software Engineer,20,250000,45,English,Product,unlimited,2020
+24,Male,Munich,Junior,Data Scientist,1,300000,30,English,Startup,unlimited,2020
+42,Male,Berlin,Senior,Frontend Developer,18,850000,35,English,Product,unlimited,2020
+29,Female,Cologne,Middle,ML Engineer,1,500000000,99,English,Startup,unlimited,2020
